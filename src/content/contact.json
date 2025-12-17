@@ -67,9 +67,9 @@
     "locations": [
       {
         "name": "Head Office - Gurugram",
-        "address": "Sector 15 Part-II, Basement, Gurugram, Haryana 122001, India",
-        "phone": "+91 98765 43210",
-        "email": "info@adroitgrow.com",
+        "address": "851 Sector 15 Part-II, Basement, Gurugram, Haryana 122001, India",
+        "phone": "+91 9810324201",
+        "email": "manish.bhatnagar@adroitgrow.com",
         "hours": "Mon-Sat: 9:00 AM - 6:00 PM"
       }
     ]
@@ -87,20 +87,20 @@
       {
         "icon": "mail",
         "label": "Email Us",
-        "value": "info@adroitgrow.com",
-        "href": "mailto:info@adroitgrow.com"
+        "value": "manish.bhatnagar@adroitgrow.com",
+        "href": "mailto:manish.bhatnagar@adroitgrow.com"
       },
       {
         "icon": "phone",
         "label": "Call Us",
-        "value": "+91 98765 43210",
-        "href": "tel:+919876543210"
+        "value": "+91 9810324201",
+        "href": "tel:+919810324201"
       },
       {
-        "icon": "linkedin",
-        "label": "LinkedIn",
-        "value": "AdroitGrow",
-        "href": "https://www.linkedin.com/company/adroitgrow"
+        "icon": "globe",
+        "label": "Website",
+        "value": "www.adroitgrow.com",
+        "href": "https://www.adroitgrow.com"
       }
     ]
   }

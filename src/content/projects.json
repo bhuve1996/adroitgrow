@@ -37,11 +37,11 @@
       "id": "helious-ghiloth",
       "title": "Helious Specialty Gases",
       "slug": "helious-specialty-gases-ghiloth",
-      "location": "Ghiloth, Rajasthan",
-      "year": 2020,
+      "location": "Ghiloth Industrial Area, Rajasthan",
+      "year": 2022,
       "category": "Industrial Design",
       "industry": "Specialty Gases",
-      "description": "A comprehensive industrial gas manufacturing facility designed with focus on safety, efficiency, and regulatory compliance. The project included complete architectural design, structural engineering, MEP systems, and specialized gas handling infrastructure.",
+      "description": "Helios Specialty Gases Pvt. Ltd is an industrial and specialty gases importer, manufacturer, and distributor in India. Deals into Pure gases, Rare Gases, Helium, Calibration Gas Standards, Specialty Gases, Hydrocarbons, Gas Cylinders, Gas Regulators, and Gas Handling Equipment sourced from globally renowned companies.",
       "shortDescription": "Industrial gas manufacturing facility with specialized infrastructure for gas processing and storage.",
       "image": "/images/projects/helious-ghiloth.jpg",
       "gallery": [
@@ -50,17 +50,18 @@
         "/images/projects/helious-ghiloth-3.jpg"
       ],
       "scope": [
-        "Master planning and site development",
+        "Design & Project Management",
+        "PEB Building Design",
         "Industrial building design",
         "Process area layout",
         "Utility infrastructure",
-        "Safety systems integration",
-        "Regulatory approvals"
+        "Safety systems integration"
       ],
       "stats": {
-        "area": "25,000 sq.ft.",
-        "duration": "12 months",
-        "type": "Greenfield"
+        "plotArea": "5 Acre (20000 sqm)",
+        "coveredArea": "Phase-1/6000 sqm",
+        "buildingType": "PEB Building",
+        "status": "Complete"
       },
       "testimonial": {
         "name": "Rajesh Kumar",
@@ -72,13 +73,13 @@
     },
     {
       "id": "helious-hyderabad",
-      "title": "Helious Specialty Gases",
+      "title": "Helious Specialty Gases Pvt. Ltd.",
       "slug": "helious-specialty-gases-hyderabad",
-      "location": "Hyderabad, Telangana",
-      "year": 2021,
+      "location": "Jadcherla, Hyderabad",
+      "year": 2022,
       "category": "Industrial Design",
       "industry": "Specialty Gases",
-      "description": "Expansion facility for Helious Specialty Gases in Hyderabad, designed to meet growing demand in the southern region. The project incorporated lessons from the Ghiloth facility while adapting to local requirements.",
+      "description": "Helious Specialty Gases Pvt. Ltd. is an industrial and specialty gases importer, manufacturer, and distributor in India. Deals into Pure gases, Rare Gases, Helium, Calibration Gas Standards, Specialty Gases, Hydrocarbons, Gas Cylinders, Gas Regulators, and Gas Handling Equipment sourced from globally renowned companies.",
       "shortDescription": "Regional expansion facility for specialty gas manufacturing and distribution.",
       "image": "/images/projects/helious-hyderabad.jpg",
       "gallery": [
@@ -86,15 +87,17 @@
         "/images/projects/helious-hyderabad-2.jpg"
       ],
       "scope": [
-        "Facility design and planning",
+        "Design & Supervision",
+        "PEB Building Design",
         "Structural engineering",
         "MEP systems",
         "Safety compliance"
       ],
       "stats": {
-        "area": "18,000 sq.ft.",
-        "duration": "10 months",
-        "type": "Greenfield"
+        "plotArea": "6176 sqmtr",
+        "coveredArea": "20000 sqmtr",
+        "buildingType": "PEB Building",
+        "status": "Complete"
       }
     },
     {
@@ -105,77 +108,80 @@
       "year": 2021,
       "category": "Industrial Design",
       "industry": "Manufacturing",
-      "description": "Manufacturing facility for Unique Bimetal Industries specializing in precision engineering components. The design focused on optimizing production flow while ensuring worker comfort and safety.",
-      "shortDescription": "Precision manufacturing facility with optimized production layout and worker amenities.",
+      "description": "Unique Bimetals is a professional Manufacturer & Supplier of different metal powder in different particle sizes. We offer a wide array of Bi-Metal Strips and Copper Alloy Powder for different applications.",
+      "shortDescription": "Professional Manufacturer & Supplier of metal powder and Bi-Metal Strips.",
       "image": "/images/projects/unique-bimetal.jpg",
       "gallery": [
         "/images/projects/unique-bimetal-1.jpg",
         "/images/projects/unique-bimetal-2.jpg"
       ],
       "scope": [
+        "Design Consultancy",
         "Factory building design",
         "Production layout optimization",
-        "MEP infrastructure",
-        "Admin and amenity blocks"
+        "MEP infrastructure"
       ],
       "stats": {
-        "area": "30,000 sq.ft.",
-        "duration": "14 months",
-        "type": "Greenfield"
+        "plotArea": "4000 sqmtr",
+        "coveredArea": "37660 sqft (3500 smtr)",
+        "buildingType": "Industrial",
+        "status": "Running"
       }
     },
     {
       "id": "grindlays-engine",
-      "title": "Grindlays Engine Parts",
+      "title": "Grind Tech Engines Pvt Ltd",
       "slug": "grindlays-engine-parts-ghiloth",
       "location": "Ghiloth, Rajasthan",
       "year": 2022,
       "category": "Design-Build",
       "industry": "Automotive",
-      "description": "Turnkey design-build project for an automotive component manufacturing facility. The project was delivered under accelerated timelines to meet the client's market requirements.",
-      "shortDescription": "Automotive component manufacturing facility delivered through design-build approach.",
+      "description": "Grind Tech Engines Pvt Ltd is a certified manufacturer of high performance engine parts in India with a strong presence in the international market. They manufacture Liner and Sleeves, Piston, Piston Rings, Piston Pins, Cylinder Blocks, Engine Valves, Valves Seat Inserts, Valves Guide, Bimetallic Bushes and Bearing. This Company supplies to various Automobile and Industrial Companies in the European Market, the US Market & the Asian Market.",
+      "shortDescription": "Certified manufacturer of high performance engine parts with global presence.",
       "image": "/images/projects/grindlays.jpg",
       "gallery": [
         "/images/projects/grindlays-1.jpg",
         "/images/projects/grindlays-2.jpg"
       ],
       "scope": [
+        "Design Consultancy",
         "Design-build delivery",
-        "Fast-track execution",
         "Complete MEP systems",
         "Quality testing facilities"
       ],
       "stats": {
-        "area": "22,000 sq.ft.",
-        "duration": "8 months",
-        "type": "Design-Build"
+        "plotArea": "2 Acre (8000 sqmtr)",
+        "coveredArea": "6000 sqmtr",
+        "buildingType": "Industrial",
+        "status": "Complete"
       }
     },
     {
       "id": "ample-auto",
-      "title": "Ample Auto Tech",
+      "title": "Ample Auto Tech Pvt Ltd",
       "slug": "ample-auto-tech-imt-manesar",
       "location": "IMT Manesar, Haryana",
-      "year": 2022,
+      "year": 2023,
       "category": "Industrial Design",
       "industry": "Automotive",
-      "description": "Automotive manufacturing facility in the heart of Manesar's industrial belt. The design incorporated specific requirements for automotive component production including clean room areas and testing zones.",
-      "shortDescription": "Automotive manufacturing facility with specialized production and testing areas.",
+      "description": "Ample Auto Tech Pvt Ltd is a leading Manufacturer and Exporter of Steering & Suspension Parts in India. Their products are applicable to all segments of the automobile industry ranging from commercial vehicles, heavy duty vehicles, passenger vehicles, agricultural vehicles etc.",
+      "shortDescription": "Leading Manufacturer and Exporter of Steering & Suspension Parts in India.",
       "image": "/images/projects/ample-auto.jpg",
       "gallery": [
         "/images/projects/ample-auto-1.jpg",
         "/images/projects/ample-auto-2.jpg"
       ],
       "scope": [
+        "Design Consultancy",
         "Industrial architecture",
-        "Clean room design",
-        "Testing facility setup",
+        "RCC Building Design",
         "HVAC and utilities"
       ],
       "stats": {
-        "area": "35,000 sq.ft.",
-        "duration": "12 months",
-        "type": "Greenfield"
+        "plotArea": "4050 sqmtr",
+        "coveredArea": "6000 smtr",
+        "buildingType": "RCC Building",
+        "status": "Complete"
       },
       "testimonial": {
         "name": "Priya Sharma",
@@ -190,47 +196,49 @@
       "title": "Ajay Air Products",
       "slug": "ajay-air-products-imt-faridabad",
       "location": "IMT Faridabad, Haryana",
-      "year": 2023,
-      "category": "Project Management",
-      "industry": "Manufacturing",
-      "description": "Project management services for an industrial air products facility. Our role included coordinating multiple contractors and ensuring timely delivery of this complex project.",
-      "shortDescription": "Project management for industrial air products manufacturing facility.",
+      "year": 2020,
+      "category": "Industrial Design",
+      "industry": "Specialty Gases",
+      "description": "Ajay Air is a leading industrial and specialty gas importer, manufacturer, and distributor in India. Deals in Pure gases, Rare Gases, Calibration Gas Standards, Specialty Gases, Hydrocarbons, Bulk Cryogenic Liquids, Gas Cylinders, Gas Regulators and Gas Handling Equipment sourced from globally renowned companies.",
+      "shortDescription": "Leading industrial and specialty gas manufacturer and distributor in India.",
       "image": "/images/projects/ajay-air.jpg",
       "gallery": ["/images/projects/ajay-air-1.jpg"],
       "scope": [
-        "Project management",
-        "Contractor coordination",
+        "Design & Consultancy",
+        "Industrial building design",
         "Quality assurance",
-        "Timeline management"
+        "Project coordination"
       ],
       "stats": {
-        "area": "28,000 sq.ft.",
-        "duration": "10 months",
-        "type": "Project Management"
+        "plotArea": "1800 sqmtr",
+        "coveredArea": "2160 sqmtr",
+        "buildingType": "Industrial",
+        "status": "Complete"
       }
     },
     {
       "id": "jmd-scientific",
-      "title": "JMD Scientific Equipment",
+      "title": "JMD Scientific Equipment Pvt Ltd",
       "slug": "jmd-scientific-equipment-met-reliance",
-      "location": "Met Reliance, Haryana",
+      "location": "MET Reliance, Jhajjar, Haryana",
       "year": 2023,
       "category": "Industrial Design",
       "industry": "Scientific Equipment",
-      "description": "Specialized facility for scientific equipment manufacturing requiring controlled environment conditions and precision assembly areas.",
-      "shortDescription": "Scientific equipment manufacturing facility with controlled environment zones.",
+      "description": "JMD Scientific Equipment Pvt Ltd is headquartered in Gurgaon, Haryana and is a leading manufacturer, supplier and exporter of Physics, Chemistry and General Lab Equipment. Having fully equipped Tool Room for making all types of Sheet metal and Plastic tools with Injection molding facility.",
+      "shortDescription": "Leading manufacturer of Physics, Chemistry and General Lab Equipment.",
       "image": "/images/projects/jmd-scientific.jpg",
       "gallery": ["/images/projects/jmd-scientific-1.jpg"],
       "scope": [
+        "Design Consultancy & Project Management",
         "Facility design",
-        "Clean room integration",
-        "Precision environment control",
-        "Quality lab setup"
+        "Tool Room setup",
+        "Injection molding facility"
       ],
       "stats": {
-        "area": "15,000 sq.ft.",
-        "duration": "8 months",
-        "type": "Greenfield"
+        "plotArea": "1 Acre (4000 sqmtr)",
+        "coveredArea": "3000 sqmtr",
+        "buildingType": "Industrial",
+        "status": "Complete"
       }
     },
     {

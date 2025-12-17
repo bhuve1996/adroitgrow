@@ -1,8 +1,8 @@
 {
   "hero": {
-    "title": "Building Tomorrow's Industries",
-    "subtitle": "Progressive Architectural and Engineering Excellence",
-    "description": "From concept to completion, we deliver turnkey industrial and commercial solutions with precision, innovation, and unwavering commitment to quality.",
+    "title": "Empowering Growth With Professionals",
+    "subtitle": "Specialized in Industrial Greenfield Projects",
+    "description": "From Concept Design to Productive Stage - We deliver turnkey industrial and commercial solutions with precision, innovation, and unwavering commitment to quality.",
     "backgroundImage": "/images/hero/industrial-hero.jpg",
     "cta": [
       {
@@ -18,13 +18,13 @@
     ]
   },
   "aboutSnapshot": {
-    "title": "Engineering Excellence Since 2019",
-    "description": "AdroitGrow Private Limited is a progressive Architectural and Engineering firm providing high-quality services for both industrial and commercial sectors. We offer single-window, one-stop solutions with emphasis on cost control and value additions using current technologies.",
+    "title": "20+ Years of Engineering Excellence",
+    "description": "Adroit Grow Private Limited founded by Mr. Manish Bhatnagar, a Civil Engineer with vast experience of 20+ years executing Industrial, Commercial & Interior Spaces. We provide a single window one-stop solution with emphasis on cost control & value additions by utilizing current Technologies & hands-on industrial experience.",
     "highlights": [
-      "20+ Years of Industry Expertise",
+      "150+ Projects Successfully Completed",
+      "70+ Industrial Projects in IMT Manesar",
       "Single Window Solution Provider",
-      "Cost-Optimized Engineering",
-      "On-Time Project Delivery"
+      "Expertise in Civil, HVAC, Plumbing, Electrical, Solar, PEB"
     ],
     "cta": {
       "label": "Learn More About Us",
@@ -139,19 +139,19 @@
       "suffix": "+"
     },
     {
-      "value": "100",
+      "value": "150",
       "label": "Projects Completed",
       "suffix": "+"
     },
     {
-      "value": "50",
-      "label": "Happy Clients",
+      "value": "70",
+      "label": "Industrial Projects in IMT Manesar",
       "suffix": "+"
     },
     {
       "value": "10",
       "label": "States Covered",
-      "suffix": ""
+      "suffix": "+"
     }
   ],
   "ctaSection": {

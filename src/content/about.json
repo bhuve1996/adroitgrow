@@ -8,13 +8,13 @@
   },
   "company": {
     "title": "Our Story",
-    "description": "AdroitGrow Private Limited is a progressive Architectural and Engineering firm specializing in Industrial design, Project Management, and Corporate Interiors. Established in 2019, we provide high-quality services for both industrial and commercial sectors, offering single-window, one-stop solutions with emphasis on cost control and value additions using current technologies.\n\nOur comprehensive approach covers everything from initial concept development to final project handover, ensuring seamless execution and superior quality at every stage.",
+    "description": "Adroit Grow Private Limited founded by Mr. Manish Bhatnagar, a Civil Engineer with vast experience of 20+ years executing Industrial, Commercial & Interior Spaces. In his career, He has executed 150+ projects successfully with more than 70 Industrial projects in IMT Manesar itself.\n\nWith a deep knowledge of technical know-how of Civil, HVAC, Plumbing, Electrical, Solar, PEB Structures and farsightedness, he is an expert of Project Management of handling multiple projects at a time. He has done projects for a mix of clients including Japanese Multinationals, Indian Conglomerates, SMEs, Automobile ancillaries, Garment manufacturing Units, Plastic Injection Molding Factories, Engineering Industries and specialized in the Tire Industry.\n\nAdroit Grow provides a single window one-stop solution to their customer with an emphasis on cost control & value additions by utilizing current Technologies & hands-on industrial experience.",
     "highlights": [
-      "Founded in 2019 with 20+ years of leadership experience",
-      "Specialized in Industrial, Commercial, and Corporate projects",
+      "20+ years of industry expertise with 150+ projects completed",
+      "70+ Industrial projects in IMT Manesar alone",
+      "Specialized in Industrial greenfield projects from Concept Design to Productive stage",
       "Single-window solution provider for end-to-end project delivery",
-      "Emphasis on cost optimization and value engineering",
-      "Pan-India presence with projects across 10+ states"
+      "Expertise in Civil, HVAC, Plumbing, Electrical, Solar, PEB Structures"
     ],
     "image": "/images/about/company.jpg"
   },
@@ -69,7 +69,7 @@
         "id": "manish-bhatnagar",
         "name": "Manish Bhatnagar",
         "role": "Founder & Managing Director",
-        "bio": "A Civil Engineer with over two decades of experience in executing Industrial, Commercial, and Corporate Interior projects. Mr. Bhatnagar leads and coordinates multidisciplinary projects including civil, HVAC, plumbing, solar, electrical, and PEB structural design. His expertise spans across project conceptualization, detailed engineering, procurement, and successful execution of turnkey projects.",
+        "bio": "A Civil Engineer with vast experience of 20+ years executing Industrial, Commercial & Interior Spaces. He has executed 150+ projects successfully with more than 70 Industrial projects in IMT Manesar itself. With deep knowledge of technical know-how of Civil, HVAC, Plumbing, Electrical, Solar, PEB Structures and farsightedness, he is an expert of Project Management of handling multiple projects at a time. He has done projects for Japanese Multinationals, Indian Conglomerates, SMEs, Automobile ancillaries, Garment manufacturing Units, Plastic Injection Molding Factories, Engineering Industries and specialized in the Tire Industry. Passionate about his work and each site, Energetic, People-Centric, his experience and insights are taking Adroit Grow to newer heights.",
         "image": "/images/team/manish-bhatnagar.jpg",
         "linkedin": "https://www.linkedin.com/in/manishbhatnagar",
         "email": "manish.bhatnagar@adroitgrow.com"
