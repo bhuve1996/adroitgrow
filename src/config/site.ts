@@ -1,18 +1,19 @@
 import { type SiteConfig } from '@/types'
 
 export const siteConfig: SiteConfig = {
-  name: 'AdroitGrow Private Limited',
-  shortName: 'AdroitGrow',
+  name: 'Adroit Grow Private Limited',
+  shortName: 'Adroit Grow',
   description:
     'Progressive Architectural and Engineering firm specializing in Industrial design, Project Management & Corporate Interiors. Single window one-stop solution with emphasis on cost control & value additions.',
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.adroitgrow.com',
   ogImage: '/images/og-image.jpg',
+  logo: '/images/logo.svg',
   founder: 'Manish Bhatnagar',
   foundedYear: 2019,
-  email: 'info@adroitgrow.com',
-  phone: '+91 98765 43210',
+  email: 'manish.bhatnagar@adroitgrow.com',
+  phone: '+91 9810324201',
   address: {
-    street: 'Sector 15 Part-II, Basement',
+    street: '851 Sector 15 Part-II, Basement',
     city: 'Gurugram',
     state: 'Haryana',
     postalCode: '122001',
@@ -30,8 +31,8 @@ export const siteConfig: SiteConfig = {
 // Company statistics - easily updateable
 export const companyStats = {
   yearsExperience: 20,
-  projectsCompleted: 100,
-  clientsServed: 50,
+  projectsCompleted: 150,
+  industrialProjectsManesar: 70,
   statesOperated: 10,
 }
 

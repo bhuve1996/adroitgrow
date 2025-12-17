@@ -29,9 +29,9 @@ export const defaultSEO: SEOConfig = {
 // SEO configurations for all pages
 export const pageSEO: Record<string, SEOConfig> = {
   home: {
-    title: 'Industrial Architecture, Engineering & Project Management | AdroitGrow',
+    title: 'Industrial Architecture, Engineering & Project Management | Adroit Grow',
     description:
-      'AdroitGrow is a leading industrial architectural and engineering firm providing turnkey design, project management and corporate interiors with 20+ years expertise.',
+      'Adroit Grow is a leading industrial architectural and engineering firm providing turnkey design, project management and corporate interiors with 20+ years expertise.',
     keywords: [
       'industrial architecture',
       'engineering design',
@@ -70,11 +70,11 @@ export const pageSEO: Record<string, SEOConfig> = {
   },
 
   about: {
-    title: 'About Us | AdroitGrow – Industrial Architecture & Engineering Firm',
+    title: 'About Us | Adroit Grow – Industrial Architecture & Engineering Firm',
     description:
-      'AdroitGrow is a progressive engineering and architectural firm led by industry veteran Manish Bhatnagar with 20+ years of industrial project expertise.',
+      'Adroit Grow is a progressive engineering and architectural firm led by industry veteran Manish Bhatnagar with 20+ years of industrial project expertise.',
     keywords: [
-      'about AdroitGrow',
+      'about Adroit Grow',
       'industrial engineering company',
       'architecture firm',
       'project management experts',
@@ -84,8 +84,8 @@ export const pageSEO: Record<string, SEOConfig> = {
     schema: {
       '@context': 'https://schema.org',
       '@type': 'AboutPage',
-      name: 'About AdroitGrow',
-      description: 'Learn about AdroitGrow, our vision, mission, and leadership team.',
+      name: 'About Adroit Grow',
+      description: 'Learn about Adroit Grow, our vision, mission, and leadership team.',
       publisher: {
         '@type': 'Organization',
         name: siteConfig.name,
@@ -96,7 +96,7 @@ export const pageSEO: Record<string, SEOConfig> = {
   services: {
     title: 'Services | Industrial Design, Engineering & Project Management',
     description:
-      "Explore AdroitGrow's industrial architectural design, engineering services, project management and corporate interior solutions.",
+      "Explore Adroit Grow's industrial architectural design, engineering services, project management and corporate interior solutions.",
     keywords: [
       'industrial services',
       'engineering services',
@@ -117,7 +117,7 @@ export const pageSEO: Record<string, SEOConfig> = {
   },
 
   projects: {
-    title: 'Industrial & Corporate Projects | AdroitGrow',
+    title: 'Industrial & Corporate Projects | Adroit Grow',
     description:
       'Explore our industrial plant design, engineering projects and corporate interior works across India.',
     keywords: [
@@ -131,49 +131,49 @@ export const pageSEO: Record<string, SEOConfig> = {
       '@context': 'https://schema.org',
       '@type': 'CollectionPage',
       name: 'Projects Portfolio',
-      description: 'Collection of industrial and corporate projects by AdroitGrow',
+      description: 'Collection of industrial and corporate projects by Adroit Grow',
     },
   },
 
   contact: {
-    title: 'Contact AdroitGrow | Industrial Architecture & Engineering',
+    title: 'Contact Adroit Grow | Industrial Architecture & Engineering',
     description:
       'Reach out for industrial design, engineering, project management and interior solutions. Located in Gurugram, Haryana.',
-    keywords: ['contact AdroitGrow', 'architectural firm contact', 'industrial consultant'],
+    keywords: ['contact Adroit Grow', 'architectural firm contact', 'industrial consultant'],
     canonical: `${siteConfig.url}/contact`,
     schema: {
       '@context': 'https://schema.org',
       '@type': 'ContactPage',
       name: 'Contact Us',
-      description: 'Get in touch with AdroitGrow for your industrial and commercial projects.',
+      description: 'Get in touch with Adroit Grow for your industrial and commercial projects.',
     },
   },
 
   careers: {
-    title: 'Careers at AdroitGrow | Join Our Team',
+    title: 'Careers at Adroit Grow | Join Our Team',
     description:
-      'Explore career opportunities at AdroitGrow. Join our team of architects, engineers, and project managers.',
+      'Explore career opportunities at Adroit Grow. Join our team of architects, engineers, and project managers.',
     keywords: ['careers', 'jobs', 'architect jobs', 'engineer jobs', 'project manager jobs'],
     canonical: `${siteConfig.url}/careers`,
     schema: {
       '@context': 'https://schema.org',
       '@type': 'WebPage',
       name: 'Careers',
-      description: 'Career opportunities at AdroitGrow',
+      description: 'Career opportunities at Adroit Grow',
     },
   },
 
   privacy: {
-    title: 'Privacy Policy | AdroitGrow',
+    title: 'Privacy Policy | Adroit Grow',
     description:
-      "AdroitGrow's privacy policy explaining how we collect, use, and protect your personal information.",
+      "Adroit Grow's privacy policy explaining how we collect, use, and protect your personal information.",
     keywords: ['privacy policy', 'data protection'],
     canonical: `${siteConfig.url}/privacy-policy`,
   },
 
   terms: {
-    title: 'Terms of Service | AdroitGrow',
-    description: 'Terms and conditions for using AdroitGrow services and website.',
+    title: 'Terms of Service | Adroit Grow',
+    description: 'Terms and conditions for using Adroit Grow services and website.',
     keywords: ['terms of service', 'terms and conditions'],
     canonical: `${siteConfig.url}/terms`,
   },
@@ -182,7 +182,7 @@ export const pageSEO: Record<string, SEOConfig> = {
 // Service-specific SEO
 export const serviceSEO: Record<string, SEOConfig> = {
   'industrial-architectural-engineering-design': {
-    title: 'Industrial Architectural & Engineering Design Services | AdroitGrow',
+    title: 'Industrial Architectural & Engineering Design Services | Adroit Grow',
     description:
       'Specialized industrial engineering, factory layouts, PEB integration, utility planning and architectural design services.',
     keywords: [
@@ -205,7 +205,7 @@ export const serviceSEO: Record<string, SEOConfig> = {
   },
 
   'project-management': {
-    title: 'Construction & Industrial Project Management | AdroitGrow',
+    title: 'Construction & Industrial Project Management | Adroit Grow',
     description:
       'Multidisciplinary coordination across civil, structural, HVAC, electrical, plumbing and safety for industrial projects.',
     keywords: [
@@ -227,7 +227,7 @@ export const serviceSEO: Record<string, SEOConfig> = {
   },
 
   'interior-design': {
-    title: 'Corporate Interior Design & Fitout Services | AdroitGrow',
+    title: 'Corporate Interior Design & Fitout Services | Adroit Grow',
     description: 'Office interiors, space planning, material selection and end-to-end execution.',
     keywords: ['corporate interiors', 'office design', 'workspace planning', 'interior fitout'],
     canonical: `${siteConfig.url}/services/interior-design`,
@@ -243,7 +243,7 @@ export const serviceSEO: Record<string, SEOConfig> = {
   },
 
   'design-build': {
-    title: 'Turnkey Design-Build Solutions for Industries | AdroitGrow',
+    title: 'Turnkey Design-Build Solutions for Industries | Adroit Grow',
     description:
       'Single-window responsibility from concept, engineering, procurement, construction to handover.',
     keywords: [
@@ -274,7 +274,7 @@ export function generateProjectSEO(project: {
   category: string
 }): SEOConfig {
   return {
-    title: `${project.title} | ${project.category} Project | AdroitGrow`,
+    title: `${project.title} | ${project.category} Project | Adroit Grow`,
     description: project.shortDescription,
     keywords: [
       project.category.toLowerCase(),

@@ -46,7 +46,7 @@ export default function AboutPage() {
           <div className="relative aspect-[4/3] overflow-hidden rounded-2xl">
             <Image
               src={aboutContent.company.image}
-              alt="AdroitGrow Company"
+              alt="Adroit Grow Company"
               fill
               className="object-cover"
             />

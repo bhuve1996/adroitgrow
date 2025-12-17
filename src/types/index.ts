@@ -8,6 +8,7 @@ export interface SiteConfig {
   readonly description: string
   readonly url: string
   readonly ogImage: string
+  readonly logo?: string
   readonly founder: string
   readonly foundedYear: number
   readonly email: string

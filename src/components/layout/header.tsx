@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { usePathname } from 'next/navigation'
 import { Menu, X, ChevronDown, Phone } from 'lucide-react'
 import { motion, AnimatePresence } from 'framer-motion'
@@ -47,8 +48,14 @@ export function Header() {
         <div className="flex h-20 items-center justify-between lg:h-24">
           {/* Logo */}
           <Link href="/" className="group flex items-center gap-3">
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-brand-yellow lg:h-12 lg:w-12">
-              <span className="text-xl font-bold text-surface-dark lg:text-2xl">A</span>
+            <div className="relative h-10 w-10 lg:h-12 lg:w-12">
+              <Image
+                src="/images/logo.svg"
+                alt={siteConfig.shortName}
+                fill
+                className="object-contain"
+                priority
+              />
             </div>
             <div className="hidden sm:block">
               <span className="block text-lg font-bold tracking-tight text-text-primary lg:text-xl">

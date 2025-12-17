@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import {
   Mail,
   Phone,
@@ -31,8 +32,13 @@ export function Footer() {
           {/* Brand Column */}
           <div className="lg:col-span-2">
             <Link href="/" className="mb-6 flex items-center gap-3">
-              <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-brand-yellow">
-                <span className="text-2xl font-bold text-surface-dark">A</span>
+              <div className="relative h-12 w-12">
+                <Image
+                  src="/images/logo.svg"
+                  alt={siteConfig.shortName}
+                  fill
+                  className="object-contain"
+                />
               </div>
               <div>
                 <span className="block text-xl font-bold text-text-primary">
