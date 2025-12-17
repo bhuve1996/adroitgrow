@@ -1,0 +1,274 @@
+{
+  "hero": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive Engineering & Design Solutions",
+    "description": "From industrial architecture to project management, we offer end-to-end services tailored to your specific requirements.",
+    "backgroundImage": "/images/hero/services-hero.jpg",
+    "cta": [
+      {
+        "label": "Request a Quote",
+        "href": "/contact",
+        "variant": "primary"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "industrial-design",
+      "title": "Industrial Architectural & Engineering Design",
+      "slug": "industrial-architectural-engineering-design",
+      "shortDescription": "Complete industrial facility design including factory layouts, PEB integration, and utility planning.",
+      "description": "Our Industrial Architectural & Engineering Design services encompass the entire spectrum of industrial facility planning and design. We specialize in creating efficient, functional, and code-compliant industrial spaces that optimize workflow, safety, and productivity.\n\nFrom greenfield projects to facility expansions, our team brings together expertise in architecture, structural engineering, MEP systems, and process requirements to deliver integrated solutions.",
+      "icon": "factory",
+      "image": "/images/services/industrial-design.jpg",
+      "features": [
+        "Master planning and site analysis",
+        "Industrial building architecture",
+        "Factory and plant layout optimization",
+        "PEB (Pre-Engineered Building) design integration",
+        "Utility infrastructure planning",
+        "Process flow integration",
+        "Environmental compliance design",
+        "3D visualization and BIM modeling"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Site Assessment",
+          "description": "Comprehensive analysis of site conditions, regulations, and constraints"
+        },
+        {
+          "step": 2,
+          "title": "Concept Development",
+          "description": "Creating multiple design concepts based on client requirements"
+        },
+        {
+          "step": 3,
+          "title": "Detailed Design",
+          "description": "Complete architectural and engineering drawings with specifications"
+        },
+        {
+          "step": 4,
+          "title": "Approval Support",
+          "description": "Assistance with regulatory approvals and statutory clearances"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What types of industrial facilities do you design?",
+          "answer": "We design a wide range of industrial facilities including manufacturing plants, warehouses, logistics centers, processing units, and specialized facilities for automotive, pharmaceutical, food & beverage, and other industries."
+        },
+        {
+          "question": "Do you handle statutory approvals?",
+          "answer": "Yes, we provide complete support for obtaining necessary approvals from local authorities, pollution control boards, fire departments, and other regulatory bodies."
+        },
+        {
+          "question": "Can you integrate existing equipment layouts?",
+          "answer": "Absolutely. We work closely with process engineers and equipment suppliers to ensure our designs accommodate specific machinery and process requirements."
+        }
+      ]
+    },
+    {
+      "id": "project-management",
+      "title": "Project Management",
+      "slug": "project-management",
+      "shortDescription": "End-to-end project coordination across civil, structural, MEP, and specialized systems.",
+      "description": "Our Project Management services ensure seamless execution of your project from inception to completion. We coordinate all aspects of construction and installation, managing timelines, budgets, quality, and safety to deliver successful outcomes.\n\nWith experience across diverse project types, our project managers bring the expertise needed to navigate complex challenges and keep your project on track.",
+      "icon": "clipboard-list",
+      "image": "/images/services/project-management.jpg",
+      "features": [
+        "Complete project planning and scheduling",
+        "Budget management and cost control",
+        "Vendor and contractor coordination",
+        "Quality assurance and control",
+        "Safety management and compliance",
+        "Progress monitoring and reporting",
+        "Risk assessment and mitigation",
+        "Handover and documentation"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Project Initiation",
+          "description": "Defining scope, objectives, and project management framework"
+        },
+        {
+          "step": 2,
+          "title": "Planning",
+          "description": "Detailed scheduling, resource allocation, and procurement planning"
+        },
+        {
+          "step": 3,
+          "title": "Execution",
+          "description": "Coordinating construction activities and managing stakeholders"
+        },
+        {
+          "step": 4,
+          "title": "Closeout",
+          "description": "Final inspections, documentation, and project handover"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What is included in your project management scope?",
+          "answer": "Our scope includes planning, scheduling, cost management, quality control, safety oversight, vendor coordination, progress reporting, and complete project documentation."
+        },
+        {
+          "question": "How do you ensure projects stay on schedule?",
+          "answer": "We use detailed project schedules with critical path analysis, regular progress monitoring, proactive issue resolution, and effective resource management to maintain timelines."
+        },
+        {
+          "question": "Do you manage specialized contractors?",
+          "answer": "Yes, we coordinate all contractors including civil, MEP, HVAC, fire fighting, electrical, and specialized system installers."
+        }
+      ]
+    },
+    {
+      "id": "interior-design",
+      "title": "Interior & Office Design",
+      "slug": "interior-design",
+      "shortDescription": "Corporate interior design, space planning, and complete fitout execution.",
+      "description": "Our Interior & Office Design services transform workspaces into productive, inspiring environments. We combine aesthetic excellence with functional design to create interiors that reflect your brand identity and support your team's performance.\n\nFrom concept to completion, we handle every aspect of interior design and execution, ensuring a seamless experience and outstanding results.",
+      "icon": "layout",
+      "image": "/images/services/interior-design.jpg",
+      "features": [
+        "Space planning and optimization",
+        "Interior concept development",
+        "Material and finish selection",
+        "Furniture design and procurement",
+        "Lighting design",
+        "MEP coordination for interiors",
+        "Turnkey fitout execution",
+        "Branding integration"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Brief Development",
+          "description": "Understanding workspace requirements, culture, and design preferences"
+        },
+        {
+          "step": 2,
+          "title": "Concept Design",
+          "description": "Creating design concepts with mood boards and 3D visualizations"
+        },
+        {
+          "step": 3,
+          "title": "Detailed Design",
+          "description": "Complete working drawings, specifications, and BOQ preparation"
+        },
+        {
+          "step": 4,
+          "title": "Execution",
+          "description": "Managing construction, installations, and final fit-out"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What types of interiors do you design?",
+          "answer": "We design corporate offices, commercial showrooms, reception areas, meeting rooms, cafeterias, and executive spaces. We also handle industrial office spaces within manufacturing facilities."
+        },
+        {
+          "question": "Do you provide furniture and fixtures?",
+          "answer": "Yes, we offer complete furniture solutions including custom furniture design, procurement from reputed manufacturers, and installation."
+        },
+        {
+          "question": "Can you work with our existing contractors?",
+          "answer": "We can adapt our services to coordinate with your existing contractors or provide turnkey execution through our vetted network of specialists."
+        }
+      ]
+    },
+    {
+      "id": "design-build",
+      "title": "Design-Build",
+      "slug": "design-build",
+      "shortDescription": "Single-window turnkey solutions from concept to completion with integrated responsibility.",
+      "description": "Our Design-Build services provide a streamlined approach to project delivery, combining design and construction under one contract. This integrated methodology ensures faster delivery, better cost control, and single-point accountability.\n\nAs your design-build partner, we take complete responsibility for your project, coordinating all aspects from initial planning through final handover.",
+      "icon": "home",
+      "image": "/images/services/design-build.jpg",
+      "features": [
+        "Integrated design and construction",
+        "Single-point responsibility",
+        "Fast-track project delivery",
+        "Cost certainty and control",
+        "Reduced coordination issues",
+        "Value engineering throughout",
+        "Quality assurance",
+        "Comprehensive warranty"
+      ],
+      "process": [
+        {
+          "step": 1,
+          "title": "Concept & Budgeting",
+          "description": "Developing initial concepts with preliminary cost estimates"
+        },
+        {
+          "step": 2,
+          "title": "Design Development",
+          "description": "Detailed design with continuous cost refinement"
+        },
+        {
+          "step": 3,
+          "title": "Construction",
+          "description": "Executing construction with integrated project team"
+        },
+        {
+          "step": 4,
+          "title": "Commissioning",
+          "description": "Testing, commissioning, and project handover"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the benefits of design-build?",
+          "answer": "Design-build offers faster delivery, cost savings through integrated planning, reduced change orders, single-point accountability, and better communication between design and construction teams."
+        },
+        {
+          "question": "Is design-build suitable for all project types?",
+          "answer": "Design-build works well for most industrial and commercial projects. It's particularly beneficial when fast delivery and cost certainty are priorities."
+        },
+        {
+          "question": "How is pricing structured in design-build?",
+          "answer": "We typically offer either lump-sum pricing or guaranteed maximum price contracts, providing cost certainty while allowing for value engineering opportunities."
+        }
+      ]
+    }
+  ],
+  "capabilities": {
+    "title": "Our Capabilities",
+    "items": [
+      "Civil & Structural Engineering",
+      "Mechanical, Electrical & Plumbing (MEP)",
+      "HVAC System Design",
+      "Fire Fighting & Safety Systems",
+      "Electrical Distribution & LT Panels",
+      "Solar Power Integration",
+      "Water Treatment & Management",
+      "Environmental Compliance",
+      "PEB Structural Design",
+      "Foundation Engineering"
+    ]
+  },
+  "industries": {
+    "title": "Industries We Serve",
+    "items": [
+      { "name": "Manufacturing", "icon": "factory" },
+      { "name": "Automotive", "icon": "car" },
+      { "name": "Pharmaceuticals", "icon": "pill" },
+      { "name": "Food & Beverage", "icon": "utensils" },
+      { "name": "Specialty Gases", "icon": "wind" },
+      { "name": "Corporate Offices", "icon": "building" },
+      { "name": "Warehousing", "icon": "warehouse" },
+      { "name": "Commercial Retail", "icon": "store" }
+    ]
+  },
+  "cta": {
+    "title": "Need a Custom Solution?",
+    "description": "Every project is unique. Let's discuss your specific requirements and create a tailored approach that meets your goals and budget.",
+    "cta": {
+      "label": "Schedule a Consultation",
+      "href": "/contact",
+      "variant": "primary"
+    }
+  }
+}

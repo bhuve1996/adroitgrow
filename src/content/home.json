@@ -1,0 +1,192 @@
+{
+  "hero": {
+    "title": "Building Tomorrow's Industries",
+    "subtitle": "Progressive Architectural and Engineering Excellence",
+    "description": "From concept to completion, we deliver turnkey industrial and commercial solutions with precision, innovation, and unwavering commitment to quality.",
+    "backgroundImage": "/images/hero/industrial-hero.jpg",
+    "cta": [
+      {
+        "label": "Explore Projects",
+        "href": "/projects",
+        "variant": "primary"
+      },
+      {
+        "label": "Get in Touch",
+        "href": "/contact",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "aboutSnapshot": {
+    "title": "Engineering Excellence Since 2019",
+    "description": "AdroitGrow Private Limited is a progressive Architectural and Engineering firm providing high-quality services for both industrial and commercial sectors. We offer single-window, one-stop solutions with emphasis on cost control and value additions using current technologies.",
+    "highlights": [
+      "20+ Years of Industry Expertise",
+      "Single Window Solution Provider",
+      "Cost-Optimized Engineering",
+      "On-Time Project Delivery"
+    ],
+    "cta": {
+      "label": "Learn More About Us",
+      "href": "/about",
+      "variant": "outline"
+    }
+  },
+  "servicesSection": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for industrial and commercial projects"
+  },
+  "featuredProjects": {
+    "title": "Featured Projects",
+    "subtitle": "A glimpse into our portfolio of successful deliveries"
+  },
+  "whyChooseUs": {
+    "title": "Why Choose AdroitGrow",
+    "subtitle": "What sets us apart in the industry",
+    "points": [
+      {
+        "title": "Single Window Solution",
+        "description": "End-to-end project delivery from concept to completion under one roof",
+        "icon": "building-2"
+      },
+      {
+        "title": "20+ Years Expertise",
+        "description": "Two decades of proven experience in industrial and commercial projects",
+        "icon": "award"
+      },
+      {
+        "title": "Cost Optimization",
+        "description": "Value engineering approach ensuring maximum ROI on every project",
+        "icon": "trending-down"
+      },
+      {
+        "title": "On-Time Delivery",
+        "description": "Committed timelines with efficient project management methodologies",
+        "icon": "clock"
+      },
+      {
+        "title": "Quality Assurance",
+        "description": "Rigorous quality control at every stage of project execution",
+        "icon": "shield-check"
+      },
+      {
+        "title": "Innovation Driven",
+        "description": "Latest technologies and sustainable practices in all our designs",
+        "icon": "lightbulb"
+      }
+    ]
+  },
+  "processSection": {
+    "title": "Our Process",
+    "subtitle": "A systematic approach to project excellence",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Consultation",
+        "description": "Understanding your requirements, constraints, and vision through detailed discussions",
+        "icon": "message-circle"
+      },
+      {
+        "step": 2,
+        "title": "Planning & Design",
+        "description": "Creating comprehensive designs with 3D visualizations and technical specifications",
+        "icon": "pencil-ruler"
+      },
+      {
+        "step": 3,
+        "title": "Execution",
+        "description": "Implementing the project with precision, coordinating all stakeholders seamlessly",
+        "icon": "hammer"
+      },
+      {
+        "step": 4,
+        "title": "Delivery",
+        "description": "Handing over the completed project with documentation and after-support",
+        "icon": "check-circle"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "items": [
+      {
+        "name": "Rajesh Kumar",
+        "company": "Helious Specialty Gases",
+        "role": "Managing Director",
+        "content": "AdroitGrow delivered our Ghiloth facility ahead of schedule. Their attention to detail and understanding of industrial requirements is exceptional.",
+        "image": "/images/testimonials/client-1.jpg"
+      },
+      {
+        "name": "Priya Sharma",
+        "company": "Ample Auto Tech",
+        "role": "CEO",
+        "content": "Working with AdroitGrow was a seamless experience. They managed every aspect of our IMT Manesar project with professionalism and expertise.",
+        "image": "/images/testimonials/client-2.jpg"
+      },
+      {
+        "name": "Vikram Singh",
+        "company": "Unique Bimetal",
+        "role": "Director",
+        "content": "The team's expertise in industrial architecture is unmatched. They delivered exactly what we envisioned, within budget and timeline.",
+        "image": "/images/testimonials/client-3.jpg"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "value": "20",
+      "label": "Years Experience",
+      "suffix": "+"
+    },
+    {
+      "value": "100",
+      "label": "Projects Completed",
+      "suffix": "+"
+    },
+    {
+      "value": "50",
+      "label": "Happy Clients",
+      "suffix": "+"
+    },
+    {
+      "value": "10",
+      "label": "States Covered",
+      "suffix": ""
+    }
+  ],
+  "ctaSection": {
+    "title": "Ready to Start Your Project?",
+    "description": "Let's discuss how we can bring your industrial or commercial vision to life with our expertise and commitment to excellence.",
+    "cta": {
+      "label": "Get a Free Consultation",
+      "href": "/contact",
+      "variant": "primary"
+    }
+  },
+  "clientLogos": [
+    {
+      "name": "Helious Specialty Gases",
+      "image": "/images/clients/helious.png"
+    },
+    {
+      "name": "Unique Bimetal",
+      "image": "/images/clients/unique-bimetal.png"
+    },
+    {
+      "name": "Ample Auto Tech",
+      "image": "/images/clients/ample-auto.png"
+    },
+    {
+      "name": "Ajay Air Products",
+      "image": "/images/clients/ajay-air.png"
+    },
+    {
+      "name": "JMD Scientific",
+      "image": "/images/clients/jmd.png"
+    },
+    {
+      "name": "Grindlays Engine Parts",
+      "image": "/images/clients/grindlays.png"
+    }
+  ]
+}

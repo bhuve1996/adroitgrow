@@ -1,0 +1,13 @@
+# Image assets directory
+# Organize your images in the following structure:
+#
+# /images
+#   /hero          - Hero background images
+#   /projects      - Project images and galleries
+#   /services      - Service images
+#   /team          - Team member photos
+#   /clients       - Client logos
+#   /testimonials  - Testimonial author photos
+#   /careers       - Career/culture images
+#   /about         - About page images
+

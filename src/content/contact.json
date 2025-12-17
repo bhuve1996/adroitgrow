@@ -1,0 +1,107 @@
+{
+  "hero": {
+    "title": "Get in Touch",
+    "subtitle": "Let's Discuss Your Project",
+    "description": "Ready to start your industrial or commercial project? Reach out to us for a free consultation.",
+    "backgroundImage": "/images/hero/contact-hero.jpg",
+    "cta": []
+  },
+  "form": {
+    "title": "Send Us a Message",
+    "description": "Fill out the form below and our team will get back to you within 24 hours.",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Full Name",
+        "type": "text",
+        "placeholder": "Enter your full name",
+        "required": true
+      },
+      {
+        "name": "email",
+        "label": "Email Address",
+        "type": "email",
+        "placeholder": "Enter your email address",
+        "required": true
+      },
+      {
+        "name": "phone",
+        "label": "Phone Number",
+        "type": "phone",
+        "placeholder": "Enter your phone number",
+        "required": true
+      },
+      {
+        "name": "company",
+        "label": "Company Name",
+        "type": "text",
+        "placeholder": "Enter your company name",
+        "required": false
+      },
+      {
+        "name": "projectType",
+        "label": "Project Type",
+        "type": "select",
+        "placeholder": "Select project type",
+        "required": true,
+        "options": [
+          "Industrial Architecture & Design",
+          "Project Management",
+          "Interior Design",
+          "Design-Build",
+          "Other"
+        ]
+      },
+      {
+        "name": "message",
+        "label": "Project Details",
+        "type": "textarea",
+        "placeholder": "Tell us about your project requirements",
+        "required": true
+      }
+    ],
+    "submitText": "Send Message"
+  },
+  "offices": {
+    "title": "Our Offices",
+    "locations": [
+      {
+        "name": "Head Office - Gurugram",
+        "address": "Sector 15 Part-II, Basement, Gurugram, Haryana 122001, India",
+        "phone": "+91 98765 43210",
+        "email": "info@adroitgrow.com",
+        "hours": "Mon-Sat: 9:00 AM - 6:00 PM"
+      }
+    ]
+  },
+  "map": {
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.2!2d77.02!3d28.47!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDI4JzEyLjAiTiA3N8KwMDEnMTIuMCJF!5e0!3m2!1sen!2sin!4v1234567890",
+    "coordinates": {
+      "lat": 28.47,
+      "lng": 77.02
+    }
+  },
+  "quickContact": {
+    "title": "Quick Contact",
+    "items": [
+      {
+        "icon": "mail",
+        "label": "Email Us",
+        "value": "info@adroitgrow.com",
+        "href": "mailto:info@adroitgrow.com"
+      },
+      {
+        "icon": "phone",
+        "label": "Call Us",
+        "value": "+91 98765 43210",
+        "href": "tel:+919876543210"
+      },
+      {
+        "icon": "linkedin",
+        "label": "LinkedIn",
+        "value": "AdroitGrow",
+        "href": "https://www.linkedin.com/company/adroitgrow"
+      }
+    ]
+  }
+}

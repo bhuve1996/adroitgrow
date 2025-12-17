@@ -1,0 +1,336 @@
+{
+  "hero": {
+    "title": "Our Projects",
+    "subtitle": "Portfolio of Excellence",
+    "description": "Explore our diverse portfolio of successfully delivered industrial and commercial projects across India.",
+    "backgroundImage": "/images/hero/projects-hero.jpg",
+    "cta": []
+  },
+  "filters": {
+    "industries": [
+      "All",
+      "Specialty Gases",
+      "Automotive",
+      "Manufacturing",
+      "Corporate",
+      "Scientific Equipment"
+    ],
+    "locations": [
+      "All",
+      "Ghiloth",
+      "Hyderabad",
+      "IMT Manesar",
+      "IMT Faridabad",
+      "Gurugram",
+      "Other"
+    ],
+    "services": [
+      "All",
+      "Industrial Design",
+      "Interior Design",
+      "Design-Build",
+      "Project Management"
+    ]
+  },
+  "projects": [
+    {
+      "id": "helious-ghiloth",
+      "title": "Helious Specialty Gases",
+      "slug": "helious-specialty-gases-ghiloth",
+      "location": "Ghiloth, Rajasthan",
+      "year": 2020,
+      "category": "Industrial Design",
+      "industry": "Specialty Gases",
+      "description": "A comprehensive industrial gas manufacturing facility designed with focus on safety, efficiency, and regulatory compliance. The project included complete architectural design, structural engineering, MEP systems, and specialized gas handling infrastructure.",
+      "shortDescription": "Industrial gas manufacturing facility with specialized infrastructure for gas processing and storage.",
+      "image": "/images/projects/helious-ghiloth.jpg",
+      "gallery": [
+        "/images/projects/helious-ghiloth-1.jpg",
+        "/images/projects/helious-ghiloth-2.jpg",
+        "/images/projects/helious-ghiloth-3.jpg"
+      ],
+      "scope": [
+        "Master planning and site development",
+        "Industrial building design",
+        "Process area layout",
+        "Utility infrastructure",
+        "Safety systems integration",
+        "Regulatory approvals"
+      ],
+      "stats": {
+        "area": "25,000 sq.ft.",
+        "duration": "12 months",
+        "type": "Greenfield"
+      },
+      "testimonial": {
+        "name": "Rajesh Kumar",
+        "company": "Helious Specialty Gases",
+        "role": "Managing Director",
+        "content": "AdroitGrow delivered our facility ahead of schedule with exceptional attention to safety requirements.",
+        "image": "/images/testimonials/client-1.jpg"
+      }
+    },
+    {
+      "id": "helious-hyderabad",
+      "title": "Helious Specialty Gases",
+      "slug": "helious-specialty-gases-hyderabad",
+      "location": "Hyderabad, Telangana",
+      "year": 2021,
+      "category": "Industrial Design",
+      "industry": "Specialty Gases",
+      "description": "Expansion facility for Helious Specialty Gases in Hyderabad, designed to meet growing demand in the southern region. The project incorporated lessons from the Ghiloth facility while adapting to local requirements.",
+      "shortDescription": "Regional expansion facility for specialty gas manufacturing and distribution.",
+      "image": "/images/projects/helious-hyderabad.jpg",
+      "gallery": [
+        "/images/projects/helious-hyderabad-1.jpg",
+        "/images/projects/helious-hyderabad-2.jpg"
+      ],
+      "scope": [
+        "Facility design and planning",
+        "Structural engineering",
+        "MEP systems",
+        "Safety compliance"
+      ],
+      "stats": {
+        "area": "18,000 sq.ft.",
+        "duration": "10 months",
+        "type": "Greenfield"
+      }
+    },
+    {
+      "id": "unique-bimetal",
+      "title": "Unique Bimetal Industries",
+      "slug": "unique-bimetal-ghiloth",
+      "location": "Ghiloth, Rajasthan",
+      "year": 2021,
+      "category": "Industrial Design",
+      "industry": "Manufacturing",
+      "description": "Manufacturing facility for Unique Bimetal Industries specializing in precision engineering components. The design focused on optimizing production flow while ensuring worker comfort and safety.",
+      "shortDescription": "Precision manufacturing facility with optimized production layout and worker amenities.",
+      "image": "/images/projects/unique-bimetal.jpg",
+      "gallery": [
+        "/images/projects/unique-bimetal-1.jpg",
+        "/images/projects/unique-bimetal-2.jpg"
+      ],
+      "scope": [
+        "Factory building design",
+        "Production layout optimization",
+        "MEP infrastructure",
+        "Admin and amenity blocks"
+      ],
+      "stats": {
+        "area": "30,000 sq.ft.",
+        "duration": "14 months",
+        "type": "Greenfield"
+      }
+    },
+    {
+      "id": "grindlays-engine",
+      "title": "Grindlays Engine Parts",
+      "slug": "grindlays-engine-parts-ghiloth",
+      "location": "Ghiloth, Rajasthan",
+      "year": 2022,
+      "category": "Design-Build",
+      "industry": "Automotive",
+      "description": "Turnkey design-build project for an automotive component manufacturing facility. The project was delivered under accelerated timelines to meet the client's market requirements.",
+      "shortDescription": "Automotive component manufacturing facility delivered through design-build approach.",
+      "image": "/images/projects/grindlays.jpg",
+      "gallery": [
+        "/images/projects/grindlays-1.jpg",
+        "/images/projects/grindlays-2.jpg"
+      ],
+      "scope": [
+        "Design-build delivery",
+        "Fast-track execution",
+        "Complete MEP systems",
+        "Quality testing facilities"
+      ],
+      "stats": {
+        "area": "22,000 sq.ft.",
+        "duration": "8 months",
+        "type": "Design-Build"
+      }
+    },
+    {
+      "id": "ample-auto",
+      "title": "Ample Auto Tech",
+      "slug": "ample-auto-tech-imt-manesar",
+      "location": "IMT Manesar, Haryana",
+      "year": 2022,
+      "category": "Industrial Design",
+      "industry": "Automotive",
+      "description": "Automotive manufacturing facility in the heart of Manesar's industrial belt. The design incorporated specific requirements for automotive component production including clean room areas and testing zones.",
+      "shortDescription": "Automotive manufacturing facility with specialized production and testing areas.",
+      "image": "/images/projects/ample-auto.jpg",
+      "gallery": [
+        "/images/projects/ample-auto-1.jpg",
+        "/images/projects/ample-auto-2.jpg"
+      ],
+      "scope": [
+        "Industrial architecture",
+        "Clean room design",
+        "Testing facility setup",
+        "HVAC and utilities"
+      ],
+      "stats": {
+        "area": "35,000 sq.ft.",
+        "duration": "12 months",
+        "type": "Greenfield"
+      },
+      "testimonial": {
+        "name": "Priya Sharma",
+        "company": "Ample Auto Tech",
+        "role": "CEO",
+        "content": "Working with AdroitGrow was a seamless experience. They understood our automotive requirements perfectly.",
+        "image": "/images/testimonials/client-2.jpg"
+      }
+    },
+    {
+      "id": "ajay-air",
+      "title": "Ajay Air Products",
+      "slug": "ajay-air-products-imt-faridabad",
+      "location": "IMT Faridabad, Haryana",
+      "year": 2023,
+      "category": "Project Management",
+      "industry": "Manufacturing",
+      "description": "Project management services for an industrial air products facility. Our role included coordinating multiple contractors and ensuring timely delivery of this complex project.",
+      "shortDescription": "Project management for industrial air products manufacturing facility.",
+      "image": "/images/projects/ajay-air.jpg",
+      "gallery": ["/images/projects/ajay-air-1.jpg"],
+      "scope": [
+        "Project management",
+        "Contractor coordination",
+        "Quality assurance",
+        "Timeline management"
+      ],
+      "stats": {
+        "area": "28,000 sq.ft.",
+        "duration": "10 months",
+        "type": "Project Management"
+      }
+    },
+    {
+      "id": "jmd-scientific",
+      "title": "JMD Scientific Equipment",
+      "slug": "jmd-scientific-equipment-met-reliance",
+      "location": "Met Reliance, Haryana",
+      "year": 2023,
+      "category": "Industrial Design",
+      "industry": "Scientific Equipment",
+      "description": "Specialized facility for scientific equipment manufacturing requiring controlled environment conditions and precision assembly areas.",
+      "shortDescription": "Scientific equipment manufacturing facility with controlled environment zones.",
+      "image": "/images/projects/jmd-scientific.jpg",
+      "gallery": ["/images/projects/jmd-scientific-1.jpg"],
+      "scope": [
+        "Facility design",
+        "Clean room integration",
+        "Precision environment control",
+        "Quality lab setup"
+      ],
+      "stats": {
+        "area": "15,000 sq.ft.",
+        "duration": "8 months",
+        "type": "Greenfield"
+      }
+    },
+    {
+      "id": "dlf-corporate",
+      "title": "DLF Corporate Green",
+      "slug": "dlf-corporate-green-gurugram",
+      "location": "Gurugram, Haryana",
+      "year": 2022,
+      "category": "Interior Design",
+      "industry": "Corporate",
+      "description": "Premium corporate office interior design and execution for a leading enterprise at DLF Corporate Green. The project showcased modern workspace design with focus on employee well-being.",
+      "shortDescription": "Premium corporate office interior with modern workspace design elements.",
+      "image": "/images/projects/dlf-corporate.jpg",
+      "gallery": [
+        "/images/projects/dlf-corporate-1.jpg",
+        "/images/projects/dlf-corporate-2.jpg"
+      ],
+      "scope": [
+        "Interior concept design",
+        "Space planning",
+        "Furniture design",
+        "Complete fitout execution"
+      ],
+      "stats": {
+        "area": "12,000 sq.ft.",
+        "duration": "4 months",
+        "type": "Interior Fitout"
+      }
+    },
+    {
+      "id": "olympus-interior",
+      "title": "Olympus Corporate Interior",
+      "slug": "olympus-corporate-interior",
+      "location": "Gurugram, Haryana",
+      "year": 2023,
+      "category": "Interior Design",
+      "industry": "Corporate",
+      "description": "Corporate office interior for Olympus reflecting the brand's values of precision and innovation. The design incorporated Japanese design principles with modern functionality.",
+      "shortDescription": "Corporate interior reflecting brand values of precision and innovation.",
+      "image": "/images/projects/olympus-interior.jpg",
+      "gallery": ["/images/projects/olympus-interior-1.jpg"],
+      "scope": [
+        "Concept development",
+        "Brand integration",
+        "Interior execution",
+        "Furniture procurement"
+      ],
+      "stats": {
+        "area": "8,000 sq.ft.",
+        "duration": "3 months",
+        "type": "Interior Fitout"
+      }
+    },
+    {
+      "id": "sonepar-interior",
+      "title": "Sonepar Office Interior",
+      "slug": "sonepar-office-interior",
+      "location": "Gurugram, Haryana",
+      "year": 2023,
+      "category": "Interior Design",
+      "industry": "Corporate",
+      "description": "Office interior fitout for Sonepar, a global leader in electrical distribution. The design focused on creating a collaborative work environment with flexible spaces.",
+      "shortDescription": "Collaborative workspace design with flexible work areas and modern amenities.",
+      "image": "/images/projects/sonepar-interior.jpg",
+      "gallery": ["/images/projects/sonepar-interior-1.jpg"],
+      "scope": [
+        "Space planning",
+        "Interior design",
+        "MEP coordination",
+        "Complete fitout"
+      ],
+      "stats": {
+        "area": "10,000 sq.ft.",
+        "duration": "3 months",
+        "type": "Interior Fitout"
+      }
+    },
+    {
+      "id": "star-specialty",
+      "title": "Star Specialty Gases",
+      "slug": "star-specialty-gases-imt-manesar",
+      "location": "IMT Manesar, Haryana",
+      "year": 2024,
+      "category": "Design-Build",
+      "industry": "Specialty Gases",
+      "description": "Design-build project for specialty gas manufacturing and storage facility. The project emphasized safety systems and compliance with hazardous material handling regulations.",
+      "shortDescription": "Specialty gas facility with advanced safety systems and regulatory compliance.",
+      "image": "/images/projects/star-specialty.jpg",
+      "gallery": ["/images/projects/star-specialty-1.jpg"],
+      "scope": [
+        "Design-build delivery",
+        "Safety system design",
+        "Regulatory compliance",
+        "Specialized infrastructure"
+      ],
+      "stats": {
+        "area": "20,000 sq.ft.",
+        "duration": "10 months",
+        "type": "Design-Build"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "hero": {
+    "title": "About AdroitGrow",
+    "subtitle": "Building Excellence Through Innovation",
+    "description": "A progressive architectural and engineering firm committed to delivering world-class industrial and commercial solutions.",
+    "backgroundImage": "/images/hero/about-hero.jpg",
+    "cta": []
+  },
+  "company": {
+    "title": "Our Story",
+    "description": "AdroitGrow Private Limited is a progressive Architectural and Engineering firm specializing in Industrial design, Project Management, and Corporate Interiors. Established in 2019, we provide high-quality services for both industrial and commercial sectors, offering single-window, one-stop solutions with emphasis on cost control and value additions using current technologies.\n\nOur comprehensive approach covers everything from initial concept development to final project handover, ensuring seamless execution and superior quality at every stage.",
+    "highlights": [
+      "Founded in 2019 with 20+ years of leadership experience",
+      "Specialized in Industrial, Commercial, and Corporate projects",
+      "Single-window solution provider for end-to-end project delivery",
+      "Emphasis on cost optimization and value engineering",
+      "Pan-India presence with projects across 10+ states"
+    ],
+    "image": "/images/about/company.jpg"
+  },
+  "vision": {
+    "title": "Our Vision",
+    "description": "To be the most trusted and innovative architectural and engineering partner for industrial and commercial enterprises across India, known for delivering technically sound, cost-effective, and sustainable solutions that exceed client expectations."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "To deliver quality-driven design and project execution for industrial and commercial clients through innovation, technology, and multidisciplinary expertise. We are committed to providing single-window solutions that optimize costs, enhance value, and ensure timely delivery."
+  },
+  "values": {
+    "title": "Our Core Values",
+    "items": [
+      {
+        "title": "Excellence",
+        "description": "Striving for the highest standards in every project we undertake",
+        "icon": "star"
+      },
+      {
+        "title": "Integrity",
+        "description": "Maintaining transparency and honesty in all our dealings",
+        "icon": "shield"
+      },
+      {
+        "title": "Innovation",
+        "description": "Embracing new technologies and creative solutions",
+        "icon": "lightbulb"
+      },
+      {
+        "title": "Collaboration",
+        "description": "Working together with clients as true partners",
+        "icon": "users"
+      },
+      {
+        "title": "Sustainability",
+        "description": "Incorporating eco-friendly practices in our designs",
+        "icon": "leaf"
+      },
+      {
+        "title": "Commitment",
+        "description": "Delivering on our promises, every single time",
+        "icon": "target"
+      }
+    ]
+  },
+  "leadership": {
+    "title": "Our Leadership",
+    "subtitle": "Meet the experts driving our vision forward",
+    "members": [
+      {
+        "id": "manish-bhatnagar",
+        "name": "Manish Bhatnagar",
+        "role": "Founder & Managing Director",
+        "bio": "A Civil Engineer with over two decades of experience in executing Industrial, Commercial, and Corporate Interior projects. Mr. Bhatnagar leads and coordinates multidisciplinary projects including civil, HVAC, plumbing, solar, electrical, and PEB structural design. His expertise spans across project conceptualization, detailed engineering, procurement, and successful execution of turnkey projects.",
+        "image": "/images/team/manish-bhatnagar.jpg",
+        "linkedin": "https://www.linkedin.com/in/manishbhatnagar",
+        "email": "manish.bhatnagar@adroitgrow.com"
+      }
+    ]
+  },
+  "timeline": {
+    "title": "Our Journey",
+    "events": [
+      {
+        "year": "2019",
+        "title": "Company Founded",
+        "description": "AdroitGrow Private Limited was established in Gurugram with a vision to provide integrated architectural and engineering solutions."
+      },
+      {
+        "year": "2020",
+        "title": "First Major Project",
+        "description": "Successfully delivered our first major industrial project - Helious Specialty Gases facility at Ghiloth."
+      },
+      {
+        "year": "2021",
+        "title": "Portfolio Expansion",
+        "description": "Expanded services to include corporate interiors and design-build solutions, completing 25+ projects."
+      },
+      {
+        "year": "2022",
+        "title": "Pan-India Presence",
+        "description": "Extended operations across 8 states with projects in Haryana, Rajasthan, Telangana, and more."
+      },
+      {
+        "year": "2023",
+        "title": "100+ Projects Milestone",
+        "description": "Crossed the milestone of 100 successfully delivered projects across industrial and commercial sectors."
+      },
+      {
+        "year": "2024",
+        "title": "Continued Growth",
+        "description": "Strengthening our team and capabilities to serve more clients with enhanced service offerings."
+      }
+    ]
+  },
+  "philosophy": {
+    "title": "Our Approach",
+    "points": [
+      "Client-centric solutions tailored to specific needs and budgets",
+      "Integrated design approach combining architecture, structure, and MEP",
+      "Value engineering at every stage to optimize costs without compromising quality",
+      "Sustainable design practices for energy efficiency and environmental responsibility",
+      "Transparent communication and regular progress updates",
+      "Post-completion support and maintenance guidance"
+    ],
+    "image": "/images/about/philosophy.jpg"
+  }
+}
