@@ -8,6 +8,13 @@ export const siteConfig: SiteConfig = {
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.adroitgrow.com',
   ogImage: '/images/og-image.jpg',
   logo: '/images/logo.svg',
+  icons: {
+    favicon: '/favicon.svg',
+    faviconSvg: '/favicon.svg',
+    appleTouchIcon: '/icons/apple-touch-icon.svg',
+    androidChrome192: '/icons/android-chrome-192x192.svg',
+    androidChrome512: '/icons/android-chrome-512x512.svg',
+  },
   founder: 'Manish Bhatnagar',
   foundedYear: 2019,
   email: 'manish.bhatnagar@adroitgrow.com',

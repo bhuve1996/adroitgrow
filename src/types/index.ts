@@ -9,12 +9,21 @@ export interface SiteConfig {
   readonly url: string
   readonly ogImage: string
   readonly logo?: string
+  readonly icons?: SiteIcons
   readonly founder: string
   readonly foundedYear: number
   readonly email: string
   readonly phone: string
   readonly address: Address
   readonly socialLinks: SocialLinks
+}
+
+export interface SiteIcons {
+  readonly favicon: string
+  readonly faviconSvg?: string
+  readonly appleTouchIcon: string
+  readonly androidChrome192: string
+  readonly androidChrome512: string
 }
 
 export interface Address {

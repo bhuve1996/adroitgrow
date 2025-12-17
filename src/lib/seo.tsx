@@ -64,7 +64,7 @@ export function getOrganizationSchema(): SchemaConfig {
     '@type': 'Organization',
     name: siteConfig.name,
     url: siteConfig.url,
-    logo: `${siteConfig.url}/images/logo.svg`,
+    logo: `${siteConfig.url}${siteConfig.logo}`,
     description: siteConfig.description,
     founder: {
       '@type': 'Person',
@@ -134,7 +134,7 @@ export function getLocalBusinessSchema(): SchemaConfig {
     '@context': 'https://schema.org',
     '@type': 'ProfessionalService',
     name: siteConfig.name,
-    image: `${siteConfig.url}/images/logo.svg`,
+    image: `${siteConfig.url}${siteConfig.logo}`,
     url: siteConfig.url,
     telephone: siteConfig.phone,
     email: siteConfig.email,
