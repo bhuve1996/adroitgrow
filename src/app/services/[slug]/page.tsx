@@ -18,7 +18,8 @@ interface ServicePageProps {
 
 // Generate static params for all services
 export async function generateStaticParams() {
-  return servicesContent.services.map((service) => ({
+  const services = servicesContent?.services ?? []
+  return services.map((service) => ({
     slug: service.slug,
   }))
 }
@@ -35,7 +36,8 @@ export async function generateMetadata({ params }: ServicePageProps): Promise<Me
 
 export default async function ServicePage({ params }: ServicePageProps) {
   const { slug } = await params
-  const service = servicesContent.services.find((s) => s.slug === slug)
+  const services = servicesContent?.services ?? []
+  const service = services.find((s) => s.slug === slug)
 
   if (!service) {
     notFound()
@@ -49,8 +51,11 @@ export default async function ServicePage({ params }: ServicePageProps) {
   })
 
   // Get related projects based on service category
-  const relatedProjects = projectsContent.projects
-    .filter((p) => p.category.toLowerCase().includes(service.title.toLowerCase().split(' ')[0]))
+  const projects = projectsContent?.projects ?? []
+  const relatedProjects = projects
+    .filter((p) =>
+      p.category.toLowerCase().includes((service.title ?? '').toLowerCase().split(' ')[0])
+    )
     .slice(0, 3)
 
   const heroContent: HeroContent = {
@@ -85,7 +90,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
           <div>
             <SectionHeader centered={false} className="mb-6" title="Overview" />
             <div className="prose prose-invert prose-lg max-w-none">
-              {service.description.split('\n\n').map((paragraph, index) => (
+              {(service.description ?? '').split('\n\n').map((paragraph, index) => (
                 <p key={index} className="text-text-secondary">
                   {paragraph}
                 </p>
@@ -102,7 +107,7 @@ export default async function ServicePage({ params }: ServicePageProps) {
       <Section dark>
         <SectionHeader subtitle="Key Features" title="What We Deliver" />
         <div className="mx-auto grid max-w-4xl grid-cols-1 gap-4 md:grid-cols-2">
-          {service.features.map((feature, index) => (
+          {(service.features ?? []).map((feature, index) => (
             <div
               key={index}
               className="flex items-start gap-4 rounded-xl border border-border-muted bg-surface-card p-5"

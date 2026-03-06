@@ -14,7 +14,8 @@ interface JobPageProps {
 
 // Generate static params for all jobs
 export async function generateStaticParams() {
-  return careersContent.jobs.map((job) => ({
+  const jobs = careersContent?.jobs ?? []
+  return jobs.map((job) => ({
     id: job.id,
   }))
 }
@@ -22,7 +23,8 @@ export async function generateStaticParams() {
 // Generate metadata for each job page
 export async function generateMetadata({ params }: JobPageProps): Promise<Metadata> {
   const { id } = await params
-  const job = careersContent.jobs.find((j) => j.id === id)
+  const jobs = careersContent?.jobs ?? []
+  const job = jobs.find((j) => j.id === id)
   if (!job) return {}
 
   return {
@@ -37,7 +39,8 @@ export async function generateMetadata({ params }: JobPageProps): Promise<Metada
 
 export default async function JobPage({ params }: JobPageProps) {
   const { id } = await params
-  const job = careersContent.jobs.find((j) => j.id === id)
+  const jobs = careersContent?.jobs ?? []
+  const job = jobs.find((j) => j.id === id)
 
   if (!job) {
     notFound()
@@ -87,7 +90,7 @@ export default async function JobPage({ params }: JobPageProps) {
             <div>
               <h3 className="mb-4 text-xl font-bold text-text-primary">Key Responsibilities</h3>
               <ul className="space-y-3">
-                {job.responsibilities.map((item, index) => (
+                {(job.responsibilities ?? []).map((item, index) => (
                   <li key={index} className="flex items-start gap-3">
                     <CheckCircle className="mt-0.5 h-5 w-5 flex-shrink-0 text-brand-yellow" />
                     <span className="text-text-secondary">{item}</span>
@@ -100,7 +103,7 @@ export default async function JobPage({ params }: JobPageProps) {
             <div>
               <h3 className="mb-4 text-xl font-bold text-text-primary">Requirements</h3>
               <ul className="space-y-3">
-                {job.requirements.map((item, index) => (
+                {(job.requirements ?? []).map((item, index) => (
                   <li key={index} className="flex items-start gap-3">
                     <span className="mt-2 h-2 w-2 flex-shrink-0 rounded-full bg-brand-yellow" />
                     <span className="text-text-secondary">{item}</span>

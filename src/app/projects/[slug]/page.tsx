@@ -16,7 +16,8 @@ interface ProjectPageProps {
 
 // Generate static params for all projects
 export async function generateStaticParams() {
-  return projectsContent.projects.map((project) => ({
+  const projects = projectsContent?.projects ?? []
+  return projects.map((project) => ({
     slug: project.slug,
   }))
 }
@@ -24,7 +25,8 @@ export async function generateStaticParams() {
 // Generate metadata for each project page
 export async function generateMetadata({ params }: ProjectPageProps): Promise<Metadata> {
   const { slug } = await params
-  const project = projectsContent.projects.find((p) => p.slug === slug)
+  const projects = projectsContent?.projects ?? []
+  const project = projects.find((p) => p.slug === slug)
   if (!project) return {}
 
   const seo = generateProjectSEO({
@@ -39,7 +41,8 @@ export async function generateMetadata({ params }: ProjectPageProps): Promise<Me
 
 export default async function ProjectPage({ params }: ProjectPageProps) {
   const { slug } = await params
-  const found = projectsContent.projects.find((p) => p.slug === slug)
+  const projects = projectsContent?.projects ?? []
+  const found = projects.find((p) => p.slug === slug)
   if (!found) {
     notFound()
   }
@@ -54,7 +57,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
   })
 
   // Get related projects (same category, excluding current)
-  const relatedProjects = projectsContent.projects
+  const relatedProjects = projects
     .filter((p) => p.category === project.category && p.slug !== project.slug)
     .slice(0, 3)
 
@@ -128,7 +131,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
           <div>
             <SectionHeader title="Scope of Work" centered={false} className="mb-6" />
             <ul className="space-y-3">
-              {project.scope.map((item, index) => (
+              {(project.scope ?? []).map((item, index) => (
                 <li key={index} className="flex items-start gap-3">
                   <span className="mt-2 h-2 w-2 flex-shrink-0 rounded-full bg-brand-yellow" />
                   <span className="text-text-primary">{item}</span>

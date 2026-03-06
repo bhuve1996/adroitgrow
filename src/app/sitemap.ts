@@ -60,7 +60,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ]
 
   // Service pages
-  const servicePages: MetadataRoute.Sitemap = servicesContent.services.map((service) => ({
+  const services = servicesContent?.services ?? []
+  const servicePages: MetadataRoute.Sitemap = services.map((service) => ({
     url: `${baseUrl}/services/${service.slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -68,7 +69,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }))
 
   // Project pages
-  const projectPages: MetadataRoute.Sitemap = projectsContent.projects.map((project) => ({
+  const projects = projectsContent?.projects ?? []
+  const projectPages: MetadataRoute.Sitemap = projects.map((project) => ({
     url: `${baseUrl}/projects/${project.slug}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
@@ -76,7 +78,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }))
 
   // Career pages
-  const careerPages: MetadataRoute.Sitemap = careersContent.jobs.map((job) => ({
+  const jobs = careersContent?.jobs ?? []
+  const careerPages: MetadataRoute.Sitemap = jobs.map((job) => ({
     url: `${baseUrl}/careers/${job.id}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
