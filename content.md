@@ -102,7 +102,7 @@ _(This is only the content actually available; no assumptions.)_
   },
   "about_short": {
     "summary": "AdroitGrow Private Limited is a progressive Architectural and Engineering firm providing high-quality services for both the Industrial and commercial sector with one-stop solutions. We emphasize cost control and value additions using current technologies.",
-    "founded_by": "Founded by Mr. Manish Bhatnagar with 20+ years of experience"
+    "founded_by": "Founded by Mr. Manish Bhatnagar with 25+ years of experience"
   },
   "services_overview": [
     "Industrial Architectural & Engineering Design",
@@ -131,7 +131,7 @@ _(This is only the content actually available; no assumptions.)_
     "mission": "To deliver quality-driven design and project execution for industrial and commercial clients through innovation, technology, and multidisciplinary expertise.",
     "founder": {
       "name": "Mr. Manish Bhatnagar",
-      "experience": "20+ years",
+      "experience": "25+ years",
       "bio": "A Civil Engineer with two decades of experience in executing Industrial, Commercial, and Corporate Interior projects. Leading and coordinating multidisciplinary projects including civil, HVAC, plumbing, solar, electrical, and PEB structural design."
     }
   },

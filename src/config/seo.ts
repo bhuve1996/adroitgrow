@@ -32,7 +32,7 @@ export const pageSEO: Record<string, SEOConfig> = {
   home: {
     title: 'Industrial Architecture, Engineering & Project Management | Adroit Grow',
     description:
-      'Adroit Grow is a leading industrial architectural and engineering firm providing turnkey design, project management and corporate interiors with 20+ years expertise and nationwide presence.',
+      'Adroit Grow is a leading industrial architectural and engineering firm providing turnkey design, project management and corporate interiors with 25+ years expertise and nationwide presence.',
     keywords: [
       'industrial architecture',
       'engineering design',
@@ -73,7 +73,7 @@ export const pageSEO: Record<string, SEOConfig> = {
   about: {
     title: 'About Us | Adroit Grow – Industrial Architecture & Engineering Firm',
     description:
-      'Adroit Grow is a progressive engineering and architectural firm led by industry veteran Manish Bhatnagar with 20+ years of industrial project expertise.',
+      'Adroit Grow is a progressive engineering and architectural firm led by industry veteran Manish Bhatnagar with 25+ years of industrial project expertise.',
     keywords: [
       'about Adroit Grow',
       'industrial engineering company',

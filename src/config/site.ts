@@ -63,7 +63,7 @@ export const differentiators = [
     icon: 'building',
   },
   {
-    title: '20+ Years Expertise',
+    title: '25+ Years Expertise',
     description: 'Two decades of industrial and commercial project experience',
     icon: 'award',
   },

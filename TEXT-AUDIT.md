@@ -23,7 +23,7 @@
 ### About / Company Story (Updated)
 
 - **Founder bio:** Updated with actual content about Mr. Manish Bhatnagar
-- **Experience:** 20+ years, 150+ projects, 70+ in IMT Manesar
+- **Experience:** 25+ years, 150+ projects, 70+ in IMT Manesar
 - **Expertise areas:** Civil, HVAC, Plumbing, Electrical, Solar, PEB Structures
 - **Client types:** Japanese Multinationals, Indian Conglomerates, SMEs,
   Automobile ancillaries, etc.
@@ -281,7 +281,7 @@ Contact:
 - Website: www.adroitgrow.com
 
 Experience:
-- 20+ years in Industrial, Commercial & Interior Spaces
+- 25+ years in Industrial, Commercial & Interior Spaces
 - 150+ projects completed
 - 70+ Industrial projects in IMT Manesar
 

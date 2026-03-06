@@ -23,7 +23,7 @@ Below is the complete `/seo` folder structure with JSON files.
 ```json
 {
   "title": "Industrial Architecture, Engineering & Project Management | AdroitGrow",
-  "description": "AdroitGrow is a leading industrial architectural and engineering firm providing turnkey design, project management and corporate interiors with 20+ years expertise.",
+  "description": "AdroitGrow is a leading industrial architectural and engineering firm providing turnkey design, project management and corporate interiors with 25+ years expertise.",
   "keywords": [
     "industrial architecture",
     "engineering design",
@@ -59,7 +59,7 @@ Below is the complete `/seo` folder structure with JSON files.
 ```json
 {
   "title": "About Us | AdroitGrow – Industrial Architecture & Engineering Firm",
-  "description": "AdroitGrow is a progressive engineering and architectural firm led by industry veteran Manish Bhatnagar with 20+ years of industrial project expertise.",
+  "description": "AdroitGrow is a progressive engineering and architectural firm led by industry veteran Manish Bhatnagar with 25+ years of industrial project expertise.",
   "keywords": [
     "about AdroitGrow",
     "industrial engineering company",
