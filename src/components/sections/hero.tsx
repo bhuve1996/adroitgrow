@@ -1,8 +1,11 @@
 'use client'
 
+import { useState } from 'react'
 import { motion } from 'framer-motion'
 import { type HeroContent } from '@/types'
 import { Button } from '@/components/ui'
+
+const HERO_VIDEO_FALLBACK = 'https://lorem.video/1280x720_h264_15s'
 
 interface HeroProps {
   content: HeroContent
@@ -13,6 +16,8 @@ export function Hero({ content, variant = 'page' }: HeroProps) {
   const { title, subtitle, description, cta, backgroundImage, backgroundVideo } = content
   const isHome = variant === 'home'
   const useVideo = isHome && backgroundVideo
+  const [videoError, setVideoError] = useState(false)
+  const videoSrc = useVideo && (videoError ? HERO_VIDEO_FALLBACK : backgroundVideo)
 
   return (
     <section
@@ -27,8 +32,8 @@ export function Hero({ content, variant = 'page' }: HeroProps) {
           : undefined
       }
     >
-      {/* Video background (homepage only when backgroundVideo is set) */}
-      {useVideo && (
+      {/* Video background (homepage only when backgroundVideo is set); fallback to lorem on error */}
+      {useVideo && videoSrc && (
         <div className="absolute inset-0">
           <video
             autoPlay
@@ -37,8 +42,9 @@ export function Hero({ content, variant = 'page' }: HeroProps) {
             playsInline
             className="h-full w-full object-cover"
             poster={backgroundImage}
+            onError={() => setVideoError(true)}
           >
-            <source src={backgroundVideo} type="video/mp4" />
+            <source src={videoSrc} type="video/mp4" />
           </video>
         </div>
       )}
