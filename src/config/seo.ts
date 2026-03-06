@@ -16,6 +16,7 @@ export const defaultSEO: SEOConfig = {
     'turnkey projects',
     'Gurugram architect',
     'industrial consultant India',
+    'nationwide',
   ],
   canonical: siteConfig.url,
   openGraph: {
@@ -31,7 +32,7 @@ export const pageSEO: Record<string, SEOConfig> = {
   home: {
     title: 'Industrial Architecture, Engineering & Project Management | Adroit Grow',
     description:
-      'Adroit Grow is a leading industrial architectural and engineering firm providing turnkey design, project management and corporate interiors with 20+ years expertise.',
+      'Adroit Grow is a leading industrial architectural and engineering firm providing turnkey design, project management and corporate interiors with 20+ years expertise and nationwide presence.',
     keywords: [
       'industrial architecture',
       'engineering design',
@@ -119,7 +120,7 @@ export const pageSEO: Record<string, SEOConfig> = {
   projects: {
     title: 'Industrial & Corporate Projects | Adroit Grow',
     description:
-      'Explore our industrial plant design, engineering projects and corporate interior works across India.',
+      'Explore our portfolio of industrial plant design, engineering projects and corporate interior works across India.',
     keywords: [
       'industrial projects',
       'corporate interior projects',
@@ -265,6 +266,8 @@ export const serviceSEO: Record<string, SEOConfig> = {
   },
 }
 
+const META_DESCRIPTION_MAX_LENGTH = 155
+
 // Helper function to generate project SEO
 export function generateProjectSEO(project: {
   title: string
@@ -273,9 +276,13 @@ export function generateProjectSEO(project: {
   shortDescription: string
   category: string
 }): SEOConfig {
+  const description =
+    project.shortDescription.length > META_DESCRIPTION_MAX_LENGTH
+      ? project.shortDescription.slice(0, META_DESCRIPTION_MAX_LENGTH - 3).trim() + '...'
+      : project.shortDescription
   return {
     title: `${project.title} | ${project.category} Project | Adroit Grow`,
-    description: project.shortDescription,
+    description,
     keywords: [
       project.category.toLowerCase(),
       'industrial project',
@@ -287,7 +294,7 @@ export function generateProjectSEO(project: {
       '@context': 'https://schema.org',
       '@type': 'CreativeWork',
       name: project.title,
-      description: project.shortDescription,
+      description,
       locationCreated: {
         '@type': 'Place',
         name: project.location,

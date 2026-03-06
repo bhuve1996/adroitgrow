@@ -61,30 +61,36 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Service pages
   const services = servicesContent?.services ?? []
-  const servicePages: MetadataRoute.Sitemap = services.map((service) => ({
-    url: `${baseUrl}/services/${service.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.7,
-  }))
+  const servicePages: MetadataRoute.Sitemap = services
+    .filter((s) => s?.slug)
+    .map((service) => ({
+      url: `${baseUrl}/services/${service.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    }))
 
   // Project pages
   const projects = projectsContent?.projects ?? []
-  const projectPages: MetadataRoute.Sitemap = projects.map((project) => ({
-    url: `${baseUrl}/projects/${project.slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.6,
-  }))
+  const projectPages: MetadataRoute.Sitemap = projects
+    .filter((p) => p?.slug)
+    .map((project) => ({
+      url: `${baseUrl}/projects/${project.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.6,
+    }))
 
   // Career pages
   const jobs = careersContent?.jobs ?? []
-  const careerPages: MetadataRoute.Sitemap = jobs.map((job) => ({
-    url: `${baseUrl}/careers/${job.id}`,
-    lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.5,
-  }))
+  const careerPages: MetadataRoute.Sitemap = jobs
+    .filter((j) => j?.id)
+    .map((job) => ({
+      url: `${baseUrl}/careers/${job.id}`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly' as const,
+      priority: 0.5,
+    }))
 
   return [...staticPages, ...servicePages, ...projectPages, ...careerPages]
 }
