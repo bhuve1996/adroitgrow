@@ -94,6 +94,8 @@ const config: Config = {
         'gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
         'hero-pattern':
           'linear-gradient(135deg, rgba(11, 16, 32, 0.95) 0%, rgba(11, 16, 32, 0.8) 100%)',
+        'hero-pattern-video':
+          'linear-gradient(135deg, rgba(11, 16, 32, 0.75) 0%, rgba(11, 16, 32, 0.55) 100%)',
       },
     },
   },

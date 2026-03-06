@@ -4,10 +4,11 @@ import Image from 'next/image'
 import { generateProjectSEO } from '@/config/seo'
 import { generatePageMetadata, JsonLd } from '@/lib/seo'
 import projectsContent from '@/content/projects.json'
-import { Hero, ProjectsGrid, Testimonials, CTASection } from '@/components/sections'
+import { Hero, ProjectsGrid, CTASection } from '@/components/sections'
 import { Section, SectionHeader, StatCard } from '@/components/ui'
 import { Breadcrumbs } from '@/components/layout'
 import { MapPin, Calendar, Ruler, Clock } from 'lucide-react'
+import { type ProjectItem } from '@/types'
 
 interface ProjectPageProps {
   params: Promise<{ slug: string }>
@@ -38,11 +39,11 @@ export async function generateMetadata({ params }: ProjectPageProps): Promise<Me
 
 export default async function ProjectPage({ params }: ProjectPageProps) {
   const { slug } = await params
-  const project = projectsContent.projects.find((p) => p.slug === slug)
-
-  if (!project) {
+  const found = projectsContent.projects.find((p) => p.slug === slug)
+  if (!found) {
     notFound()
   }
+  const project = found as ProjectItem
 
   const seo = generateProjectSEO({
     title: project.title,
@@ -59,7 +60,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
 
   return (
     <>
-      <JsonLd schema={seo.schema!} />
+      {seo.schema && <JsonLd schema={seo.schema} />}
 
       {/* Hero Section */}
       <Hero

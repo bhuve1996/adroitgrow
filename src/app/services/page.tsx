@@ -37,7 +37,7 @@ export default function ServicesPage() {
 
   return (
     <>
-      <JsonLd schema={pageSEO.services.schema!} />
+      {pageSEO.services.schema && <JsonLd schema={pageSEO.services.schema} />}
 
       {/* Hero Section */}
       <Hero content={heroContent} />

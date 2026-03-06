@@ -43,8 +43,11 @@ export function Hero({ content, variant = 'page' }: HeroProps) {
         </div>
       )}
 
-      {/* Overlay */}
-      <div className="absolute inset-0 bg-hero-pattern" />
+      {/* Overlay: lighter when video so the video is visible */}
+      <div
+        className={`absolute inset-0 ${useVideo ? 'bg-hero-pattern-video' : 'bg-hero-pattern'}`}
+        aria-hidden
+      />
 
       {/* Grid Pattern Overlay */}
       <div

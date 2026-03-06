@@ -29,7 +29,7 @@ export default function CareersPage() {
 
   return (
     <>
-      <JsonLd schema={pageSEO.careers.schema!} />
+      {pageSEO.careers.schema && <JsonLd schema={pageSEO.careers.schema} />}
 
       {/* Hero Section */}
       <Hero content={heroContent} />

@@ -8,7 +8,6 @@ import {
   Hero,
   Stats,
   ProcessSteps,
-  Testimonials,
   CTASection,
   ServicesGrid,
   ProjectsGrid,
@@ -34,7 +33,7 @@ export default function HomePage() {
 
   return (
     <>
-      <JsonLd schema={pageSEO.home.schema!} />
+      {pageSEO.home.schema && <JsonLd schema={pageSEO.home.schema} />}
 
       {/* Hero Section */}
       <Hero content={heroContent} variant="home" />

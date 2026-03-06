@@ -11,7 +11,7 @@ export const metadata: Metadata = generatePageMetadata(pageSEO.projects)
 export default function ProjectsPage() {
   return (
     <>
-      <JsonLd schema={pageSEO.projects.schema!} />
+      {pageSEO.projects.schema && <JsonLd schema={pageSEO.projects.schema} />}
 
       {/* Hero Section */}
       <Hero content={projectsContent.hero} />

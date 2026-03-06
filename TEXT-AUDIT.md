@@ -310,4 +310,3 @@ Tagline: "Specialized in Industrial greenfield projects from Concept Design to P
 ---
 
 _Report generated: December 17, 2024_
-

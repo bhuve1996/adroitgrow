@@ -2,11 +2,11 @@
  * One-off: download Canva export URLs to images folder.
  * Run: node canva-projects/download-slides.js
  */
-const fs = require('fs');
-const https = require('https');
-const path = require('path');
+const fs = require('fs')
+const https = require('https')
+const path = require('path')
 
-const IMAGES_DIR = path.join(__dirname, 'Sahil-new-company-profile', 'images');
+const IMAGES_DIR = path.join(__dirname, 'Sahil-new-company-profile', 'images')
 
 // All 55 URLs in order (batch1: 1-20, batch2: 21-40, batch3: 41-55)
 const URLS = [
@@ -67,42 +67,44 @@ const URLS = [
   'https://export-download.canva.com/P6WMg/DAHDI6P6WMg/-1/0/0053-9053857220367472041.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260305%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260305T175144Z&X-Amz-Expires=72776&X-Amz-Signature=853468698facd0ca78a9769656bcce71c77824e32e4db7b2032ad9eeed0d12f6&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Fri%2C%2006%20Mar%202026%2014%3A04%3A40%20GMT',
   'https://export-download.canva.com/P6WMg/DAHDI6P6WMg/-1/0/0054-9053857220367472041.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260305%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260305T180122Z&X-Amz-Expires=72289&X-Amz-Signature=afcdf679f01fe2101e0cfcb3d50577d265f067c52481e3b9e03ccd8d70b7475c&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Fri%2C%2006%20Mar%202026%2014%3A06%3A11%20GMT',
   'https://export-download.canva.com/P6WMg/DAHDI6P6WMg/-1/0/0055-9053857220367472041.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260306%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260306T070341Z&X-Amz-Expires=25001&X-Amz-Signature=e2edd46edbbfb6e8a086c49955d1bf1debe8a8c1b80c254c2a5d01295bdd8d0a&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Fri%2C%2006%20Mar%202026%2014%3A00%3A22%20GMT',
-];
+]
 
 if (!fs.existsSync(IMAGES_DIR)) {
-  fs.mkdirSync(IMAGES_DIR, { recursive: true });
+  fs.mkdirSync(IMAGES_DIR, { recursive: true })
 }
 
 function download(url, filepath) {
   return new Promise((resolve, reject) => {
-    const file = fs.createWriteStream(filepath);
-    https.get(url, (res) => {
-      if (res.statusCode !== 200) {
-        reject(new Error(`HTTP ${res.statusCode} for ${filepath}`));
-        return;
-      }
-      res.pipe(file);
-      file.on('finish', () => {
-        file.close();
-        resolve();
-      });
-    }).on('error', (err) => {
-      fs.unlink(filepath, () => {});
-      reject(err);
-    });
-  });
+    const file = fs.createWriteStream(filepath)
+    https
+      .get(url, (res) => {
+        if (res.statusCode !== 200) {
+          reject(new Error(`HTTP ${res.statusCode} for ${filepath}`))
+          return
+        }
+        res.pipe(file)
+        file.on('finish', () => {
+          file.close()
+          resolve()
+        })
+      })
+      .on('error', (err) => {
+        fs.unlink(filepath, () => {})
+        reject(err)
+      })
+  })
 }
 
-(async () => {
+;(async () => {
   for (let i = 0; i < URLS.length; i++) {
-    const num = String(i + 1).padStart(3, '0');
-    const filepath = path.join(IMAGES_DIR, `page-${num}.png`);
+    const num = String(i + 1).padStart(3, '0')
+    const filepath = path.join(IMAGES_DIR, `page-${num}.png`)
     try {
-      await download(URLS[i], filepath);
-      console.log(`Downloaded ${num}/55: page-${num}.png`);
+      await download(URLS[i], filepath)
+      console.log(`Downloaded ${num}/55: page-${num}.png`)
     } catch (e) {
-      console.error(`Failed page-${num}.png:`, e.message);
+      console.error(`Failed page-${num}.png:`, e.message)
     }
   }
-  console.log('Done.');
-})();
+  console.log('Done.')
+})()

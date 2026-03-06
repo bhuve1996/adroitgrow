@@ -12,7 +12,7 @@ export const metadata: Metadata = generatePageMetadata(pageSEO.about)
 export default function AboutPage() {
   return (
     <>
-      <JsonLd schema={pageSEO.about.schema!} />
+      {pageSEO.about.schema && <JsonLd schema={pageSEO.about.schema} />}
 
       {/* Hero Section */}
       <Hero content={aboutContent.hero} />

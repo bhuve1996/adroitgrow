@@ -29,7 +29,7 @@ export default function ContactPage() {
 
   return (
     <>
-      <JsonLd schema={pageSEO.contact.schema!} />
+      {pageSEO.contact.schema && <JsonLd schema={pageSEO.contact.schema} />}
 
       {/* Hero Section */}
       <Hero content={heroContent} />
