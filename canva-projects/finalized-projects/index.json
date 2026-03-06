@@ -1,0 +1,311 @@
+{
+  "projects": [
+    {
+      "slug": "ajay-air-product",
+      "name": "Ajay Air Product",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 27
+    },
+    {
+      "slug": "appex-ghiloth",
+      "name": "Appex Ghiloth",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 21
+    },
+    {
+      "slug": "ashirvad",
+      "name": "Ashirvad",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 14
+    },
+    {
+      "slug": "atek",
+      "name": "Atek",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 30
+    },
+    {
+      "slug": "b-l-international",
+      "name": "B.L International",
+      "imageCount": 0,
+      "hasText": true,
+      "slide": 4
+    },
+    {
+      "slug": "bharat-polyzone",
+      "name": "Bharat Polyzone",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 34
+    },
+    {
+      "slug": "d-h-lighting",
+      "name": "D H Lighting",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 33
+    },
+    {
+      "slug": "domino",
+      "name": "Domino",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 13
+    },
+    {
+      "slug": "e515-peptech-bioscience-limited",
+      "name": "E515 Peptech bioscience limited",
+      "imageCount": 3,
+      "hasText": false
+    },
+    {
+      "slug": "egro-space-p32",
+      "name": "Egro Space P32",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 35
+    },
+    {
+      "slug": "grinid-tech",
+      "name": "Grinid Tech",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 20
+    },
+    {
+      "slug": "helious-hyderabad",
+      "name": "HELIOUS HYDERABAD",
+      "imageCount": 1,
+      "hasText": true,
+      "slide": 12
+    },
+    {
+      "slug": "helious-specilities-gases-ghiloth",
+      "name": "HELIOUS Specilities Gases GHILOTH",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 11
+    },
+    {
+      "slug": "inox",
+      "name": "INOX",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 13
+    },
+    {
+      "slug": "jmd",
+      "name": "JMD",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 25
+    },
+    {
+      "slug": "jackson-and-company",
+      "name": "Jackson & Company",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 21
+    },
+    {
+      "slug": "kapriwas-warehouse",
+      "name": "Kapriwas Warehouse",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 31
+    },
+    {
+      "slug": "los-angeles",
+      "name": "Los angeles",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 42
+    },
+    {
+      "slug": "neoperl",
+      "name": "Neoperl",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 10
+    },
+    {
+      "slug": "office-interior",
+      "name": "Office interior",
+      "imageCount": 0,
+      "hasText": true,
+      "slide": 9
+    },
+    {
+      "slug": "p-38-rama-krishna",
+      "name": "P 38 Rama krishna",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 36
+    },
+    {
+      "slug": "p09-virat-export",
+      "name": "P09 Virat export",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 37
+    },
+    {
+      "slug": "p11jaedi-greenpack",
+      "name": "P11Jaedi Greenpack",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 37
+    },
+    {
+      "slug": "py-india",
+      "name": "PY India",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 24
+    },
+    {
+      "slug": "polyplastic",
+      "name": "Polyplastic",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 40
+    },
+    {
+      "slug": "precious-electrochem",
+      "name": "Precious Electrochem",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 32
+    },
+    {
+      "slug": "rahul-wire",
+      "name": "Rahul Wire",
+      "imageCount": 0,
+      "hasText": true,
+      "slide": 5
+    },
+    {
+      "slug": "rang-mahal",
+      "name": "Rang Mahal",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 23
+    },
+    {
+      "slug": "s-b-packaging",
+      "name": "S.B Packaging",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 22
+    },
+    {
+      "slug": "sna",
+      "name": "SNA",
+      "imageCount": 3,
+      "hasText": false
+    },
+    {
+      "slug": "scott-spares",
+      "name": "Scott Spares",
+      "imageCount": 0,
+      "hasText": true,
+      "slide": 4
+    },
+    {
+      "slug": "semicon",
+      "name": "Semicon",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 17
+    },
+    {
+      "slug": "supreme-filatech",
+      "name": "Supreme Filatech",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 39
+    },
+    {
+      "slug": "takaru-gomu",
+      "name": "Takaru Gomu",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 15
+    },
+    {
+      "slug": "tecno-polychem",
+      "name": "Tecno polychem",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 5
+    },
+    {
+      "slug": "tegaman-safety",
+      "name": "Tegaman Safety",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 18
+    },
+    {
+      "slug": "tranc-ancr",
+      "name": "Tranc ancr",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 26
+    },
+    {
+      "slug": "tusker",
+      "name": "Tusker",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 41
+    },
+    {
+      "slug": "ultima-mesha",
+      "name": "Ultima Mesha",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 28
+    },
+    {
+      "slug": "unipex",
+      "name": "Unipex",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 38
+    },
+    {
+      "slug": "unique-bimetal",
+      "name": "Unique Bimetal",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 29
+    },
+    {
+      "slug": "urban-grove",
+      "name": "Urban Grove",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 16
+    },
+    {
+      "slug": "yakohama",
+      "name": "Yakohama",
+      "imageCount": 2,
+      "hasText": true,
+      "slide": 8
+    },
+    {
+      "slug": "senrom",
+      "name": "senrom",
+      "imageCount": 3,
+      "hasText": true,
+      "slide": 17
+    }
+  ],
+  "builtAt": "2026-03-06T12:45:44.706Z"
+}

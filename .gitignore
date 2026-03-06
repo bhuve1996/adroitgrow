@@ -40,6 +40,9 @@ next-env.d.ts
 *.swp
 *.swo
 
+# Cursor / MCP (local config)
+.cursor/mcp.json
+
 # Keep .vscode settings but ignore personal settings
 !.vscode/
 .vscode/*
@@ -48,4 +51,16 @@ next-env.d.ts
 
 # OS
 Thumbs.db
+
+# Site Pictures (large project image set inside public)
+public/Site Pictures/
+
+# Tesseract OCR trained data (downloaded at runtime if needed)
+eng.traineddata
+
+# Canva export: full slide PNGs (re-export from Canva if needed)
+canva-projects/Sahil-new-company-profile/slides/
+
+# Finalized project images (duplicate of public/images/projects; regenerate via build-finalized-projects.js)
+canva-projects/finalized-projects/**/images/
 

@@ -1,0 +1,344 @@
+{
+  "hero": {
+    "title": "Our Projects",
+    "subtitle": "Portfolio of Excellence",
+    "description": "Explore our diverse portfolio of successfully delivered industrial and commercial projects across India.",
+    "backgroundImage": "/images/hero/projects-hero.jpg",
+    "cta": []
+  },
+  "filters": {
+    "industries": [
+      "All",
+      "Specialty Gases",
+      "Automotive",
+      "Manufacturing",
+      "Corporate",
+      "Scientific Equipment"
+    ],
+    "locations": [
+      "All",
+      "Ghiloth",
+      "Hyderabad",
+      "IMT Manesar",
+      "IMT Faridabad",
+      "Gurugram",
+      "Other"
+    ],
+    "services": [
+      "All",
+      "Industrial Design",
+      "Interior Design",
+      "Design-Build",
+      "Project Management"
+    ]
+  },
+  "projects": [
+    {
+      "id": "helious-ghiloth",
+      "title": "Helious Specialty Gases",
+      "slug": "helious-specialty-gases-ghiloth",
+      "location": "Ghiloth Industrial Area, Rajasthan",
+      "year": 2022,
+      "category": "Industrial Design",
+      "industry": "Specialty Gases",
+      "description": "Helios Specialty Gases Pvt. Ltd is an industrial and specialty gases importer, manufacturer, and distributor in India. Deals into Pure gases, Rare Gases, Helium, Calibration Gas Standards, Specialty Gases, Hydrocarbons, Gas Cylinders, Gas Regulators, and Gas Handling Equipment sourced from globally renowned companies.",
+      "shortDescription": "Industrial gas manufacturing facility with specialized infrastructure for gas processing and storage.",
+      "image": "/images/projects/helious-ghiloth.jpg",
+      "gallery": [
+        "/images/projects/helious-ghiloth-1.jpg",
+        "/images/projects/helious-ghiloth-2.jpg",
+        "/images/projects/helious-ghiloth-3.jpg"
+      ],
+      "scope": [
+        "Design & Project Management",
+        "PEB Building Design",
+        "Industrial building design",
+        "Process area layout",
+        "Utility infrastructure",
+        "Safety systems integration"
+      ],
+      "stats": {
+        "plotArea": "5 Acre (20000 sqm)",
+        "coveredArea": "Phase-1/6000 sqm",
+        "buildingType": "PEB Building",
+        "status": "Complete"
+      },
+      "testimonial": {
+        "name": "Rajesh Kumar",
+        "company": "Helious Specialty Gases",
+        "role": "Managing Director",
+        "content": "Adroit Grow delivered our facility ahead of schedule with exceptional attention to safety requirements.",
+        "image": "/images/testimonials/client-1.jpg"
+      }
+    },
+    {
+      "id": "helious-hyderabad",
+      "title": "Helious Specialty Gases Pvt. Ltd.",
+      "slug": "helious-specialty-gases-hyderabad",
+      "location": "Jadcherla, Hyderabad",
+      "year": 2022,
+      "category": "Industrial Design",
+      "industry": "Specialty Gases",
+      "description": "Helious Specialty Gases Pvt. Ltd. is an industrial and specialty gases importer, manufacturer, and distributor in India. Deals into Pure gases, Rare Gases, Helium, Calibration Gas Standards, Specialty Gases, Hydrocarbons, Gas Cylinders, Gas Regulators, and Gas Handling Equipment sourced from globally renowned companies.",
+      "shortDescription": "Regional expansion facility for specialty gas manufacturing and distribution.",
+      "image": "/images/projects/helious-hyderabad.jpg",
+      "gallery": [
+        "/images/projects/helious-hyderabad-1.jpg",
+        "/images/projects/helious-hyderabad-2.jpg"
+      ],
+      "scope": [
+        "Design & Supervision",
+        "PEB Building Design",
+        "Structural engineering",
+        "MEP systems",
+        "Safety compliance"
+      ],
+      "stats": {
+        "plotArea": "6176 sqmtr",
+        "coveredArea": "20000 sqmtr",
+        "buildingType": "PEB Building",
+        "status": "Complete"
+      }
+    },
+    {
+      "id": "unique-bimetal",
+      "title": "Unique Bimetal Industries",
+      "slug": "unique-bimetal-ghiloth",
+      "location": "Ghiloth, Rajasthan",
+      "year": 2021,
+      "category": "Industrial Design",
+      "industry": "Manufacturing",
+      "description": "Unique Bimetals is a professional Manufacturer & Supplier of different metal powder in different particle sizes. We offer a wide array of Bi-Metal Strips and Copper Alloy Powder for different applications.",
+      "shortDescription": "Professional Manufacturer & Supplier of metal powder and Bi-Metal Strips.",
+      "image": "/images/projects/unique-bimetal.jpg",
+      "gallery": [
+        "/images/projects/unique-bimetal-1.jpg",
+        "/images/projects/unique-bimetal-2.jpg"
+      ],
+      "scope": [
+        "Design Consultancy",
+        "Factory building design",
+        "Production layout optimization",
+        "MEP infrastructure"
+      ],
+      "stats": {
+        "plotArea": "4000 sqmtr",
+        "coveredArea": "37660 sqft (3500 smtr)",
+        "buildingType": "Industrial",
+        "status": "Running"
+      }
+    },
+    {
+      "id": "grindlays-engine",
+      "title": "Grind Tech Engines Pvt Ltd",
+      "slug": "grindlays-engine-parts-ghiloth",
+      "location": "Ghiloth, Rajasthan",
+      "year": 2022,
+      "category": "Design-Build",
+      "industry": "Automotive",
+      "description": "Grind Tech Engines Pvt Ltd is a certified manufacturer of high performance engine parts in India with a strong presence in the international market. They manufacture Liner and Sleeves, Piston, Piston Rings, Piston Pins, Cylinder Blocks, Engine Valves, Valves Seat Inserts, Valves Guide, Bimetallic Bushes and Bearing. This Company supplies to various Automobile and Industrial Companies in the European Market, the US Market & the Asian Market.",
+      "shortDescription": "Certified manufacturer of high performance engine parts with global presence.",
+      "image": "/images/projects/grindlays.jpg",
+      "gallery": [
+        "/images/projects/grindlays-1.jpg",
+        "/images/projects/grindlays-2.jpg"
+      ],
+      "scope": [
+        "Design Consultancy",
+        "Design-build delivery",
+        "Complete MEP systems",
+        "Quality testing facilities"
+      ],
+      "stats": {
+        "plotArea": "2 Acre (8000 sqmtr)",
+        "coveredArea": "6000 sqmtr",
+        "buildingType": "Industrial",
+        "status": "Complete"
+      }
+    },
+    {
+      "id": "ample-auto",
+      "title": "Ample Auto Tech Pvt Ltd",
+      "slug": "ample-auto-tech-imt-manesar",
+      "location": "IMT Manesar, Haryana",
+      "year": 2023,
+      "category": "Industrial Design",
+      "industry": "Automotive",
+      "description": "Ample Auto Tech Pvt Ltd is a leading Manufacturer and Exporter of Steering & Suspension Parts in India. Their products are applicable to all segments of the automobile industry ranging from commercial vehicles, heavy duty vehicles, passenger vehicles, agricultural vehicles etc.",
+      "shortDescription": "Leading Manufacturer and Exporter of Steering & Suspension Parts in India.",
+      "image": "/images/projects/ample-auto.jpg",
+      "gallery": [
+        "/images/projects/ample-auto-1.jpg",
+        "/images/projects/ample-auto-2.jpg"
+      ],
+      "scope": [
+        "Design Consultancy",
+        "Industrial architecture",
+        "RCC Building Design",
+        "HVAC and utilities"
+      ],
+      "stats": {
+        "plotArea": "4050 sqmtr",
+        "coveredArea": "6000 smtr",
+        "buildingType": "RCC Building",
+        "status": "Complete"
+      },
+      "testimonial": {
+        "name": "Priya Sharma",
+        "company": "Ample Auto Tech",
+        "role": "CEO",
+        "content": "Working with Adroit Grow was a seamless experience. They understood our automotive requirements perfectly.",
+        "image": "/images/testimonials/client-2.jpg"
+      }
+    },
+    {
+      "id": "ajay-air",
+      "title": "Ajay Air Products",
+      "slug": "ajay-air-products-imt-faridabad",
+      "location": "IMT Faridabad, Haryana",
+      "year": 2020,
+      "category": "Industrial Design",
+      "industry": "Specialty Gases",
+      "description": "Ajay Air is a leading industrial and specialty gas importer, manufacturer, and distributor in India. Deals in Pure gases, Rare Gases, Calibration Gas Standards, Specialty Gases, Hydrocarbons, Bulk Cryogenic Liquids, Gas Cylinders, Gas Regulators and Gas Handling Equipment sourced from globally renowned companies.",
+      "shortDescription": "Leading industrial and specialty gas manufacturer and distributor in India.",
+      "image": "/images/projects/ajay-air.jpg",
+      "gallery": ["/images/projects/ajay-air-1.jpg"],
+      "scope": [
+        "Design & Consultancy",
+        "Industrial building design",
+        "Quality assurance",
+        "Project coordination"
+      ],
+      "stats": {
+        "plotArea": "1800 sqmtr",
+        "coveredArea": "2160 sqmtr",
+        "buildingType": "Industrial",
+        "status": "Complete"
+      }
+    },
+    {
+      "id": "jmd-scientific",
+      "title": "JMD Scientific Equipment Pvt Ltd",
+      "slug": "jmd-scientific-equipment-met-reliance",
+      "location": "MET Reliance, Jhajjar, Haryana",
+      "year": 2023,
+      "category": "Industrial Design",
+      "industry": "Scientific Equipment",
+      "description": "JMD Scientific Equipment Pvt Ltd is headquartered in Gurgaon, Haryana and is a leading manufacturer, supplier and exporter of Physics, Chemistry and General Lab Equipment. Having fully equipped Tool Room for making all types of Sheet metal and Plastic tools with Injection molding facility.",
+      "shortDescription": "Leading manufacturer of Physics, Chemistry and General Lab Equipment.",
+      "image": "/images/projects/jmd-scientific.jpg",
+      "gallery": ["/images/projects/jmd-scientific-1.jpg"],
+      "scope": [
+        "Design Consultancy & Project Management",
+        "Facility design",
+        "Tool Room setup",
+        "Injection molding facility"
+      ],
+      "stats": {
+        "plotArea": "1 Acre (4000 sqmtr)",
+        "coveredArea": "3000 sqmtr",
+        "buildingType": "Industrial",
+        "status": "Complete"
+      }
+    },
+    {
+      "id": "dlf-corporate",
+      "title": "DLF Corporate Green",
+      "slug": "dlf-corporate-green-gurugram",
+      "location": "Gurugram, Haryana",
+      "year": 2022,
+      "category": "Interior Design",
+      "industry": "Corporate",
+      "description": "Premium corporate office interior design and execution for a leading enterprise at DLF Corporate Green. The project showcased modern workspace design with focus on employee well-being.",
+      "shortDescription": "Premium corporate office interior with modern workspace design elements.",
+      "image": "/images/projects/dlf-corporate.jpg",
+      "gallery": [
+        "/images/projects/dlf-corporate-1.jpg",
+        "/images/projects/dlf-corporate-2.jpg"
+      ],
+      "scope": [
+        "Interior concept design",
+        "Space planning",
+        "Furniture design",
+        "Complete fitout execution"
+      ],
+      "stats": {
+        "area": "12,000 sq.ft.",
+        "duration": "4 months",
+        "type": "Interior Fitout"
+      }
+    },
+    {
+      "id": "olympus-interior",
+      "title": "Olympus Corporate Interior",
+      "slug": "olympus-corporate-interior",
+      "location": "Gurugram, Haryana",
+      "year": 2023,
+      "category": "Interior Design",
+      "industry": "Corporate",
+      "description": "Corporate office interior for Olympus reflecting the brand's values of precision and innovation. The design incorporated Japanese design principles with modern functionality.",
+      "shortDescription": "Corporate interior reflecting brand values of precision and innovation.",
+      "image": "/images/projects/olympus-interior.jpg",
+      "gallery": ["/images/projects/olympus-interior-1.jpg"],
+      "scope": [
+        "Concept development",
+        "Brand integration",
+        "Interior execution",
+        "Furniture procurement"
+      ],
+      "stats": {
+        "area": "8,000 sq.ft.",
+        "duration": "3 months",
+        "type": "Interior Fitout"
+      }
+    },
+    {
+      "id": "sonepar-interior",
+      "title": "Sonepar Office Interior",
+      "slug": "sonepar-office-interior",
+      "location": "Gurugram, Haryana",
+      "year": 2023,
+      "category": "Interior Design",
+      "industry": "Corporate",
+      "description": "Office interior fitout for Sonepar, a global leader in electrical distribution. The design focused on creating a collaborative work environment with flexible spaces.",
+      "shortDescription": "Collaborative workspace design with flexible work areas and modern amenities.",
+      "image": "/images/projects/sonepar-interior.jpg",
+      "gallery": ["/images/projects/sonepar-interior-1.jpg"],
+      "scope": [
+        "Space planning",
+        "Interior design",
+        "MEP coordination",
+        "Complete fitout"
+      ],
+      "stats": {
+        "area": "10,000 sq.ft.",
+        "duration": "3 months",
+        "type": "Interior Fitout"
+      }
+    },
+    {
+      "id": "star-specialty",
+      "title": "Star Specialty Gases",
+      "slug": "star-specialty-gases-imt-manesar",
+      "location": "IMT Manesar, Haryana",
+      "year": 2024,
+      "category": "Design-Build",
+      "industry": "Specialty Gases",
+      "description": "Design-build project for specialty gas manufacturing and storage facility. The project emphasized safety systems and compliance with hazardous material handling regulations.",
+      "shortDescription": "Specialty gas facility with advanced safety systems and regulatory compliance.",
+      "image": "/images/projects/star-specialty.jpg",
+      "gallery": ["/images/projects/star-specialty-1.jpg"],
+      "scope": [
+        "Design-build delivery",
+        "Safety system design",
+        "Regulatory compliance",
+        "Specialized infrastructure"
+      ],
+      "stats": {
+        "area": "20,000 sq.ft.",
+        "duration": "10 months",
+        "type": "Design-Build"
+      }
+    }
+  ]
+}

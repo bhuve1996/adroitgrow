@@ -1,0 +1,528 @@
+{
+  "_image_export_note": "Each page has one exported image (full slide PNG). Individual images within a slide are not available via Canva Connect API; see canva-projects/README.md.",
+  "projects": [
+    {
+      "id": "DAHDI6P6WMg",
+      "title": "Sahil new company profile",
+      "owner": {
+        "user_id": "oUYM99WMZMC-ykV0ffkoQk",
+        "team_id": "oBYM97VzavBS1W20ud5JbY"
+      },
+      "thumbnail": {
+        "width": 595,
+        "height": 335,
+        "url": "https://design.canva.ai/Xe3Yu3EP_zj01EO"
+      },
+      "urls": {
+        "edit_url": "https://www.canva.com/d/Q9bir9f17mV-YFL",
+        "view_url": "https://www.canva.com/d/NcygD8Ga1SGG1lI"
+      },
+      "created_at": 1772768541,
+      "updated_at": 1772768939,
+      "page_count": 55,
+      "pages": [
+        {
+          "index": 1,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-001.png",
+          "text_file": "text/slide-001.txt"
+        },
+        {
+          "index": 2,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-002.png",
+          "text_file": "text/slide-002.txt"
+        },
+        {
+          "index": 3,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-003.png",
+          "text_file": "text/slide-003.txt"
+        },
+        {
+          "index": 4,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-004.png",
+          "text_file": "text/slide-004.txt"
+        },
+        {
+          "index": 5,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-005.png",
+          "text_file": "text/slide-005.txt"
+        },
+        {
+          "index": 6,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-006.png",
+          "text_file": "text/slide-006.txt"
+        },
+        {
+          "index": 7,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-007.png",
+          "text_file": "text/slide-007.txt"
+        },
+        {
+          "index": 8,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-008.png",
+          "text_file": "text/slide-008.txt"
+        },
+        {
+          "index": 9,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-009.png",
+          "text_file": "text/slide-009.txt"
+        },
+        {
+          "index": 10,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-010.png",
+          "text_file": "text/slide-010.txt"
+        },
+        {
+          "index": 11,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-011.png",
+          "text_file": "text/slide-011.txt"
+        },
+        {
+          "index": 12,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-012.png",
+          "text_file": "text/slide-012.txt"
+        },
+        {
+          "index": 13,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-013.png",
+          "text_file": "text/slide-013.txt"
+        },
+        {
+          "index": 14,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-014.png",
+          "text_file": "text/slide-014.txt"
+        },
+        {
+          "index": 15,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-015.png",
+          "text_file": "text/slide-015.txt"
+        },
+        {
+          "index": 16,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-016.png",
+          "text_file": "text/slide-016.txt"
+        },
+        {
+          "index": 17,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-017.png",
+          "text_file": "text/slide-017.txt"
+        },
+        {
+          "index": 18,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-018.png",
+          "text_file": "text/slide-018.txt"
+        },
+        {
+          "index": 19,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-019.png",
+          "text_file": "text/slide-019.txt"
+        },
+        {
+          "index": 20,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-020.png",
+          "text_file": "text/slide-020.txt"
+        },
+        {
+          "index": 21,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-021.png",
+          "text_file": "text/slide-021.txt"
+        },
+        {
+          "index": 22,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-022.png",
+          "text_file": "text/slide-022.txt"
+        },
+        {
+          "index": 23,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-023.png",
+          "text_file": "text/slide-023.txt"
+        },
+        {
+          "index": 24,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-024.png",
+          "text_file": "text/slide-024.txt"
+        },
+        {
+          "index": 25,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-025.png",
+          "text_file": "text/slide-025.txt"
+        },
+        {
+          "index": 26,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-026.png",
+          "text_file": "text/slide-026.txt"
+        },
+        {
+          "index": 27,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-027.png",
+          "text_file": "text/slide-027.txt"
+        },
+        {
+          "index": 28,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-028.png",
+          "text_file": "text/slide-028.txt"
+        },
+        {
+          "index": 29,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-029.png",
+          "text_file": "text/slide-029.txt"
+        },
+        {
+          "index": 30,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-030.png",
+          "text_file": "text/slide-030.txt"
+        },
+        {
+          "index": 31,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-031.png",
+          "text_file": "text/slide-031.txt"
+        },
+        {
+          "index": 32,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-032.png",
+          "text_file": "text/slide-032.txt"
+        },
+        {
+          "index": 33,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-033.png",
+          "text_file": "text/slide-033.txt"
+        },
+        {
+          "index": 34,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-034.png",
+          "text_file": "text/slide-034.txt"
+        },
+        {
+          "index": 35,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-035.png",
+          "text_file": "text/slide-035.txt"
+        },
+        {
+          "index": 36,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-036.png",
+          "text_file": "text/slide-036.txt"
+        },
+        {
+          "index": 37,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-037.png",
+          "text_file": "text/slide-037.txt"
+        },
+        {
+          "index": 38,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-038.png",
+          "text_file": "text/slide-038.txt"
+        },
+        {
+          "index": 39,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-039.png",
+          "text_file": "text/slide-039.txt"
+        },
+        {
+          "index": 40,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-040.png",
+          "text_file": "text/slide-040.txt"
+        },
+        {
+          "index": 41,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-041.png",
+          "text_file": "text/slide-041.txt"
+        },
+        {
+          "index": 42,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-042.png",
+          "text_file": "text/slide-042.txt"
+        },
+        {
+          "index": 43,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-043.png",
+          "text_file": "text/slide-043.txt"
+        },
+        {
+          "index": 44,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-044.png",
+          "text_file": "text/slide-044.txt"
+        },
+        {
+          "index": 45,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-045.png",
+          "text_file": "text/slide-045.txt"
+        },
+        {
+          "index": 46,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-046.png",
+          "text_file": "text/slide-046.txt"
+        },
+        {
+          "index": 47,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-047.png",
+          "text_file": "text/slide-047.txt"
+        },
+        {
+          "index": 48,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-048.png",
+          "text_file": "text/slide-048.txt"
+        },
+        {
+          "index": 49,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-049.png",
+          "text_file": "text/slide-049.txt"
+        },
+        {
+          "index": 50,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-050.png",
+          "text_file": "text/slide-050.txt"
+        },
+        {
+          "index": 51,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-051.png",
+          "text_file": "text/slide-051.txt"
+        },
+        {
+          "index": 52,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-052.png",
+          "text_file": "text/slide-052.txt"
+        },
+        {
+          "index": 53,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-053.png",
+          "text_file": "text/slide-053.txt"
+        },
+        {
+          "index": 54,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-054.png",
+          "text_file": "text/slide-054.txt"
+        },
+        {
+          "index": 55,
+          "dimensions": {
+            "width": 1920,
+            "height": 1080
+          },
+          "image_file": "slides/page-055.png",
+          "text_file": "text/slide-055.txt"
+        }
+      ],
+      "text_content": "COMPANY PROFILE \nEmpowering Growth with Professionals.\nAdroit grow private limited \nAdroit Grow Private LimitedProject Management consultancyIndustrial Architectural & Design office Interiors\n851 Sector 15 Part-II Basement Gurugramemail:- manish.bhatnagar@adroitgrow.comweb:- www.adroitgrow.comcontact:-9818284201\nAbout the Company\nAdroit Grow Private limited founded by Mr. Manish Bhatnagar, a Civil Engineer with vast experience of 25+ years executing Industrial, Commercial & Interior Spaces. In his career, He has executed 150+ projects successfully with more than 70 Industrial projects in IMT Manesar itself. With a deep knowledge of technical know-how of Civil, HVAC, Plumbing, Electrical, Solar, PEB Structures and farsightedness, he is an expert of Project Management of handling multiple projects at a time. He has done projects for a mix of clients including Japanese Multinationals, Indian Conglomerates, SMEs, Automobile ancillaries, Garment manufacturing Units, Plastic Injection Molding Factories, Engineering Industries and specialized in the Tire Industry. Passionate about his work and each site, Energetic, People-Centric, his experience and insights are taking Adroit Grow to newer heights.Adroit Grow provides a single window one-stop solution to their customer with an emphasis on cost control & value additions by utilizing current Technologies & hands-on industrial experience.\"Specialized in Industrial greenfield projects from Concept Design to Productive stage\nSERVICES \nPROJECT MANAGEMENT CONSULTANCY (PMC)\nSchematic Design and planning Inputs  Master Project Planning & Scheduling  Contract AdministrationAppropriate Technology & General contractor  selectionStatutory ApprovalsCost Estimation control  Site Supervision ControlTesting and CommissioningTender documents negotiation  Machine Installation SupportTest Trial to Final Production Support\nARCHITECTURIAL & ENGINEERING DESIGN \nLiasioning with the local authority for permissionand approvalSchematic DesignDesign Development Construction documentsBidding and NegotiationBudgeting & Estimationbill verification 3D design Pre Engineering Building DesignRCC Building Design Fire fighting design Sanitary & Plumbing design Electrical design Vastu Implementation  As build drawingGreen Building Design\nOFFICE Interior & Fitouts\nConcept and design Layouts of interior Space Planning Project Management Cost estimating Fit outand construction3D design & VR Civil, Structural, mechanical. electrical networking HVAC etc )Execution Furniture DesignHealth and safetycomplianceAs build drawing , Operation Manual Training \n Domino Printech\nSonepar\nScott Spares\nUnique Bimetal\nTrans ACNR\nReliance Industries\nHelious Speciality\nSemicon Speciality\n Ergo Space\nOlympus\nTusker Tech Auto\nIndustrial Gases \nIndustrial Gases \nAlcob\nRahul Wire\nUnipex\nAtek\nAppex Industries\nTechno Polychem\nJMD Dynamic\nPriyanka India\nRang Mahal\nTimes Marketing\nTYPE OF INDUSTRIES\nTYPE OF INDUSTRY\nCOMPANY NAME\nYokohama \nD H Lighting\nPolyplastic\nGrindtech\nMax Bros\nAshirvad \nNeoperl\nAjay Air\nTire \nPVC Pipes \nIndustrial Printer \nMedical Equipment \nAutomotive Light (teir 1)\nElectrical Equipment\nSanitation \nSteel Fabrication  (teir 1)\nPlastic Injection Moulding (teir 1)\nAutomotive Parts  (teir 1)\nAutomotive Parts \nCopper Strip \nAir Conditioner \nBiomass\nIndustrial Gases \nElectrical Panel \nModular Furniture \nB L International\nTYPE OF INDUSTRY\nFabrication DG set \n Oxygen Plant \nPlastic Packaging  \n Medical  \nAluminium \nE D Coating \nElectronic (teir 1) \nAutomotive (teir 1) \nPharmaceutical \nPlastic Blow Moulding\n Steel & Garment \nColour Master Batches \nAutomotive \nFabrication EOT Crane \nHair Brussel \n Plastic Injection Moulding \nPlastic Granule/UPVC Window \nPlating Chemical \nGarments \nS.B. Packaging\nTegaman Safety\nSupreme Filatech\nJR Automotive\nPrecious Electrochem\nBombay Fancy\nJackson & Company\nStar Cryogenic\nCOMPANY NAME\nAdroit special  Experience \n\nWork Experience\nSpecialized in Industrial greenfield/ Brown field projects from Concept Design to Productive stage.Working experience of more than 20Yr with Industrial    Architects in Delhi NCR.\nsemicon\nBombay Fancy\nNational Projects\nInternational Projects\nOUR PRESENCE\n\n\nInternational experience\nPHILIPPINES,THAILAND,CHINA\nTo setup new plant in India visit international sister company plants in different country and take traning and idea of designing & execution till production .\n\nYokohama A Japanese MNC ranking in world top 10 industry of tire  manufacturing . Mr Manish Bhatnagar (Adroit Chief Project Officer) working  as a Project head on behalf of Yokohama from 2012-2018 in green field to Production manufacturing.Plot Area:-      25 Acre (101250 sqmtr)Covered Area:- PEB building -16000 sqmtr                         Rcc building -1000   sqmtr  Project Cost- 75 CrLocation- Bahadurgarh ( Haryana)Year -2014\nProjects \nYokohama India Private Limited \n\nMixing Plant \nProjects \nYokohama India Private Limited (Project Images)\nRM Store \nUtility Driveway  \nDry Wall Partition \nMachine  Installation \nFire Pump Room \n\nNEOPERL INDIA \n Plot Area - 3.00 Acre (12000 sqmtr)Covered Area - 10000 sqmLocation - MET Reliance (Footwear Park)     Year - 25-july-2025                                           Scope of Work -  Project Management                                                                                   \nProjects \nIndia Plant \nThailand Plant \nHelios Specialty Gases Pvt. Ltd is an industrial and specialty gases importer, manufacturer, and distributor in India. Deals into Pure gases, Rare Gases, Helium, Calibration Gas Standards, Specialty Gases, Hydrocarbons, Gas Cylinders, Gas Regulators, and Gas Handling Equipment sourced from globally renowned companies.Plot Area: 5 Acre (20000 sqm)Covered Area:-PEB building (Phase-1/6000 sqm) Location- Ghiloth Industrial Area(Rajasthan)Scope of Work:-Design & Project management Consultancy       Status:- Complete                                                                                                   \n\nHelious Specialty air gases private limited \nProjects \n\nHelious Specialty air gases private limited Green Industrial Park, JadcharlaTelanganaPlot Area -6176 sqmType of building - PEB BuildingScope of Work - Design Consultancy\nProjects \n\nProjects \nDomino Printech India LLPIMT(Manesar)\nPlot Area -4000 sqm\n\n ASHIRVAD PIPES PVT.LTD. Plot Area -54205 sqmType of Building  - PEB BuildingScope of Work:-Design ConsultancyLocation:- Khushkhera,Rajasthan\n PROJECTS\n\n TAKERU GOMU & JMX WORKS Plot Area -5666 sqmType of Building  - PEB BuildingScope of Work:-Design ConsultancyLocation:- Dharuhera,Rewari,Haryana\n PROJECTS\n\n URBAN GROOVES  Plot Area -14110 sqmType of Building- PEB+RCC BuildingScope of Work:-Design& PMCLocation:- BHIWADI Karoli, Industrial Area, Rajasthan \n PROJECTS\n\nSemicon Specialty Gases Pvt. Ltd is an industrial and specialty gases importer, manufacturer, and distributor in India. Deals into Pure gases, Rare Gases, Helium, Calibration Gas Standards, Specialty Gases, Hydrocarbons, Gas Cylinders, Gas Regulators, and Gas Handling Equipment sourced from globally renowned companies.Plot Area: 5 Acre (20000 sqm)Covered Area:-PEB building (Phase-1/2500 sqm)Location- Ghiloth Industrial Area(Rajasthan)Scope of Work:-Design & Project management Consultancy                                                                                                                              \nSemicon Specility air gases private limited \nsemicon\nProjects \nTEGAMAN SAFETY PRODUCTS Pvt. Ltd Manufacturer of safety gloves set up a plant with the collaboration of an American company in Ghiloth industrial area    Plot Area: 2.81 Acre (11395 sqmtr)Covered Area :-PEB building (9000 sqmtr)Location- Ghiloth Industrial Area(Rajasthan)Year -Dec-2020Scope of Work :-Design & supervisionStatus:- Complete                                                                                                   \n\nTEGAMAN SAFETY PRODUCTS PRIVATE LIMITED  \nProjects \n\nSCOTT SPARES & AUTOMOBILES PARTS PVT LTD \nProjects \nPlot Area: 2Acre (8000 sqmtr)Covered Area:-PEB building (6000 sqmtr)Location- Ghiloth Industrial Area(Rajasthan)Year -JAN-2022Scope of Work:-Design & supervision                                                                                                   \n\nProjects \nGRINID TECH ENGINE PVT. LTD.\nPlot Area: 2Acre (8000 sqmtr)Covered Area:-PEB building (6000 sqmtr)Location- Ghiloth Industrial Area(Rajasthan)Year -JAN-2022Scope of Work:-Design & supervision                                                                                                  \nJAKSON & COMPANYPlot Area: 17 Acre (68000 sqm) Covered Area:-PEB building ( 32000      Sqmtr)Location- Karoli Industrial        Area(Rajasthan)         Scope of Work :- Project management                                                                                                  \n\nProjects \nS B Packaging Private Limited\nPlot Area - 4.50 Acre (18225 sqmtr)Existing building renovation - PEB+RCC buildingLocation - Sampla (Haryana)Scope of Work - Interiors & Project management consultancy                                                                                                                                       \n\nProjects \nSachdeva Polycolor RANG MAHAL (Master Batches)\n Plot Area - 3.00 Acre (12000 sqmtr)Covered Area - 8000 sqmLocation - MET Reliance (Footwear Park)     Year - Feb-2022                                            Scope of Work -  Design & Project management                                                                                   \n\nProjects \nPlot Area - 10733 sqmType of Building  - PEB buildingScope of Work - Design ConsultancyLocation - Reliance MET Jhajjar \n\nPriyanka (India) Pvt. Ltd. \nProjects \nIGBC Certified Platinum Rating\n\n JMD DYNAMIC MET Reliance ( Jhajjar) \nPlot Area - 1.00 Acre (4000 sqmtr)Covered Area - 3000 sqmLocation - MET Reliance (Jhajjar)     Year - Feb-2023Scope of Work - Design & Project management                                                                                                                         \nProjects \n\nProjects \nTRANS ACNR Solutions Pvt Ltd Plot Area:------------------- 13.00 Acre (52000 sqm)Covered Area--------------- 31590 sqmLocation- GhilothYear - Aug-22Scope of Work:- Design Consultancy   \n\nAjay Air Products \nProjects \nAjay air a leading industrial and specialty gas importer, manufacturer, and distributor in India. Deal in Puregases, Rare Gases, Calibration Gas Standards, Specialty Gases, Hydrocarbons, Bulk Cryogenic Liquids, Gas Cylinders, Gas Regulators and Gas Handling Equipment sourced from globally renowned companiesPlot Area - (1800 sqmtr)Covered Area - PEB 2160 sqmtrProject Cost - 2.50 Cr  Location - IMT Faridabad( Haryana)Year - 2020                        \n\nULTIMA MESA Plot Area -4000 sqmType of Building  - PEB buildingScope of Work - Design ConsultancyYear - February 2022Location - Neemrana   \nProjects \nUnique BimetalsPlot Area -4000 sqmType of Building  -  PEB BuildingScope of Work - Design ConsultancyYear - April 2022Location - Ghiloth   \n\nProjects \n\nProjects \nPlot Area - 4050 sqmtrCovered Area - 68000sqft, RCC BuildingClient - Ample Auto Tech Pvt. Ltd.Scope of Work - Architectural & Engineering Design \nAmple Auto Tech Pvt. Ltd.\n\nKapriwas Warehouse Plot Area -11000 sqmType of Building  - PEB buildingScope of Work:- Design ConsultancyLocation:- NH8 Dharuhera  \nProjects \n\nPRECIOUS ELECTROCHEM\nPlot Area -13124.54 sq.m.Type of Building  - PEB BuildingScope of Work:- Design ConsultancyLocation:- Ghiloth, Rajasthan \nProjects \n\nD H LIGHTING  Plot Area -3900 sqmType of Building  - PEB BuildingScope of Work:-Design&Project ManagementLocation:- Kolila Joga (Neemrana)\n PROJECTS\n\n BHARAT POLYZONE Plot Area -4073 sqmType of Building  - PEB BuildingScope of Work:-Design ConsultancyLocation:- Malha Majara\n PROJECTS\n\nTIRUPATI WORKSPACEPlot Area -4000 sqmType of Building  - PEB Building Scope of Work:- Design & Project ManagementLocation:- MET Reliance sec-7A \n PROJECTS\n\nRamakrishan venkatesh(P 38)METPlot Area -1000 sqmType of Building  - PEB BuildingScope of Work:- Design & Project ManagementLocation:- MET Reliance \n PROJECTS\n\nVirat ExportPlot Area -0.55 acreType of Building  - PEB BuildingScope of Work:- Design ConsultancyLocation:- Reliance Met Sec 4 \n PROJECTS\n\n PROJECTS\nUnipexPlot Area - 8000 sqmType of Building  - RCC BuildingScope of Work:- Design & Project Management Location:- Reliance MET \n\nSupreme FilatechPlot Area -13000 sqmType of Building  - PEB BuildingScope of Work:- Design & Project ManagementLocation:- Ghiloth, Rajasthan \n PROJECTS\n\npoly plastic india pvt.ltd.Plot Area -12140sqmType of Building  -PEB BuildingScope of Work:-   Design & Project ManagementLocation:-kharkhoda \n PROJECTS\n\nTusker tech autoPlot Area -10000 sqmType of Building  -PEB BuildingScope of Work:-   Design & Project ManagementLocation:-Mahindra world city, Jaipur, Rajasthan \n PROJECTS\n\nlos ANGELES FOOD PROCESSINGPlot Area -22222 sqmType of Building  -PEB BuildingScope of Work:-   Design Location:-I.M.T, Bawal/Haryana \n PROJECTS\n\n PROJECTS\nhelious corporate officePlot Area -   700sqmType of Building  -PEB BuildingScope of Work:- Design Consultancy Location:- Okhla,Phase-I, New Delhi \n\n PROJECTS\nappexPlot Area - 4130 sqmType of Building  -PEB BuildingScope of Work:- Design &Build Location:- Ghiloth,Rajasthan \n\n PROJECTS\nSNA prime feed pvt.ltd. Plot Area - 1755 sqmType of Building  -PEB BuildingScope of Work:- Design Consultancy Location:- Ghiloth,Rajasthan \n\n PROJECTS\nTECHNO POLYCHEMPlot Area - 2300 sqmType of Building  - RCC+PEB BuildingScope of Work:- Design Consultancy Location:- Reliance MET\nOFFICE INTERIOR\n\n\nHelious Specialty Gases Pvt Limited (Ghiloth)   \nOFFICE INTERIOR\nOFFICE INTERIORS  \nStar Specialty gases Private limited (Manesar)   \n\n\nOFFICE INTERIORS  \nOffice At Eros Group Manesar  \n\nMax Bros Ventures Unit-3  (Manesar)   \nOFFICE INTERIORS  \n\nMax Bros Ventures Unit-1  Cafeteria (Manesar)   \nOFFICE INTERIORS  \n\nOlympus medical systems India pvt ltd (Gurgaon)    \nOFFICE INTERIORS  \n\nOFFICE INTERIORS  \nDLF Corporate Green Gurgaon\n\n Project Management Industrial Architectural & Engineering Design Office Interiors www.adroitgrow.comadmin@adroitgrow.comOffice :- Unit no-522, Vipul Business Park, Sector-48, Sohna Road  Gurugram 122001Contact :- 9818284201",
+      "text_files": {
+        "full_design": "text/full-design-text.txt",
+        "per_slide": "text/slide-XXX.txt"
+      }
+    }
+  ],
+  "fetched_at": "2026-03-06"
+}
