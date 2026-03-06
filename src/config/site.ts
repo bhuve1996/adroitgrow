@@ -40,7 +40,7 @@ export const companyStats = {
   yearsExperience: 20,
   projectsCompleted: 150,
   industrialProjectsManesar: 70,
-  statesOperated: 10,
+  statesOperated: 10, // legacy; presence is pan India
 }
 
 // Industries served

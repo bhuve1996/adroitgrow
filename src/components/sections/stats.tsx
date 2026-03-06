@@ -22,9 +22,10 @@ function AnimatedNumber({
   const ref = useRef(null)
   const isInView = useInView(ref, { once: true })
   const numericValue = parseInt(value, 10)
+  const isNumeric = !Number.isNaN(numericValue) && value.trim() !== ''
 
   useEffect(() => {
-    if (isInView) {
+    if (isNumeric && isInView) {
       const duration = 2000
       const steps = 60
       const increment = numericValue / steps
@@ -43,7 +44,17 @@ function AnimatedNumber({
       return () => clearInterval(timer)
     }
     return undefined
-  }, [isInView, numericValue])
+  }, [isInView, numericValue, isNumeric])
+
+  if (!isNumeric) {
+    return (
+      <span ref={ref}>
+        {prefix}
+        {value}
+        {suffix}
+      </span>
+    )
+  }
 
   return (
     <span ref={ref}>
@@ -58,7 +69,7 @@ export function Stats({ stats }: StatsProps) {
   return (
     <Section className="bg-surface-darker" noPadding>
       <div className="border-y border-border-muted py-16 lg:py-20">
-        <div className="grid grid-cols-2 gap-8 lg:grid-cols-4 lg:gap-12">
+        <div className="grid grid-cols-2 gap-8 gap-y-10 sm:grid-cols-3 sm:gap-12">
           {stats.map((stat, index) => (
             <motion.div
               key={index}

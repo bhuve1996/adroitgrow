@@ -77,11 +77,11 @@ export default function HomePage() {
         title={homeContent.processSection.title}
       />
 
-      {/* Testimonials */}
-      <Testimonials
+      {/* Testimonials – commented out until we have real testimonials */}
+      {/* <Testimonials
         testimonials={homeContent.testimonials.items}
         title={homeContent.testimonials.title}
-      />
+      /> */}
 
       {/* CTA Section */}
       <CTASection

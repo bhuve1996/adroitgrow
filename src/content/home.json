@@ -1,9 +1,10 @@
 {
   "hero": {
     "title": "Empowering Growth With Professionals",
-    "subtitle": "Specialized in Industrial Greenfield Projects",
+    "subtitle": "Specialized in Industrial Projects",
     "description": "From Concept Design to Productive Stage - We deliver turnkey industrial and commercial solutions with precision, innovation, and unwavering commitment to quality.",
     "backgroundImage": "/images/hero/industrial-hero.jpg",
+    "backgroundVideo": "https://cdn.coverr.co/videos/coverr-industrial-construction-site-417847/417847_preview.mp4",
     "cta": [
       {
         "label": "Explore Projects",
@@ -22,7 +23,6 @@
     "description": "Adroit Grow Private Limited founded by Mr. Manish Bhatnagar, a Civil Engineer with vast experience of 20+ years executing Industrial, Commercial & Interior Spaces. We provide a single window one-stop solution with emphasis on cost control & value additions by utilizing current Technologies & hands-on industrial experience.",
     "highlights": [
       "150+ Projects Successfully Completed",
-      "70+ Industrial Projects in IMT Manesar",
       "Single Window Solution Provider",
       "Expertise in Civil, HVAC, Plumbing, Electrical, Solar, PEB"
     ],
@@ -108,29 +108,7 @@
   },
   "testimonials": {
     "title": "What Our Clients Say",
-    "items": [
-      {
-        "name": "Rajesh Kumar",
-        "company": "Helious Specialty Gases",
-        "role": "Managing Director",
-        "content": "Adroit Grow delivered our Ghiloth facility ahead of schedule. Their attention to detail and understanding of industrial requirements is exceptional.",
-        "image": "/images/testimonials/client-1.jpg"
-      },
-      {
-        "name": "Priya Sharma",
-        "company": "Ample Auto Tech",
-        "role": "CEO",
-        "content": "Working with Adroit Grow was a seamless experience. They managed every aspect of our IMT Manesar project with professionalism and expertise.",
-        "image": "/images/testimonials/client-2.jpg"
-      },
-      {
-        "name": "Vikram Singh",
-        "company": "Unique Bimetal",
-        "role": "Director",
-        "content": "The team's expertise in industrial architecture is unmatched. They delivered exactly what we envisioned, within budget and timeline.",
-        "image": "/images/testimonials/client-3.jpg"
-      }
-    ]
+    "items": []
   },
   "stats": [
     {
@@ -144,14 +122,9 @@
       "suffix": "+"
     },
     {
-      "value": "70",
-      "label": "Industrial Projects in IMT Manesar",
-      "suffix": "+"
-    },
-    {
-      "value": "10",
-      "label": "States Covered",
-      "suffix": "+"
+      "value": "Nationwide",
+      "label": "Reach",
+      "suffix": ""
     }
   ],
   "ctaSection": {

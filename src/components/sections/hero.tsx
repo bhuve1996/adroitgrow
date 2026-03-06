@@ -10,18 +10,39 @@ interface HeroProps {
 }
 
 export function Hero({ content, variant = 'page' }: HeroProps) {
-  const { title, subtitle, description, cta, backgroundImage } = content
+  const { title, subtitle, description, cta, backgroundImage, backgroundVideo } = content
   const isHome = variant === 'home'
+  const useVideo = isHome && backgroundVideo
 
   return (
     <section
-      className="relative flex min-h-[60vh] items-center lg:min-h-[80vh]"
-      style={{
-        backgroundImage: backgroundImage ? `url(${backgroundImage})` : undefined,
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
-      }}
+      className="relative flex min-h-[60vh] items-center overflow-hidden lg:min-h-[80vh]"
+      style={
+        !useVideo && backgroundImage
+          ? {
+              backgroundImage: `url(${backgroundImage})`,
+              backgroundSize: 'cover',
+              backgroundPosition: 'center',
+            }
+          : undefined
+      }
     >
+      {/* Video background (homepage only when backgroundVideo is set) */}
+      {useVideo && (
+        <div className="absolute inset-0">
+          <video
+            autoPlay
+            muted
+            loop
+            playsInline
+            className="h-full w-full object-cover"
+            poster={backgroundImage}
+          >
+            <source src={backgroundVideo} type="video/mp4" />
+          </video>
+        </div>
+      )}
+
       {/* Overlay */}
       <div className="absolute inset-0 bg-hero-pattern" />
 

@@ -180,10 +180,10 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
         </Section>
       )}
 
-      {/* Testimonial */}
-      {project.testimonial && (
+      {/* Testimonial – commented out until we have real testimonials */}
+      {/* {project.testimonial && (
         <Testimonials title="Client Feedback" testimonials={[project.testimonial]} />
-      )}
+      )} */}
 
       {/* Related Projects */}
       {relatedProjects.length > 0 && (
