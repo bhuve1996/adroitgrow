@@ -55,6 +55,9 @@ Thumbs.db
 # Site Pictures (large project image set inside public)
 public/Site Pictures/
 
+# Large hero/banner videos (host locally or on CDN; exceeds GitHub 100MB limit)
+public/wesbite-videos/
+
 # Tesseract OCR trained data (downloaded at runtime if needed)
 eng.traineddata
 
