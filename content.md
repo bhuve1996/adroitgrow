@@ -206,7 +206,7 @@ _(No descriptions exist on site — only titles, so titles are extracted.)_
 {
   "contact": {
     "email": "manish.bhatnagar@adroitgrow.com",
-    "address": "Sector 15 Part-II, Basement, Gurugram, Haryana, 122001",
+    "address": "Vipul Business Park, Central Park II Rd, Vipul World, Sector 48, Gurugram, Haryana 122018",
     "form_fields": ["Name", "Email", "Phone", "Message"]
   }
 }

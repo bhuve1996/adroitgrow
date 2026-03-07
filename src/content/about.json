@@ -72,9 +72,41 @@
         "bio": "A Civil Engineer with vast experience of 25+ years executing Industrial, Commercial & Interior Spaces. He has executed 150+ projects successfully with more than 70 Industrial projects in IMT Manesar itself. With deep knowledge of technical know-how of Civil, HVAC, Plumbing, Electrical, Solar, PEB Structures and farsightedness, he is an expert of Project Management of handling multiple projects at a time. He has done projects for Japanese Multinationals, Indian Conglomerates, SMEs, Automobile ancillaries, Garment manufacturing Units, Plastic Injection Molding Factories, Engineering Industries and specialized in the Tire Industry. Passionate about his work and each site, Energetic, People-Centric, his experience and insights are taking Adroit Grow to newer heights.",
         "image": "/images/team/manish-bhatnagar.jpg",
         "linkedin": "https://www.linkedin.com/in/manishbhatnagar",
-        "email": "manish.bhatnagar@adroitgrow.com"
+        "email": "manish.bhatnagar@adroitgrow.com",
+        "level": 0
+      },
+      {
+        "id": "suresh-yadav",
+        "name": "Suresh Yadav",
+        "role": "Site Engineer",
+        "bio": "Site Engineer with hands-on experience in execution and supervision of industrial and commercial projects. Ensures quality and timely delivery on site.",
+        "image": "/images/team/manish-bhatnagar.jpg",
+        "level": 1,
+        "reportsTo": "manish-bhatnagar"
+      },
+      {
+        "id": "pragati-yadav",
+        "name": "Pragati Yadav",
+        "role": "Architect | Interior Designer",
+        "bio": "Architect and Interior Designer focused on industrial and commercial spaces. Delivers integrated design solutions from concept to execution.",
+        "image": "/images/team/manish-bhatnagar.jpg",
+        "level": 1,
+        "reportsTo": "manish-bhatnagar"
+      },
+      {
+        "id": "project-engineer",
+        "name": "Amit Kumar",
+        "role": "Project Engineer",
+        "bio": "Project Engineer coordinating design, execution and stakeholders across industrial and commercial projects for on-time delivery.",
+        "image": "/images/team/manish-bhatnagar.jpg",
+        "level": 1,
+        "reportsTo": "manish-bhatnagar"
       }
     ]
+  },
+  "teamGraph": {
+    "title": "Our Team at a Glance",
+    "subtitle": "Leadership structure"
   },
   "timeline": {
     "title": "Our Journey",

@@ -172,6 +172,10 @@ export interface TeamMember {
   readonly image: string
   readonly linkedin?: string
   readonly email?: string
+  /** For team graph: 0 = top (e.g. Founder), 1 = reports to top, etc. */
+  readonly level?: number
+  /** For team graph: id of the member this person reports to */
+  readonly reportsTo?: string
 }
 
 export interface Stat {
@@ -281,6 +285,10 @@ export interface AboutPageContent {
     readonly title: string
     readonly subtitle: string
     readonly members: TeamMember[]
+  }
+  readonly teamGraph: {
+    readonly title: string
+    readonly subtitle: string
   }
   readonly timeline: {
     readonly title: string

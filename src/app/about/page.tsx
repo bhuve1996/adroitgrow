@@ -3,8 +3,8 @@ import Image from 'next/image'
 import { pageSEO } from '@/config/seo'
 import { generatePageMetadata, JsonLd } from '@/lib/seo'
 import aboutContent from '@/content/about.json'
-import { Hero, WhyChooseUs, Timeline, CTASection } from '@/components/sections'
-import { Section, SectionHeader, TeamCard } from '@/components/ui'
+import { Hero, WhyChooseUs, Timeline, AboutTeamSection, CTASection } from '@/components/sections'
+import { Section, SectionHeader } from '@/components/ui'
 import { Breadcrumbs } from '@/components/layout'
 
 export const metadata: Metadata = generatePageMetadata(pageSEO.about)
@@ -82,25 +82,14 @@ export default function AboutPage() {
       {/* Core Values */}
       <WhyChooseUs title={aboutContent.values.title} points={aboutContent.values.items} />
 
-      {/* Leadership */}
-      <Section id="leadership">
-        <SectionHeader
-          title={aboutContent.leadership.title}
-          subtitle={aboutContent.leadership.subtitle}
-        />
-        <div className="mx-auto grid max-w-4xl grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
-          {aboutContent.leadership.members.map((member) => (
-            <TeamCard
-              key={member.id}
-              name={member.name}
-              role={member.role}
-              bio={member.bio}
-              image={member.image}
-              linkedin={member.linkedin}
-            />
-          ))}
-        </div>
-      </Section>
+      {/* Leadership + Team graph + full-profile modal */}
+      <AboutTeamSection
+        leadershipTitle={aboutContent.leadership.title}
+        leadershipSubtitle={aboutContent.leadership.subtitle}
+        teamGraphTitle={aboutContent.teamGraph.title}
+        teamGraphSubtitle={aboutContent.teamGraph.subtitle}
+        members={aboutContent.leadership.members}
+      />
 
       {/* Company Timeline */}
       <Timeline title={aboutContent.timeline.title} events={aboutContent.timeline.events} />

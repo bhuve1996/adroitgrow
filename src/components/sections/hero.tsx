@@ -17,6 +17,7 @@ export function Hero({ content, variant = 'page' }: HeroProps) {
   const isHome = variant === 'home'
   const useVideo = isHome && backgroundVideo
   const [videoError, setVideoError] = useState(false)
+  const [videoReady, setVideoReady] = useState(false)
   const videoSrc = useVideo && (videoError ? HERO_VIDEO_FALLBACK : backgroundVideo)
 
   return (
@@ -40,12 +41,22 @@ export function Hero({ content, variant = 'page' }: HeroProps) {
             muted
             loop
             playsInline
-            className="h-full w-full object-cover"
+            preload="auto"
+            className={`h-full w-full object-cover transition-opacity duration-500 ${videoReady ? 'opacity-100' : 'opacity-0'}`}
             poster={backgroundImage}
             onError={() => setVideoError(true)}
+            onCanPlay={() => setVideoReady(true)}
           >
             <source src={videoSrc} type="video/mp4" />
           </video>
+          {/* Poster shown until video is ready; video fades in over it */}
+          {!videoReady && backgroundImage && (
+            <div
+              className="absolute inset-0 bg-cover bg-center"
+              style={{ backgroundImage: `url(${backgroundImage})` }}
+              aria-hidden
+            />
+          )}
         </div>
       )}
 

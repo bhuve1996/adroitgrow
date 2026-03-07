@@ -42,10 +42,10 @@ Below is the complete `/seo` folder structure with JSON files.
     "founder": "Manish Bhatnagar",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Sector 15 Part-II, Basement",
+      "streetAddress": "Vipul Business Park, Central Park II Rd, Vipul World, Sector 48",
       "addressLocality": "Gurugram",
       "addressRegion": "Haryana",
-      "postalCode": "122001",
+      "postalCode": "122018",
       "addressCountry": "IN"
     }
   }

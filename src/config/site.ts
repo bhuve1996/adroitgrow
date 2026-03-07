@@ -20,10 +20,10 @@ export const siteConfig: SiteConfig = {
   email: 'manish.bhatnagar@adroitgrow.com',
   phone: '+91 9810324201',
   address: {
-    street: '851 Sector 15 Part-II, Basement',
+    street: 'Vipul Business Park, Central Park II Rd, Vipul World, Sector 48',
     city: 'Gurugram',
     state: 'Haryana',
-    postalCode: '122001',
+    postalCode: '122018',
     country: 'India',
     countryCode: 'IN',
   },
@@ -37,7 +37,7 @@ export const siteConfig: SiteConfig = {
 
 // Company statistics - easily updateable
 export const companyStats = {
-  yearsExperience: 20,
+  yearsExperience: 25,
   projectsCompleted: 150,
   industrialProjectsManesar: 70,
   statesOperated: 10, // legacy; presence is pan India
@@ -64,7 +64,7 @@ export const differentiators = [
   },
   {
     title: '25+ Years Expertise',
-    description: 'Two decades of industrial and commercial project experience',
+    description: '25+ years of industrial and commercial project experience',
     icon: 'award',
   },
   {

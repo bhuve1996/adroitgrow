@@ -2,6 +2,7 @@ import { cn } from '@/lib/utils'
 import Link from 'next/link'
 import Image from 'next/image'
 import { ArrowUpRight } from 'lucide-react'
+import { type TeamMember } from '@/types'
 
 interface CardProps {
   children: React.ReactNode
@@ -108,35 +109,72 @@ export function StatCard({ value, label, prefix, suffix }: StatCardProps) {
   )
 }
 
-interface TeamCardProps {
-  name: string
-  role: string
-  bio: string
-  image: string
-  linkedin?: string
-}
+type TeamCardProps =
+  | { member: TeamMember; onViewProfile?: (m: TeamMember) => void }
+  | {
+      name: string
+      role: string
+      bio: string
+      image: string
+      linkedin?: string
+    }
 
-export function TeamCard({ name, role, bio, image, linkedin }: TeamCardProps) {
+export function TeamCard(props: TeamCardProps) {
+  const isMemberProps = 'member' in props
+  const name = isMemberProps ? props.member.name : props.name
+  const role = isMemberProps ? props.member.role : props.role
+  const bio = isMemberProps ? props.member.bio : props.bio
+  const image = isMemberProps ? props.member.image : props.image
+  const linkedin = isMemberProps ? props.member.linkedin : props.linkedin
+  const onViewProfile = isMemberProps ? props.onViewProfile : undefined
+  const member = isMemberProps ? props.member : undefined
+
   return (
-    <Card className="overflow-hidden">
-      <div className="relative aspect-square overflow-hidden">
-        <Image src={image} alt={name} fill className="object-cover" />
-      </div>
-      <div className="p-6">
-        <h3 className="mb-1 text-xl font-semibold text-text-primary">{name}</h3>
-        <p className="mb-3 text-sm font-medium text-brand-yellow">{role}</p>
-        <p className="line-clamp-3 text-sm text-text-secondary">{bio}</p>
-        {linkedin && (
-          <a
-            href={linkedin}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="mt-4 inline-flex items-center gap-2 text-sm text-text-muted transition-colors hover:text-brand-yellow"
-          >
-            Connect on LinkedIn
-            <ArrowUpRight className="h-4 w-4" />
-          </a>
-        )}
+    <Card className={cn('overflow-hidden', onViewProfile && 'cursor-pointer')}>
+      <div
+        className="block"
+        onClick={onViewProfile && member ? () => onViewProfile(member) : undefined}
+        onKeyDown={
+          onViewProfile && member
+            ? (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                  e.preventDefault()
+                  onViewProfile(member)
+                }
+              }
+            : undefined
+        }
+        role={onViewProfile && member ? 'button' : undefined}
+        tabIndex={onViewProfile && member ? 0 : undefined}
+      >
+        <div className="relative aspect-square overflow-hidden">
+          <Image src={image} alt={name} fill className="object-cover" />
+        </div>
+        <div className="p-6">
+          <h3 className="mb-1 text-xl font-semibold text-text-primary">{name}</h3>
+          <p className="mb-3 text-sm font-medium text-brand-yellow">{role}</p>
+          <p className="line-clamp-3 text-sm text-text-secondary">{bio}</p>
+          <div className="mt-4 flex flex-wrap items-center gap-4">
+            {onViewProfile && member && (
+              <span className="inline-flex items-center gap-2 text-sm font-medium text-brand-yellow">
+                View full profile
+                <ArrowUpRight className="h-4 w-4" />
+              </span>
+            )}
+            {linkedin && (
+              <a
+                href={linkedin}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-sm text-text-muted transition-colors hover:text-brand-yellow"
+                onClick={(e) => e.stopPropagation()}
+              >
+                Connect on LinkedIn
+                <ArrowUpRight className="h-4 w-4" />
+              </a>
+            )}
+          </div>
+        </div>
       </div>
     </Card>
   )

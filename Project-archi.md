@@ -507,7 +507,7 @@ from both sites_.
     "email": "manish.bhatnagar@adroitgrow.com",
     "website": "https://www.adroitgrow.com",
     "industry": "Architecture and Planning",
-    "experience_years": 20,
+    "experience_years": 25,
     "services_highlights": [
       "Industrial Architectural & Engineering Design",
       "Project Management",
