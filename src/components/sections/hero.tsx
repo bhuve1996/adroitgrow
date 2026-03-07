@@ -20,6 +20,11 @@ export function Hero({ content, variant = 'page' }: HeroProps) {
   const [videoReady, setVideoReady] = useState(false)
   const videoSrc = useVideo && (videoError ? HERO_VIDEO_FALLBACK : backgroundVideo)
 
+  const handleVideoError = () => {
+    setVideoError(true)
+    setVideoReady(false)
+  }
+
   return (
     <section
       className="relative flex min-h-[60vh] items-center overflow-hidden lg:min-h-[80vh]"
@@ -37,6 +42,7 @@ export function Hero({ content, variant = 'page' }: HeroProps) {
       {useVideo && videoSrc && (
         <div className="absolute inset-0">
           <video
+            key={videoSrc}
             autoPlay
             muted
             loop
@@ -44,8 +50,9 @@ export function Hero({ content, variant = 'page' }: HeroProps) {
             preload="auto"
             className={`h-full w-full object-cover transition-opacity duration-500 ${videoReady ? 'opacity-100' : 'opacity-0'}`}
             poster={backgroundImage}
-            onError={() => setVideoError(true)}
+            onError={handleVideoError}
             onCanPlay={() => setVideoReady(true)}
+            onLoadedData={() => setVideoReady(true)}
           >
             <source src={videoSrc} type="video/mp4" />
           </video>
