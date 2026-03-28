@@ -62,7 +62,7 @@ export function Header() {
                 {siteConfig.shortName}
               </span>
               <span className="-mt-0.5 block text-xs text-text-muted">
-                Architecture & Engineering
+                Industrial Architecture & Engineering
               </span>
             </div>
           </Link>

@@ -34,10 +34,162 @@
   },
   "projects": [
     {
+      "id": "takeru-gomu",
+      "title": "Takeru Gomu & JMX india",
+      "slug": "takeru-gomu",
+      "location": "Ghiloth, Rajasthan",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "PROJECTS JMX BOL JIVIA TAKERU GOMU TAKERU GOMU & JMX WORKS Jecrocoutig Ecuipments | innovative Services Plot Area -5666 sqm Pr Type of Building - PEB Building Scope of Work:-Design Consultancy Va Location:- Dharuhera,Rewari,Haryana",
+      "shortDescription": "TAKERU GOMU & JMX WORKS",
+      "image": "/images/projects/takaru-gomu-1.jpg",
+      "gallery": [
+        "/images/projects/takaru-gomu.jpg",
+        "/images/projects/takaru-gomu-1.jpg",
+        "/images/projects/takaru-gomu-2.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "yokohama",
+      "title": "Yokohama India",
+      "slug": "yokohama",
+      "location": "Bahadurgarh ( Haryana)",
+      "year": 2014,
+      "category": "Industrial Design",
+      "industry": "Manufacturing",
+      "description": "PROJECTS fim oe 1% YOKOHAMA Yokohama India Private Limited Yokohama A Japanese MNC ranking in world top 10 a ee Seee industry of tire manufacturing . Mr Manish Bhatnagar er (Adroit Chief Project Officer) working as a Project head gua = — — E ~ — Sa on behalf of Yokohama from 2012-2018 to I— -— —eay Production manufacturing. sy A. i 5 Plot Area:- 25 Acre (101250 sqmtr)",
+      "shortDescription": "PROJECTS fim oe 1% YOKOHAMA",
+      "image": "/images/projects/yakohama.avif",
+      "gallery": ["/images/projects/yakohama-1.jpg"],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "neoperl",
+      "title": "Neoperl India",
+      "slug": "neoperl",
+      "location": "MET Reliance (Footwear Park)",
+      "year": 2026,
+      "category": "Industrial Design",
+      "industry": "Manufacturing",
+      "description": "PROJECTS CD NEOPERL INDIA flow, stop and ao Plot Area - 3.00 Acre (12000 sqmtr) Thailand Plant Covered Area - 10000 sqm Location - MET Reliance (Footwear Park) Year - 25-july-2025 | 3 li BF tC Scope of Work - Project Management \"ar | ~ | HEE Sa India Plant : ea",
+      "shortDescription": "NEOPERL INDIA flow, stop and ao",
+      "image": "/images/projects/neoperl.jpg",
+      "gallery": [
+        "/images/projects/neoperl-1.jpg",
+        "/images/projects/neoperl-2.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "domino",
+      "title": "Domino Printech India",
+      "slug": "domino",
+      "location": "IMT(Manesar)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Domino Printech India LLP Fe ee IMT(Manesar) Plot Area -4000 sqm == . = = Ea besa PR fe a £§ a ale RR “Shed SEE all Ly l . ul Yr! J i eg ASIII VBL ee I = ss -|c pant! ang ERELTE n pelts ea a Fa",
+      "shortDescription": "Domino Printech India LLP",
+      "image": "/images/projects/domino.png",
+      "gallery": ["/images/projects/domino-1.jpg"],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "p09-virat-export",
+      "title": "Mitsuchi India",
+      "slug": "mitsuchi-india",
+      "location": "Reliance Met (Jhajjar)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Mitsuchi India Plot Area -0.55 acre 37 TIT ag Type of Building - PEB Building 5 Scope of Work:- Design Consultancy i] 1 Location:- Reliance Met Sec 4 - wil i my JUCCLE Bhi [Ens aE Loic oh ht a 5: HE soho Ltbillgundtin, [SRA STR i 3",
+      "shortDescription": "",
+      "image": "/images/projects/p09-virat-export.jpg",
+      "gallery": [
+        "/images/projects/p09-virat-export-1.jpg",
+        "/images/projects/p09-virat-export-2.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "d-h-lighting",
+      "title": "D H Lighting India",
+      "slug": "d-h-lighting",
+      "location": "Kolila Joga (Neemrana)",
+      "year": 2026,
+      "category": "Industrial Design",
+      "industry": "Manufacturing",
+      "description": "PROJECTS DH D H LIGHTING ening Plot Area -3900 sqm Type of Building - PEB Building Scope of Work:-Design&Project Location:- Kolila Joga (Neemrana) ee ae Semer— oes oy os Emme Ba =r — Se = | LB",
+      "shortDescription": "",
+      "image": "/images/projects/d-h-lighting.png",
+      "gallery": ["/images/projects/d-h-lighting-1.jpeg"],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "ashirvad",
+      "title": "Ashirvad pipe",
+      "slug": "ashirvad",
+      "location": "Khushkhera,Rajasthan",
+      "year": 2026,
+      "category": "Industrial Design",
+      "industry": "Manufacturing",
+      "description": "PROJECTS ashirvad ASHIRVAD PIPES PVT.LTD Plot Area -54205 sqm Type of Building - PEB Building Scope of Work:-Design Consultancy Location:- Khushkhera,Rajasthan",
+      "shortDescription": "ASHIRVAD PIPES PVT.LTD",
+      "image": "/images/projects/ashirvad.jpg",
+      "gallery": [
+        "/images/projects/ashirvad-1.jpg",
+        "/images/projects/ashirvad-2.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "polyplastic",
+      "title": "Polyplastic",
+      "slug": "polyplastic",
+      "location": "kharkhoda",
+      "year": 2025,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "POLY PLASTIC INDIA PVT.LTD. EE Te Plot Area -12140sqm Type of Building -PEB Building Scope of Work:- Design & Project Management 5 -_ Location:-kharkhoda —) VY SHES Ramer ee [—— NI am",
+      "shortDescription": "POLY PLASTIC INDIA PVT.LTD.",
+      "image": "/images/projects/polyplastic.png",
+      "gallery": [
+        "/images/projects/polyplastic-1.png",
+        "/images/projects/polyplastic-2.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
       "id": "ajay-air-product",
       "title": "Ajay Air Product",
       "slug": "ajay-air-product",
-      "location": "IMT Faridabad( Haryana) in Le",
+      "location": "IMT Faridabad( Haryana)",
       "year": 2020,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -55,39 +207,16 @@
     },
     {
       "id": "appex-ghiloth",
-      "title": "Appex Ghiloth",
+      "title": "Ashbee Energy",
       "slug": "appex-ghiloth",
-      "location": "Karoli Industrial HE ! EL “8",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
-      "description": "PROJECTS s N. dda A NLP (1AKPOWER JAKSON & COMPANY Nau EN Era, 74% 2p = — Jakson & Company NO mena ne —, Pe Plot Area: 17 Acre (68000 sqm) - NT Covered Area:-PEB building ( 32000 4 Shi = et Sqmtr) Lome nalia © HE Si s Kartal: . n= BLS Eig ane nl 7 | Uy) gan Location- Karoli Industrial HE ! EL “8",
+      "description": "PROJECTS s N. dda A NLP (1AKPOWER JAKSON & COMPANY Nau EN Era, 74% 2p = — Jakson & Company NO mena ne —, Pe Plot Area: 17 Acre (68000 sqm) - NT Covered Area:-PEB building ( 32000 4 Shi = et Sqmtr) Lome nalia © HE Si s Kartal: . n= BLS Eig ane nl 7 | Uy) gan Location- Karoli Industrial",
       "shortDescription": "PROJECTS s N. dda A NLP (1AKPOWER",
       "image": "/images/projects/appex-ghiloth.jpg",
-      "gallery": [
-        "/images/projects/appex-ghiloth-1.jpg",
-        "/images/projects/appex-ghiloth-2.jpg"
-      ],
-      "scope": ["Design & Project Management", "Industrial building design"],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "ashirvad",
-      "title": "Ashirvad",
-      "slug": "ashirvad",
-      "location": "- Khushkhera,Rajasthan",
-      "year": 2026,
-      "category": "Industrial Design",
-      "industry": "Manufacturing",
-      "description": "PROJECTS ashirvad ASHIRVAD PIPES PVT.LTD Plot Area -54205 sqm Type of Building - PEB Building Scope of Work:-Design Consultancy Location:- Khushkhera,Rajasthan 7 4 $ \"= Ysa JERE id",
-      "shortDescription": "ASHIRVAD PIPES PVT.LTD",
-      "image": "/images/projects/ashirvad.jpg",
-      "gallery": [
-        "/images/projects/ashirvad-1.jpg",
-        "/images/projects/ashirvad-2.jpg"
-      ],
+      "gallery": ["/images/projects/appex-ghiloth-1.jpg"],
       "scope": ["Design & Project Management", "Industrial building design"],
       "stats": {
         "type": "Industrial"
@@ -97,7 +226,7 @@
       "id": "atek",
       "title": "Atek",
       "slug": "atek",
-      "location": "India",
+      "location": "IMT(Manesar)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -117,7 +246,7 @@
       "id": "b-l-international",
       "title": "B.L International",
       "slug": "b-l-international",
-      "location": "India",
+      "location": "Bawal, Haryana",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -132,13 +261,13 @@
     },
     {
       "id": "bharat-polyzone",
-      "title": "Bharat Polyzone",
+      "title": "ENMAKK",
       "slug": "bharat-polyzone",
-      "location": "- Malha Majara es —h - - as jl",
+      "location": "Malha Majara (Sonipat)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
-      "description": "PROJECTS <0 ENMAKK BHARAT POLYZONE Plot Area -4073 sqm Ww Tad Type of Building - PEB Building Scope of Work:-Design Consultancy Location:- Malha Majara es —h - - as jl ars Pr | gu yvYy I a pe”",
+      "description": "PROJECTS <0 ENMAKK BHARAT POLYZONE Plot Area -4073 sqm Ww Tad Type of Building - PEB Building Scope of Work:-Design Consultancy Location:- Malha Majara",
       "shortDescription": "Plot Area -4073 sqm Ww Tad",
       "image": "/images/projects/bharat-polyzone.jpg",
       "gallery": [
@@ -150,51 +279,12 @@
         "type": "Industrial"
       }
     },
-    {
-      "id": "d-h-lighting",
-      "title": "D H Lighting",
-      "slug": "d-h-lighting",
-      "location": "- Kolila Joga (Neemrana)",
-      "year": 2026,
-      "category": "Industrial Design",
-      "industry": "Manufacturing",
-      "description": "PROJECTS DH D H LIGHTING ening Plot Area -3900 sqm Type of Building - PEB Building Scope of Work:-Design&Project Location:- Kolila Joga (Neemrana) ee ae Semer— oes oy os Emme Ba =r — Se = | LB",
-      "shortDescription": "Type of Building - PEB Building",
-      "image": "/images/projects/d-h-lighting.png",
-      "gallery": [
-        "/images/projects/d-h-lighting-1.jpeg",
-        "/images/projects/d-h-lighting-2.jpeg"
-      ],
-      "scope": ["Design & Project Management", "Industrial building design"],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "domino",
-      "title": "Domino",
-      "slug": "domino",
-      "location": "India",
-      "year": 2026,
-      "category": "Industrial Design",
-      "industry": "Manufacturing",
-      "description": "Domino Printech India LLP Fe ee IMT(Manesar) Plot Area -4000 sqm == . = = Ea besa PR fe a £§ a ale RR “Shed SEE all Ly l . ul Yr! J i eg ASIII VBL ee I = ss -|c pant! ang ERELTE n pelts ea a Fa",
-      "shortDescription": "Domino Printech India LLP Fe ee",
-      "image": "/images/projects/domino.png",
-      "gallery": [
-        "/images/projects/domino-1.jpg",
-        "/images/projects/domino-2.jpg"
-      ],
-      "scope": ["Design & Project Management", "Industrial building design"],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
+
     {
       "id": "e515-peptech-bioscience-limited",
       "title": "E515 Peptech bioscience limited",
       "slug": "e515-peptech-bioscience-limited",
-      "location": "India",
+      "location": "BHIWADI, Industrial",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -212,9 +302,9 @@
     },
     {
       "id": "egro-space-p32",
-      "title": "Egro Space P32",
+      "title": "Egro Space",
       "slug": "egro-space-p32",
-      "location": "- MET Reliance sec-7A",
+      "location": "MET Reliance",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -234,7 +324,7 @@
       "id": "grinid-tech",
       "title": "Grinid Tech",
       "slug": "grinid-tech",
-      "location": "Ghiloth Industrial Area(Rajasthan) § Lo",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -254,7 +344,7 @@
       "id": "helious-hyderabad",
       "title": "HELIOUS HYDERABAD",
       "slug": "helious-hyderabad",
-      "location": "India",
+      "location": "Hyderabad",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -271,7 +361,7 @@
       "id": "helious-specilities-gases-ghiloth",
       "title": "HELIOUS Specilities Gases GHILOTH",
       "slug": "helious-specilities-gases-ghiloth",
-      "location": "Ghiloth Industrial Area(Rajasthan) ri &",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -291,7 +381,7 @@
       "id": "inox",
       "title": "INOX",
       "slug": "inox",
-      "location": "India",
+      "location": "I.M.T, Kharkhoda/Haryana",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -325,11 +415,11 @@
       "id": "jackson-and-company",
       "title": "Jackson & Company",
       "slug": "jackson-and-company",
-      "location": "Karoli Industrial HE ! EL “8",
+      "location": "Karoli Industrial",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
-      "description": "PROJECTS s N. dda A NLP (1AKPOWER JAKSON & COMPANY Nau EN Era, 74% 2p = — Jakson & Company NO mena ne —, Pe Plot Area: 17 Acre (68000 sqm) - NT Covered Area:-PEB building ( 32000 4 Shi = et Sqmtr) Lome nalia © HE Si s Kartal: . n= BLS Eig ane nl 7 | Uy) gan Location- Karoli Industrial HE ! EL “8",
+      "description": "PROJECTS s N. dda A NLP (1AKPOWER JAKSON & COMPANY Nau EN Era, 74% 2p = — Jakson & Company NO mena ne —, Pe Plot Area: 17 Acre (68000 sqm) - NT Covered Area:-PEB building ( 32000 4 Shi = et Sqmtr) Lome nalia © HE Si s Kartal: . n= BLS Eig ane nl 7 | Uy) gan Location- Karoli Industrial",
       "shortDescription": "PROJECTS s N. dda A NLP (1AKPOWER",
       "image": "/images/projects/jackson-and-company.png",
       "gallery": [
@@ -345,11 +435,11 @@
       "id": "kapriwas-warehouse",
       "title": "Kapriwas Warehouse",
       "slug": "kapriwas-warehouse",
-      "location": "- NHS Dharuhera = : TEE Fl naeey",
+      "location": "Dharuhera",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
-      "description": "Kapriwas Warehouse Plot Area -11000 sqm + hb. Se CTE Tae Type of Building - PEB building ers _ 4 Scope of Work:- Design ne Consultancy Location:- NHS Dharuhera = : TEE Fl naeey",
+      "description": "Kapriwas Warehouse Plot Area -11000 sqm + hb. Se CTE Tae Type of Building - PEB building ers _ 4 Scope of Work:- Design ne Consultancy Location:- NHS Dharuhera",
       "shortDescription": "Plot Area -11000 sqm + hb. Se CTE Tae",
       "image": "/images/projects/kapriwas-warehouse.png",
       "gallery": [
@@ -365,7 +455,7 @@
       "id": "los-angeles",
       "title": "Los angeles",
       "slug": "los-angeles",
-      "location": "-1.M.T, Bawal/Haryana ! | Md",
+      "location": "I.M.T, Bawal/Haryana",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -382,47 +472,10 @@
       }
     },
     {
-      "id": "neoperl",
-      "title": "Neoperl",
-      "slug": "neoperl",
-      "location": "MET Reliance (Footwear Park)",
-      "year": 2026,
-      "category": "Industrial Design",
-      "industry": "Manufacturing",
-      "description": "PROJECTS CD NEOPERL INDIA flow, stop and ao Plot Area - 3.00 Acre (12000 sqmtr) Thailand Plant Covered Area - 10000 sqm Location - MET Reliance (Footwear Park) Year - 25-july-2025 | 3 li BF tC Scope of Work - Project Management \"ar | ~ | HEE Sa India Plant : ea",
-      "shortDescription": "NEOPERL INDIA flow, stop and ao",
-      "image": "/images/projects/neoperl.jpg",
-      "gallery": [
-        "/images/projects/neoperl-1.jpg",
-        "/images/projects/neoperl-2.jpg"
-      ],
-      "scope": ["Design & Project Management", "Industrial building design"],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "office-interior",
-      "title": "Office interior",
-      "slug": "office-interior",
-      "location": "India",
-      "year": 2026,
-      "category": "Industrial Design",
-      "industry": "Manufacturing",
-      "description": "PROJECTS YOKOHAMA Yokohama India Private Limited (Project Images) ) _ l k Feat 0 BR 0! 1 a — | Pall BE [ ou ¥, wd - Mixing Plant | 3 = r 5 Machine Installati . PE = ; re achine Installation ca hh. oT angel x 3 or",
-      "shortDescription": "Yokohama India Private",
-      "image": "/images/hero/projects-hero.jpg",
-      "gallery": [],
-      "scope": ["Design & Project Management", "Industrial building design"],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
       "id": "p-38-rama-krishna",
       "title": "P 38 Rama krishna",
       "slug": "p-38-rama-krishna",
-      "location": "- MET Reliance re",
+      "location": "MET Reliance",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -439,30 +492,10 @@
       }
     },
     {
-      "id": "p09-virat-export",
-      "title": "P09 Virat export",
-      "slug": "p09-virat-export",
-      "location": "- Reliance Met Sec 4 - wil",
-      "year": 2026,
-      "category": "Industrial Design",
-      "industry": "Manufacturing",
-      "description": "Virat Export Plot Area -0.55 acre 37 TIT ag Type of Building - PEB Building 5 Scope of Work:- Design Consultancy i] 1 Location:- Reliance Met Sec 4 - wil i my JUCCLE Bhi [Ens aE Loic oh ht a 5: HE soho Ltbillgundtin, [SRA STR i 3",
-      "shortDescription": "Plot Area -0.55 acre 37 TIT ag",
-      "image": "/images/projects/p09-virat-export.jpg",
-      "gallery": [
-        "/images/projects/p09-virat-export-1.jpg",
-        "/images/projects/p09-virat-export-2.jpg"
-      ],
-      "scope": ["Design & Project Management", "Industrial building design"],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
       "id": "p11jaedi-greenpack",
       "title": "P11Jaedi Greenpack",
       "slug": "p11jaedi-greenpack",
-      "location": "- Reliance Met Sec 4 - wil",
+      "location": "Reliance Met Sec 4",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -480,9 +513,9 @@
     },
     {
       "id": "py-india",
-      "title": "PY India",
+      "title": "Kaytent India",
       "slug": "py-india",
-      "location": "Reliance MET Jhajjar 2 ~ — 1",
+      "location": "Reliance MET",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -498,31 +531,12 @@
         "type": "Industrial"
       }
     },
-    {
-      "id": "polyplastic",
-      "title": "Polyplastic",
-      "slug": "polyplastic",
-      "location": "-kharkhoda —) VY",
-      "year": 2026,
-      "category": "Industrial Design",
-      "industry": "Manufacturing",
-      "description": "POLY PLASTIC INDIA PVT.LTD. EE Te Plot Area -12140sqm Type of Building -PEB Building Scope of Work:- Design & Project Management 5 -_ Location:-kharkhoda —) VY SHES Ramer ee [—— NI am",
-      "shortDescription": "POLY PLASTIC INDIA PVT.LTD. EE Te",
-      "image": "/images/projects/polyplastic.png",
-      "gallery": [
-        "/images/projects/polyplastic-1.png",
-        "/images/projects/polyplastic-2.png"
-      ],
-      "scope": ["Design & Project Management", "Industrial building design"],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
+
     {
       "id": "precious-electrochem",
       "title": "Precious Electrochem",
       "slug": "precious-electrochem",
-      "location": "- Ghiloth, Rajasthan gon Te : - ; ca",
+      "location": "Ghiloth, Rajasthan",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -559,7 +573,7 @@
       "id": "rang-mahal",
       "title": "Rang Mahal",
       "slug": "rang-mahal",
-      "location": "MET Reliance (Footwear Park) = | bape",
+      "location": "MET Reliance (Footwear Park)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -579,7 +593,7 @@
       "id": "s-b-packaging",
       "title": "S.B Packaging",
       "slug": "s-b-packaging",
-      "location": "Sampla (Haryana) nN io RI =< aa Ra",
+      "location": "Sampla (Haryana)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -633,7 +647,7 @@
       "id": "semicon",
       "title": "Semicon",
       "slug": "semicon",
-      "location": "Ghiloth Industrial Area(Rajasthan) pe",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -653,7 +667,7 @@
       "id": "supreme-filatech",
       "title": "Supreme Filatech",
       "slug": "supreme-filatech",
-      "location": "- Ghiloth, Rajasthan",
+      "location": "Ghiloth, Rajasthan",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -663,26 +677,6 @@
       "gallery": [
         "/images/projects/supreme-filatech-1.jpg",
         "/images/projects/supreme-filatech-2.jpg"
-      ],
-      "scope": ["Design & Project Management", "Industrial building design"],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "takaru-gomu",
-      "title": "Takaru Gomu",
-      "slug": "takaru-gomu",
-      "location": "- Dharuhera,Rewari,Haryana [7%",
-      "year": 2026,
-      "category": "Industrial Design",
-      "industry": "Manufacturing",
-      "description": "PROJECTS JMX BOL JIVIA TAKERU GOMU TAKERU GOMU & JMX WORKS Jecrocoutig Ecuipments | innovative Services Plot Area -5666 sqm Pr Type of Building - PEB Building Scope of Work:-Design Consultancy Va Location:- Dharuhera,Rewari,Haryana [7% ollx =- Sig r=7 = ee ir gt",
-      "shortDescription": "TAKERU GOMU & JMX WORKS Jecrocoutig Ecuipments | innovative Services",
-      "image": "/images/projects/takaru-gomu.jpg",
-      "gallery": [
-        "/images/projects/takaru-gomu-1.jpg",
-        "/images/projects/takaru-gomu-2.jpg"
       ],
       "scope": ["Design & Project Management", "Industrial building design"],
       "stats": {
@@ -713,7 +707,7 @@
       "id": "tegaman-safety",
       "title": "Tegaman Safety",
       "slug": "tegaman-safety",
-      "location": "Ghiloth Industrial Area(Rajasthan) i i = ~ 144 Al Eis",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -733,7 +727,7 @@
       "id": "tranc-ancr",
       "title": "Tranc ancr",
       "slug": "tranc-ancr",
-      "location": "Ghiloth E51 5 ¥ og 4",
+      "location": "Ghiloth",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -753,7 +747,7 @@
       "id": "tusker",
       "title": "Tusker",
       "slug": "tusker",
-      "location": "-Mahindra world city, Jaipur",
+      "location": "Mahindra world city, Jaipur",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -773,7 +767,7 @@
       "id": "ultima-mesha",
       "title": "Ultima Mesha",
       "slug": "ultima-mesha",
-      "location": "Neemrana —— ml",
+      "location": "Neemrana",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -793,7 +787,7 @@
       "id": "unipex",
       "title": "Unipex",
       "slug": "unipex",
-      "location": "- Reliance MET \" Cp re",
+      "location": "Reliance MET",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -833,7 +827,7 @@
       "id": "urban-grove",
       "title": "Urban Grove",
       "slug": "urban-grove",
-      "location": "- BHIWADI Karoli, Industrial | | I~ | | | | | | | | | | Sl =\"3",
+      "location": "BHIWADI Karoli, Industrial",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
@@ -849,28 +843,12 @@
         "type": "Industrial"
       }
     },
-    {
-      "id": "yakohama",
-      "title": "Yakohama",
-      "slug": "yakohama",
-      "location": "Bahadurgarh ( Haryana) s 2 = Es el",
-      "year": 2014,
-      "category": "Industrial Design",
-      "industry": "Manufacturing",
-      "description": "PROJECTS fim oe 1% YOKOHAMA Yokohama India Private Limited Yokohama A Japanese MNC ranking in world top 10 a ee Seee industry of tire manufacturing . Mr Manish Bhatnagar er (Adroit Chief Project Officer) working as a Project head gua = — — E ~ — Sa on behalf of Yokohama from 2012-2018 to I— -— —eay Production manufacturing. sy A. i 5 Plot Area:- 25 Acre (101250 sqmtr)",
-      "shortDescription": "PROJECTS fim oe 1% YOKOHAMA",
-      "image": "/images/projects/yakohama.avif",
-      "gallery": ["/images/projects/yakohama-1.jpg"],
-      "scope": ["Design & Project Management", "Industrial building design"],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
+
     {
       "id": "senrom",
       "title": "senrom",
       "slug": "senrom",
-      "location": "Ghiloth Industrial Area(Rajasthan) pe",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
       "year": 2026,
       "category": "Industrial Design",
       "industry": "Manufacturing",
