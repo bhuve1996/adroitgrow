@@ -18,7 +18,7 @@ export const mainNavigation: NavItem[] = [
       {
         label: 'Industrial Architecture & Engineering',
         href: '/services/industrial-architectural-engineering-design',
-        description: 'Complete industrial design solutions',
+        description: 'Complete industrial project solutions',
       },
       {
         label: 'Project Management',
@@ -67,7 +67,10 @@ export const footerNavigation: FooterSection[] = [
   {
     title: 'Services',
     links: [
-      { label: 'Industrial Design', href: '/services/industrial-architectural-engineering-design' },
+      {
+        label: 'Industrial Project',
+        href: '/services/industrial-architectural-engineering-design',
+      },
       { label: 'Project Management', href: '/services/project-management' },
       { label: 'Interior Design', href: '/services/interior-design' },
       { label: 'Design-Build', href: '/services/design-build' },

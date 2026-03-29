@@ -32,7 +32,7 @@
 
 | File                              | Source                    | Usage                      |
 | --------------------------------- | ------------------------- | -------------------------- |
-| `services/industrial-design.jpg`  | `ser.jpg`                 | Industrial Design service  |
+| `services/industrial-design.jpg`  | `ser.jpg`                 | Industrial Project service |
 | `services/project-management.jpg` | `BIM-Blog-Post.jpg`       | Project Management service |
 | `services/interior-design.jpg`    | `194380545-sketch...webp` | Interior Design service    |
 | `services/design-build.jpg`       | `LA_Drawings_1920.jpg`    | Design & Build service     |

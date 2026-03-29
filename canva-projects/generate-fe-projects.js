@@ -3,6 +3,7 @@
  * Copies up to 3 images per project to public/images/projects/.
  * Run from repo root: node canva-projects/generate-fe-projects.js
  */
+/* eslint-disable @typescript-eslint/no-var-requires, no-console -- Node CLI script */
 const fs = require('fs')
 const path = require('path')
 
@@ -29,7 +30,7 @@ function descriptionFromText(text) {
     .map((l) => l.trim())
     .filter(Boolean)
   const contentLines = lines.filter(
-    (l) => !/^PROJECTS\s*$/i.test(l) && !/^[\d\s\|=—\-]+$/.test(l) && l.length > 10
+    (l) => !/^PROJECTS\s*$/i.test(l) && !/^[\d\s|=—-]+$/.test(l) && l.length > 10
   )
   const desc = contentLines.slice(0, 8).join(' ').replace(/\s+/g, ' ').trim()
   return desc.slice(0, 500) || 'Industrial and commercial project by Adroit Grow.'
@@ -88,7 +89,7 @@ function main() {
       slug,
       location,
       year,
-      category: 'Industrial Design',
+      category: 'Industrial Project',
       industry: 'Manufacturing',
       description,
       shortDescription,

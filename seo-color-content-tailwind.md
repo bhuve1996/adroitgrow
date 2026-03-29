@@ -85,7 +85,7 @@ Below is the complete `/seo` folder structure with JSON files.
 
 ```json
 {
-  "title": "Services | Industrial Design, Engineering & Project Management",
+  "title": "Services | Industrial Project, Engineering & Project Management",
   "description": "Explore AdroitGrow’s industrial architectural design, engineering services, project management and corporate interior solutions.",
   "keywords": [
     "industrial services",
@@ -200,7 +200,7 @@ You will generate one per project:
 ```json
 {
   "title": "Contact AdroitGrow | Industrial Architecture & Engineering",
-  "description": "Reach out for industrial design, engineering, project management and interior solutions. Located in Gurugram, Haryana.",
+  "description": "Reach out for industrial project, engineering, project management and interior solutions. Located in Gurugram, Haryana.",
   "keywords": ["contact AdroitGrow", "architectural firm contact"],
   "canonical": "https://www.adroitgrow.com/contact"
 }

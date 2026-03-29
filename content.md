@@ -97,7 +97,7 @@ _(This is only the content actually available; no assumptions.)_
 {
   "hero": {
     "title": "Progressive Architectural and Engineering Firm",
-    "subtitle": "Specializing in Industrial design, Project Management, and Corporate Interiors.",
+    "subtitle": "Specializing in Industrial project, Project Management, and Corporate Interiors.",
     "cta": ["View Projects", "Contact Us"]
   },
   "about_short": {

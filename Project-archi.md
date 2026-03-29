@@ -312,7 +312,7 @@ SEO JSON example:
 {
   "title": "Industrial Architecture & Design | Adroit Grow",
   "description": "Turnkey industrial architecture and engineering firm delivering...",
-  "keywords": ["industrial design", "factory planning", "PEB structures"],
+  "keywords": ["industrial project", "factory planning", "PEB structures"],
   "canonical": "https://domain.com/services/industrial",
   "schema": {
     "@context": "https://schema.org",
@@ -501,7 +501,7 @@ from both sites_.
   "company": {
     "name": "Adroit Grow Private Limited",
     "founder": "Mr. Manish Bhatnagar",
-    "description": "Progressive Architectural and Engineering firm specializing in Industrial design, Project Management & Corporate Interiors providing high-quality services for both the Industrial and commercial sectors. Single window one-stop solution with emphasis on cost control & value additions using current technologies.",
+    "description": "Progressive Architectural and Engineering firm specializing in Industrial project, Project Management & Corporate Interiors providing high-quality services for both the Industrial and commercial sectors. Single window one-stop solution with emphasis on cost control & value additions using current technologies.",
     "founded": "2019",
     "location": "Gurugram, Haryana, India",
     "email": "manish.bhatnagar@adroitgrow.com",
@@ -691,7 +691,7 @@ content JSON files:
     "services": [
       {
         "title": "Industrial & Engineering Design",
-        "href": "/services/industrial-design"
+        "href": "/services/industrial-architectural-engineering-design"
       },
       { "title": "Project Management", "href": "/services/project-management" },
       {

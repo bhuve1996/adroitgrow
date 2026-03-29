@@ -4,7 +4,7 @@ export const siteConfig: SiteConfig = {
   name: 'Adroit Grow Private Limited',
   shortName: 'Adroit Grow',
   description:
-    'Progressive Architectural and Engineering firm specializing in Industrial design, Project Management & Corporate Interiors. Single window one-stop solution with emphasis on cost control & value additions.',
+    'Progressive Architectural and Engineering firm specializing in Industrial project, Project Management & Corporate Interiors. Single window one-stop solution with emphasis on cost control & value additions.',
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.adroitgrow.com',
   ogImage: '/images/og-image.jpg',
   logo: '/images/logo.svg',

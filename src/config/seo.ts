@@ -95,7 +95,7 @@ export const pageSEO: Record<string, SEOConfig> = {
   },
 
   services: {
-    title: 'Services | Industrial Design, Engineering & Project Management',
+    title: 'Services | Industrial Project, Engineering & Project Management',
     description:
       "Explore Adroit Grow's industrial architectural design, engineering services, project management and corporate interior solutions.",
     keywords: [
@@ -139,7 +139,7 @@ export const pageSEO: Record<string, SEOConfig> = {
   contact: {
     title: 'Contact Adroit Grow | Industrial Architecture & Engineering',
     description:
-      'Reach out for industrial design, engineering, project management and interior solutions. Located in Gurugram, Haryana.',
+      'Reach out for industrial project, engineering, project management and interior solutions. Located in Gurugram, Haryana.',
     keywords: ['contact Adroit Grow', 'architectural firm contact', 'industrial consultant'],
     canonical: `${siteConfig.url}/contact`,
     schema: {
