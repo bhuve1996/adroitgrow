@@ -1,7 +1,7 @@
 import { type Metadata } from 'next'
 import { pageSEO } from '@/config/seo'
 import { generatePageMetadata, JsonLd } from '@/lib/seo'
-import projectsContent from '@/content/projects.json'
+import projectsContent from '@/content/projects/data.json'
 import { Hero, ProjectsGrid, CTASection } from '@/components/sections'
 import { Section } from '@/components/ui'
 import { Breadcrumbs } from '@/components/layout'

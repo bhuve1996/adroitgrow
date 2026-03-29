@@ -1,7 +1,7 @@
 import { type MetadataRoute } from 'next'
 import { siteConfig } from '@/config/site'
 import servicesContent from '@/content/services.json'
-import projectsContent from '@/content/projects.json'
+import projectsContent from '@/content/projects/data.json'
 import careersContent from '@/content/careers.json'
 
 export default function sitemap(): MetadataRoute.Sitemap {

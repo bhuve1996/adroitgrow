@@ -61,9 +61,3 @@ public/wesbite-videos/
 # Tesseract OCR trained data (downloaded at runtime if needed)
 eng.traineddata
 
-# Canva export: full slide PNGs (re-export from Canva if needed)
-canva-projects/Sahil-new-company-profile/slides/
-
-# Finalized project images (duplicate of public/images/projects; regenerate via build-finalized-projects.js)
-canva-projects/finalized-projects/**/images/
-

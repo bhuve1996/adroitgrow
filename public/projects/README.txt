@@ -1,0 +1,3 @@
+Static project assets only
+
+- media/<project-id>/ — gallery JPEGs/PNGs; URLs in data.json use /projects/media/...

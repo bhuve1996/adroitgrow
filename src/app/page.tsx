@@ -3,7 +3,7 @@ import { pageSEO } from '@/config/seo'
 import { generatePageMetadata, JsonLd } from '@/lib/seo'
 import homeContent from '@/content/home.json'
 import servicesContent from '@/content/services.json'
-import projectsContent from '@/content/projects.json'
+import projectsContent from '@/content/projects/data.json'
 import {
   Hero,
   Stats,
