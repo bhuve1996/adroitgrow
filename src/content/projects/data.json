@@ -45,14 +45,10 @@
       "shortDescription": "Takeru Gomu & JMX Works — PEB industrial facility, Dharuhera.",
       "image": "/projects/media/takeru-gomu/takeru-gomu-01.jpg",
       "gallery": [
-        "/projects/media/takeru-gomu/takeru-gomu-01.jpg",
         "/projects/media/takeru-gomu/takeru-gomu-02.jpg",
         "/projects/media/takeru-gomu/takeru-gomu-03.jpg"
       ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
       "stats": {
         "type": "Industrial"
       }
@@ -68,14 +64,8 @@
       "description": "Japanese MNC tyre manufacturing. Adroit’s chief represented the production and project office on behalf of Yokohama. Period 2012–2018 (reference year on record: 2014). Plot ~25 acre; PEB and RCC built-up (confirm figures from original contract drawings). Location: Bahadurgarh, Haryana. Among the world’s top tyre brands; Manish Bhatnagar served as project head on the greenfield.",
       "shortDescription": "Yokohama India — tyre MNC greenfield, Bahadurgarh.",
       "image": "/projects/media/yokohama/yokohama-01.jpg",
-      "gallery": [
-        "/projects/media/yokohama/yokohama-01.jpg",
-        "/projects/media/yokohama/yokohama-02.avif"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
+      "gallery": ["/projects/media/yokohama/yokohama-02.avif"],
+      "scope": ["Design & Project Management", "Industrial building design"],
       "stats": {
         "type": "Industrial"
       }
@@ -92,16 +82,11 @@
       "shortDescription": "Neoperl India — Reliance MET footwear park.",
       "image": "/projects/media/neoperl/neoperl-01.jpg",
       "gallery": [
-        "/projects/media/neoperl/neoperl-01.jpg",
         "/projects/media/neoperl/neoperl-02.jpg",
         "/projects/media/neoperl/neoperl-03.jpg",
-        "/projects/media/neoperl/neoperl-04.jpg",
-        "/projects/media/neoperl/neoperl-05.jpg"
+        "/projects/media/neoperl/neoperl-04.jpg"
       ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
       "stats": {
         "type": "Industrial"
       }
@@ -118,7 +103,6 @@
       "shortDescription": "Domino Printech India — IMT Manesar.",
       "image": "/projects/media/domino/domino-01.jpg",
       "gallery": [
-        "/projects/media/domino/domino-01.jpg",
         "/projects/media/domino/domino-02.jpg",
         "/projects/media/domino/domino-03.jpg",
         "/projects/media/domino/domino-04.jpg",
@@ -151,10 +135,7 @@
         "/projects/media/domino/domino-31.jpg",
         "/projects/media/domino/domino-32.jpg"
       ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
       "stats": {
         "type": "Industrial"
       }
@@ -171,7 +152,6 @@
       "shortDescription": "Mitsuchi India — Reliance MET.",
       "image": "/projects/media/p09-virat-export/p09-virat-export-01.jpg",
       "gallery": [
-        "/projects/media/p09-virat-export/p09-virat-export-01.jpg",
         "/projects/media/p09-virat-export/p09-virat-export-02.jpg",
         "/projects/media/p09-virat-export/p09-virat-export-03.jpg",
         "/projects/media/p09-virat-export/p09-virat-export-04.jpg",
@@ -183,956 +163,7 @@
         "/projects/media/p09-virat-export/p09-virat-export-10.jpg",
         "/projects/media/p09-virat-export/p09-virat-export-11.jpg"
       ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "d-h-lighting",
-      "title": "D H Lighting India",
-      "slug": "d-h-lighting",
-      "location": "Kolila Joga (Neemrana)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~3,900 sq m. PEB building. Scope: design and project management. Location: Kolila Joga, Neemrana.",
-      "shortDescription": "DH Lighting — PEB, Kolila Joga (Neemrana).",
-      "image": "/projects/media/d-h-lighting/d-h-lighting-01.jpg",
-      "gallery": [
-        "/projects/media/d-h-lighting/d-h-lighting-01.jpg",
-        "/projects/media/d-h-lighting/d-h-lighting-02.jpg",
-        "/projects/media/d-h-lighting/d-h-lighting-03.jpg",
-        "/projects/media/d-h-lighting/d-h-lighting-04.jpg",
-        "/projects/media/d-h-lighting/d-h-lighting-05.jpg",
-        "/projects/media/d-h-lighting/d-h-lighting-06.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "ashirvad",
-      "title": "Ashirvad pipe",
-      "slug": "ashirvad",
-      "location": "Khushkhera,Rajasthan",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~54,205 sq m. PEB building. Scope: design consultancy. Location: Khushkhera, Rajasthan. (Raster photos pending — PDF renders on file.)",
-      "shortDescription": "Ashirvad Pipes — large-format PEB, Khushkhera.",
-      "image": "/projects/media/ashirvad/ashirvad-01.jpg",
-      "gallery": [
-        "/projects/media/ashirvad/ashirvad-01.jpg",
-        "/projects/media/ashirvad/ashirvad-02.jpg",
-        "/projects/media/ashirvad/ashirvad-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "polyplastic",
-      "title": "Polyplastic",
-      "slug": "polyplastic",
-      "location": "kharkhoda",
-      "year": 2025,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~12,140 sq m. PEB building. Scope: design and project management. Location: Kharkhoda.",
-      "shortDescription": "Polyplastic India — PEB, Kharkhoda.",
-      "image": "/projects/media/polyplastic/polyplastic-01.jpg",
-      "gallery": [
-        "/projects/media/polyplastic/polyplastic-01.jpg",
-        "/projects/media/polyplastic/polyplastic-02.jpg",
-        "/projects/media/polyplastic/polyplastic-03.jpg",
-        "/projects/media/polyplastic/polyplastic-04.jpg",
-        "/projects/media/polyplastic/polyplastic-05.jpg",
-        "/projects/media/polyplastic/polyplastic-06.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "ajay-air-product",
-      "title": "Ajay Air Product",
-      "slug": "ajay-air-product",
-      "location": "IMT Faridabad( Haryana)",
-      "year": 2020,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Industrial and specialty gas importer, manufacturer, and distributor in India (pure and rare gases, calibration standards, specialty gases, hydrocarbons, bulk cryogenics, cylinders, regulators, equipment). Plot / built-up ~1,800–2,160 sq m PEB (verify). Project cost ~2.5 Cr (verify). Year: 2020. Location: IMT Faridabad, Haryana.",
-      "shortDescription": "Ajay Air Products — specialty gases, IMT Faridabad.",
-      "image": "/projects/media/ajay-air-product/ajay-air-product-01.jpg",
-      "gallery": [
-        "/projects/media/ajay-air-product/ajay-air-product-01.jpg",
-        "/projects/media/ajay-air-product/ajay-air-product-02.jpg",
-        "/projects/media/ajay-air-product/ajay-air-product-03.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "appex-ghiloth",
-      "title": "Appex",
-      "slug": "appex-ghiloth",
-      "location": "Ghiloth Industrial Area(Rajasthan)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~4,130 sq m. PEB building. Scope: design and build. Location: Ghiloth, Rajasthan.",
-      "shortDescription": "Appex — design & build, Ghiloth.",
-      "image": "/projects/media/appex-ghiloth/appex-ghiloth-01.jpg",
-      "gallery": [
-        "/projects/media/appex-ghiloth/appex-ghiloth-01.jpg",
-        "/projects/media/appex-ghiloth/appex-ghiloth-02.jpg",
-        "/projects/media/appex-ghiloth/appex-ghiloth-03.jpg",
-        "/projects/media/appex-ghiloth/appex-ghiloth-04.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "atek",
-      "title": "Ample Auto Tech Pvt. Ltd.",
-      "slug": "atek",
-      "location": "IMT(Manesar)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~4,050 sq m. Covered ~68,000 sq ft RCC. Client: Ample Auto Tech Pvt. Ltd. Scope: architectural and engineering design.",
-      "shortDescription": "Ample Auto Tech — architectural & engineering design.",
-      "image": "/projects/media/atek/atek-01.jpg",
-      "gallery": [
-        "/projects/media/atek/atek-01.jpg",
-        "/projects/media/atek/atek-02.jpg",
-        "/projects/media/atek/atek-03.jpg",
-        "/projects/media/atek/atek-04.jpg",
-        "/projects/media/atek/atek-05.jpg",
-        "/projects/media/atek/atek-06.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "b-l-international",
-      "title": "B.L International",
-      "slug": "b-l-international",
-      "location": "Bawal, Haryana",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Industrial project at Bawal, Haryana. Details to be aligned with client records.",
-      "shortDescription": "B.L. International — Bawal.",
-      "image": "/projects/media/b-l-international/b-l-international-01.jpg",
-      "gallery": [
-        "/projects/media/b-l-international/b-l-international-01.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "bharat-polyzone",
-      "title": "Bharat Polyzone",
-      "slug": "bharat-polyzone",
-      "location": "Malha Majara (Sonipat)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~4,073 sq m. PEB building. Scope: design consultancy. Location: Malha Majara (Sonipat).",
-      "shortDescription": "Bharat Polyzone — PEB, Malha Majara.",
-      "image": "/projects/media/bharat-polyzone/bharat-polyzone-01.jpg",
-      "gallery": [
-        "/projects/media/bharat-polyzone/bharat-polyzone-01.jpg",
-        "/projects/media/bharat-polyzone/bharat-polyzone-02.jpg",
-        "/projects/media/bharat-polyzone/bharat-polyzone-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "e515-peptech-bioscience-limited",
-      "title": "E515 Peptech bioscience limited",
-      "slug": "e515-peptech-bioscience-limited",
-      "location": "BHIWADI, Industrial",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "E515 Peptech Bioscience Limited — industrial project in Bhiwadi. Scope and plot details to be confirmed with as-built records.",
-      "shortDescription": "E515 Peptech Bioscience — Bhiwadi.",
-      "image": "/projects/media/e515-peptech-bioscience-limited/e515-peptech-bioscience-limited-01.jpg",
-      "gallery": [
-        "/projects/media/e515-peptech-bioscience-limited/e515-peptech-bioscience-limited-01.jpg",
-        "/projects/media/e515-peptech-bioscience-limited/e515-peptech-bioscience-limited-02.jpg",
-        "/projects/media/e515-peptech-bioscience-limited/e515-peptech-bioscience-limited-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "egro-space-p32",
-      "title": "Tirupati Workspace",
-      "slug": "egro-space-p32",
-      "location": "MET Reliance",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~4,000 sq m. PEB building. Scope: design and project management. Location: Reliance MET, Sector 7A.",
-      "shortDescription": "Tirupati Workspace — Reliance MET Sector 7A.",
-      "image": "/projects/media/egro-space-p32/egro-space-p32-01.jpg",
-      "gallery": [
-        "/projects/media/egro-space-p32/egro-space-p32-01.jpg",
-        "/projects/media/egro-space-p32/egro-space-p32-02.jpg",
-        "/projects/media/egro-space-p32/egro-space-p32-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "grinid-tech",
-      "title": "Grinid Tech",
-      "slug": "grinid-tech",
-      "location": "Ghiloth Industrial Area(Rajasthan)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot 2 acre (~8,000 sq m). PEB ~6,000 sq m. Location: Ghiloth Industrial Area, Rajasthan. Year: Jan 2022. Scope: design and supervision.",
-      "shortDescription": "Grinid Tech Engineering — Ghiloth.",
-      "image": "/projects/media/grinid-tech/grinid-tech-01.png",
-      "gallery": [
-        "/projects/media/grinid-tech/grinid-tech-01.png",
-        "/projects/media/grinid-tech/grinid-tech-02.jpg",
-        "/projects/media/grinid-tech/grinid-tech-03.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "helious-hyderabad",
-      "title": "Helios Specialty Gases — Hyderabad",
-      "slug": "helious-hyderabad",
-      "location": "Hyderabad",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Green industrial park, Jadcherla, Telangana. Plot ~6,176 sq m. PEB building. Scope: design consultancy.",
-      "shortDescription": "Helios — green industrial park, Jadcherla, Telangana.",
-      "image": "/projects/media/helious-hyderabad/helious-hyderabad-01.jpg",
-      "gallery": [
-        "/projects/media/helious-hyderabad/helious-hyderabad-01.jpg",
-        "/projects/media/helious-hyderabad/helious-hyderabad-02.jpg",
-        "/projects/media/helious-hyderabad/helious-hyderabad-03.jpg",
-        "/projects/media/helious-hyderabad/helious-hyderabad-04.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "helious-specilities-gases-ghiloth",
-      "title": "Helios Specialty Gases — Ghiloth",
-      "slug": "helious-specilities-gases-ghiloth",
-      "location": "Ghiloth Industrial Area(Rajasthan)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Helios Specialty Gases Pvt. Ltd. is an industrial and specialty gases importer, manufacturer, and distributor in India, covering pure gases, rare gases, helium, calibration standards, specialty gases, hydrocarbons, cylinders, regulators, and handling equipment from global suppliers. Plot 5 acre (~20,000 sq m). Phase 1 PEB ~6,000 sq m. Location: Ghiloth Industrial Area, Rajasthan. Scope: design and project management consultancy. Status: complete.",
-      "shortDescription": "Helios specialty gases — Ghiloth, Rajasthan.",
-      "image": "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-01.jpg",
-      "gallery": [
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-01.jpg",
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-02.jpg",
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-03.jpg",
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-04.jpg",
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-05.jpg",
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-06.jpg",
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-07.jpg",
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-08.jpg",
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-09.jpg",
-        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-10.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "inox",
-      "title": "INOX",
-      "slug": "inox",
-      "location": "I.M.T, Kharkhoda/Haryana",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Industrial project at IMT Kharkhoda, Haryana. Narrative and imagery to be updated from client sign-off.",
-      "shortDescription": "INOX — IMT Kharkhoda.",
-      "image": "/projects/media/inox/inox-01.jpg",
-      "gallery": [
-        "/projects/media/inox/inox-01.jpg",
-        "/projects/media/inox/inox-02.jpg",
-        "/projects/media/inox/inox-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "jmd",
-      "title": "JMD",
-      "slug": "jmd",
-      "location": "MET Reliance (Jhajjar)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~1 acre (~4,000 sq m). Covered ~3,000 sq m. Location: Reliance MET, Jhajjar. Year: Feb 2023. Scope: design and project management.",
-      "shortDescription": "JMD Dynamic — Reliance MET, Jhajjar.",
-      "image": "/projects/media/jmd/jmd-01.png",
-      "gallery": [
-        "/projects/media/jmd/jmd-01.png",
-        "/projects/media/jmd/jmd-02.png",
-        "/projects/media/jmd/jmd-03.jpg",
-        "/projects/media/jmd/jmd-04.jpg",
-        "/projects/media/jmd/jmd-05.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "jackson-and-company",
-      "title": "Jackson & Company",
-      "slug": "jackson-and-company",
-      "location": "Karoli Industrial",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~17 acre. PEB covered ~68,000 sq m (scope ~32,000 sq m noted). Location: Karoli Industrial Area, Rajasthan. Scope: project management.",
-      "shortDescription": "Jakson & Company — Karoli industrial area.",
-      "image": "/projects/media/jackson-and-company/jackson-and-company-01.jpg",
-      "gallery": [
-        "/projects/media/jackson-and-company/jackson-and-company-01.jpg",
-        "/projects/media/jackson-and-company/jackson-and-company-02.jpg",
-        "/projects/media/jackson-and-company/jackson-and-company-03.jpg",
-        "/projects/media/jackson-and-company/jackson-and-company-04.jpg",
-        "/projects/media/jackson-and-company/jackson-and-company-05.jpg",
-        "/projects/media/jackson-and-company/jackson-and-company-06.jpg",
-        "/projects/media/jackson-and-company/jackson-and-company-07.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "kapriwas-warehouse",
-      "title": "Kapriwas Warehouse",
-      "slug": "kapriwas-warehouse",
-      "location": "Dharuhera",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~11,000 sq m. PEB building. Scope: design consultancy. Location: NH-8, Dharuhera.",
-      "shortDescription": "Kapriwas Warehouse — PEB, NH-8 Dharuhera.",
-      "image": "/projects/media/kapriwas-warehouse/kapriwas-warehouse-01.png",
-      "gallery": [
-        "/projects/media/kapriwas-warehouse/kapriwas-warehouse-01.png",
-        "/projects/media/kapriwas-warehouse/kapriwas-warehouse-02.jpg",
-        "/projects/media/kapriwas-warehouse/kapriwas-warehouse-03.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "los-angeles",
-      "title": "Los angeles",
-      "slug": "los-angeles",
-      "location": "I.M.T, Bawal/Haryana",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~22,222 sq m. PEB building. Scope: design. Location: IMT, Bawal, Haryana.",
-      "shortDescription": "Los Angeles food processing — IMT Bawal.",
-      "image": "/projects/media/los-angeles/los-angeles-01.jpg",
-      "gallery": [
-        "/projects/media/los-angeles/los-angeles-01.jpg",
-        "/projects/media/los-angeles/los-angeles-02.jpg",
-        "/projects/media/los-angeles/los-angeles-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "p-38-rama-krishna",
-      "title": "P 38 Rama krishna",
-      "slug": "p-38-rama-krishna",
-      "location": "MET Reliance",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~1,000 sq m. PEB building. Scope: design and project management. Location: Reliance MET.",
-      "shortDescription": "Ramakrishna Venkatesh (P38) — Reliance MET.",
-      "image": "/projects/media/p-38-rama-krishna/p-38-rama-krishna-01.jpg",
-      "gallery": [
-        "/projects/media/p-38-rama-krishna/p-38-rama-krishna-01.jpg",
-        "/projects/media/p-38-rama-krishna/p-38-rama-krishna-02.jpg",
-        "/projects/media/p-38-rama-krishna/p-38-rama-krishna-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "p11jaedi-greenpack",
-      "title": "P11Jaedi Greenpack",
-      "slug": "p11jaedi-greenpack",
-      "location": "Reliance Met Sec 4",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Industrial project at Reliance MET. Plot, scope, and imagery to be confirmed with project records.",
-      "shortDescription": "P11Jaedi Greenpack — Reliance MET.",
-      "image": "/projects/media/p11jaedi-greenpack/p11jaedi-greenpack-01.jpg",
-      "gallery": [
-        "/projects/media/p11jaedi-greenpack/p11jaedi-greenpack-01.jpg",
-        "/projects/media/p11jaedi-greenpack/p11jaedi-greenpack-02.jpg",
-        "/projects/media/p11jaedi-greenpack/p11jaedi-greenpack-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "py-india",
-      "title": "Priyanka (India) Pvt. Ltd.",
-      "slug": "py-india",
-      "location": "Reliance MET",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~10,733 sq m. PEB building. Scope: design consultancy. Location: Reliance MET, Jhajjar.",
-      "shortDescription": "Priyanka (India) — PEB, Reliance MET Jhajjar.",
-      "image": "/projects/media/py-india/py-india-01.jpg",
-      "gallery": [
-        "/projects/media/py-india/py-india-01.jpg",
-        "/projects/media/py-india/py-india-02.jpg",
-        "/projects/media/py-india/py-india-03.jpg",
-        "/projects/media/py-india/py-india-04.jpg",
-        "/projects/media/py-india/py-india-05.jpg",
-        "/projects/media/py-india/py-india-06.jpg",
-        "/projects/media/py-india/py-india-07.jpg",
-        "/projects/media/py-india/py-india-08.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "precious-electrochem",
-      "title": "Precious Electrochem",
-      "slug": "precious-electrochem",
-      "location": "Ghiloth, Rajasthan",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~13,124.54 sq m. PEB building. Scope: design consultancy. Location: Ghiloth, Rajasthan.",
-      "shortDescription": "Precious Electrochem — PEB, Ghiloth.",
-      "image": "/projects/media/precious-electrochem/precious-electrochem-01.jpg",
-      "gallery": [
-        "/projects/media/precious-electrochem/precious-electrochem-01.jpg",
-        "/projects/media/precious-electrochem/precious-electrochem-02.jpg",
-        "/projects/media/precious-electrochem/precious-electrochem-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "rahul-wire",
-      "title": "Rahul Wire",
-      "slug": "rahul-wire",
-      "location": "India",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Industrial project for Rahul Wire. Details to be provided from portfolio materials.",
-      "shortDescription": "Rahul Wire — industrial facility.",
-      "image": "/projects/media/rahul-wire/rahul-wire-01.jpg",
-      "gallery": [
-        "/projects/media/rahul-wire/rahul-wire-01.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "rang-mahal",
-      "title": "Rang Mahal",
-      "slug": "rang-mahal",
-      "location": "MET Reliance (Footwear Park)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~3 acre (~12,000 sq m). Covered ~8,000 sq m. Location: Reliance MET Park. Year: Feb 2022. Scope: design and project management (footwear park). IGBC Platinum rating per client records.",
-      "shortDescription": "Rang Mahal — footwear park, Reliance MET.",
-      "image": "/projects/media/rang-mahal/rang-mahal-01.jpg",
-      "gallery": [
-        "/projects/media/rang-mahal/rang-mahal-01.jpg",
-        "/projects/media/rang-mahal/rang-mahal-02.jpg",
-        "/projects/media/rang-mahal/rang-mahal-03.jpg",
-        "/projects/media/rang-mahal/rang-mahal-04.jpg",
-        "/projects/media/rang-mahal/rang-mahal-05.jpg",
-        "/projects/media/rang-mahal/rang-mahal-06.jpg",
-        "/projects/media/rang-mahal/rang-mahal-07.jpg",
-        "/projects/media/rang-mahal/rang-mahal-08.jpg",
-        "/projects/media/rang-mahal/rang-mahal-09.jpg",
-        "/projects/media/rang-mahal/rang-mahal-10.jpg",
-        "/projects/media/rang-mahal/rang-mahal-11.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "s-b-packaging",
-      "title": "S.B Packaging",
-      "slug": "s-b-packaging",
-      "location": "Sampla (Haryana)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~4.5 acre (~18,225 sq m). Existing building renovation: PEB + RCC. Location: Sampla, Haryana. Scope: interiors and project management consultancy.",
-      "shortDescription": "S.B. Packaging — renovation, Sampla.",
-      "image": "/projects/media/s-b-packaging/s-b-packaging-01.png",
-      "gallery": [
-        "/projects/media/s-b-packaging/s-b-packaging-01.png",
-        "/projects/media/s-b-packaging/s-b-packaging-02.png",
-        "/projects/media/s-b-packaging/s-b-packaging-03.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "sna",
-      "title": "SNA Prime Feed Pvt. Ltd.",
-      "slug": "sna",
-      "location": "India",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~1,755 sq m. PEB building. Scope: design consultancy. Location: Ghiloth, Rajasthan.",
-      "shortDescription": "SNA Prime Feed — PEB, Ghiloth.",
-      "image": "/projects/media/sna/sna-01.jpg",
-      "gallery": [
-        "/projects/media/sna/sna-01.jpg",
-        "/projects/media/sna/sna-02.jpg",
-        "/projects/media/sna/sna-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "scott-spares",
-      "title": "Scott Spares",
-      "slug": "scott-spares",
-      "location": "India",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot 2 acre (~8,000 sq m). PEB ~6,000 sq m. Location: Ghiloth Industrial Area, Rajasthan. Year: Jan 2022. Scope: design and supervision.",
-      "shortDescription": "Scott Spares & Automobile Parts — Ghiloth.",
-      "image": "/projects/media/scott-spares/scott-spares-01.jpg",
-      "gallery": [
-        "/projects/media/scott-spares/scott-spares-01.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "semicon",
-      "title": "Semicon",
-      "slug": "semicon",
-      "location": "Ghiloth Industrial Area(Rajasthan)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Semicon Specialty Gases Pvt. Ltd. — industrial and specialty gases business (same category as Helios). Plot 5 acre (~20,000 sq m). Phase 1 PEB ~2,500 sq m. Location: Ghiloth Industrial Area, Rajasthan. Scope: design and project management consultancy.",
-      "shortDescription": "Semicon specialty gases — Ghiloth.",
-      "image": "/projects/media/semicon/semicon-01.png",
-      "gallery": [
-        "/projects/media/semicon/semicon-01.png",
-        "/projects/media/semicon/semicon-02.jpg",
-        "/projects/media/semicon/semicon-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "supreme-filatech",
-      "title": "Supreme Filatech",
-      "slug": "supreme-filatech",
-      "location": "Ghiloth, Rajasthan",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~13,000 sq m. PEB building. Scope: design and project management. Location: Ghiloth, Rajasthan.",
-      "shortDescription": "Supreme Filatech — Ghiloth.",
-      "image": "/projects/media/supreme-filatech/supreme-filatech-01.jpg",
-      "gallery": [
-        "/projects/media/supreme-filatech/supreme-filatech-01.jpg",
-        "/projects/media/supreme-filatech/supreme-filatech-02.jpg",
-        "/projects/media/supreme-filatech/supreme-filatech-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "tecno-polychem",
-      "title": "Tecno polychem",
-      "slug": "tecno-polychem",
-      "location": "India",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~2,300 sq m. RCC + PEB building. Scope: design consultancy. Location: Reliance MET.",
-      "shortDescription": "Technopolychem — RCC + PEB, Reliance MET.",
-      "image": "/projects/media/tecno-polychem/tecno-polychem-01.png",
-      "gallery": [
-        "/projects/media/tecno-polychem/tecno-polychem-01.png",
-        "/projects/media/tecno-polychem/tecno-polychem-02.png",
-        "/projects/media/tecno-polychem/tecno-polychem-03.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "tegaman-safety",
-      "title": "Tegaman Safety",
-      "slug": "tegaman-safety",
-      "location": "Ghiloth Industrial Area(Rajasthan)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "American collaboration; safety glove manufacturing in Ghiloth industrial area. Plot ~2.81 acre (~11,395 sq m). Covered ~9,000 sq m PEB. Year: Dec 2020. Scope: design and supervision. Status: complete.",
-      "shortDescription": "Tegaman Safety — glove plant, Ghiloth.",
-      "image": "/projects/media/tegaman-safety/tegaman-safety-01.png",
-      "gallery": [
-        "/projects/media/tegaman-safety/tegaman-safety-01.png",
-        "/projects/media/tegaman-safety/tegaman-safety-02.jpg",
-        "/projects/media/tegaman-safety/tegaman-safety-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "tranc-ancr",
-      "title": "Tranc ancr",
-      "slug": "tranc-ancr",
-      "location": "Ghiloth",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~13 acre (~52,000 sq m); covered ~31,590 sq m (verify). Location: Ghiloth. Year: Aug 2022. Scope: design consultancy.",
-      "shortDescription": "Trans ACNR Solutions — Ghiloth.",
-      "image": "/projects/media/tranc-ancr/tranc-ancr-01.png",
-      "gallery": [
-        "/projects/media/tranc-ancr/tranc-ancr-01.png",
-        "/projects/media/tranc-ancr/tranc-ancr-02.png",
-        "/projects/media/tranc-ancr/tranc-ancr-03.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "tusker",
-      "title": "Tusker",
-      "slug": "tusker",
-      "location": "Mahindra world city, Jaipur",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~10,000 sq m. PEB building. Scope: design and project management. Location: Mahindra World City, Jaipur, Rajasthan.",
-      "shortDescription": "Tusker Tech Auto — Mahindra World City, Jaipur.",
-      "image": "/projects/media/tusker/tusker-01.png",
-      "gallery": [
-        "/projects/media/tusker/tusker-01.png",
-        "/projects/media/tusker/tusker-02.jpg",
-        "/projects/media/tusker/tusker-03.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "ultima-mesha",
-      "title": "Ultima Mesha",
-      "slug": "ultima-mesha",
-      "location": "Neemrana",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~4,000 sq m. PEB building. Scope: design consultancy. Location: Neemrana. Year: Feb 2022.",
-      "shortDescription": "Ultima Mesha — PEB, Neemrana.",
-      "image": "/projects/media/ultima-mesha/ultima-mesha-01.png",
-      "gallery": [
-        "/projects/media/ultima-mesha/ultima-mesha-01.png",
-        "/projects/media/ultima-mesha/ultima-mesha-02.png",
-        "/projects/media/ultima-mesha/ultima-mesha-03.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "unipex",
-      "title": "Unipex",
-      "slug": "unipex",
-      "location": "Reliance MET",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~8,000 sq m. RCC building. Scope: design and project management. Location: Reliance MET.",
-      "shortDescription": "Unipex — RCC, Reliance MET.",
-      "image": "/projects/media/unipex/unipex-01.jpg",
-      "gallery": [
-        "/projects/media/unipex/unipex-01.jpg",
-        "/projects/media/unipex/unipex-02.jpg",
-        "/projects/media/unipex/unipex-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "unique-bimetal",
-      "title": "Unique Bimetal",
-      "slug": "unique-bimetal",
-      "location": "Ghiloth",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~4,000 sq m. PEB building. Scope: design consultancy. Location: Ghiloth. Year: Apr 2022.",
-      "shortDescription": "Unique Bimetals — PEB, Ghiloth.",
-      "image": "/projects/media/unique-bimetal/unique-bimetal-01.jpg",
-      "gallery": [
-        "/projects/media/unique-bimetal/unique-bimetal-01.jpg",
-        "/projects/media/unique-bimetal/unique-bimetal-02.png",
-        "/projects/media/unique-bimetal/unique-bimetal-03.jpg",
-        "/projects/media/unique-bimetal/unique-bimetal-04.png",
-        "/projects/media/unique-bimetal/unique-bimetal-05.jpg",
-        "/projects/media/unique-bimetal/unique-bimetal-06.png"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "urban-grove",
-      "title": "Urban Grove",
-      "slug": "urban-grove",
-      "location": "BHIWADI Karoli, Industrial",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Plot ~14,110 sq m. Industrial PEB + RCC. Scope: design and PMC. Location: Bhiwadi–Karoli area, Rajasthan.",
-      "shortDescription": "Urban Grooves — PEB + RCC, Bhiwadi–Karoli.",
-      "image": "/projects/media/urban-grove/urban-grove-01.jpg",
-      "gallery": [
-        "/projects/media/urban-grove/urban-grove-01.jpg",
-        "/projects/media/urban-grove/urban-grove-02.jpg",
-        "/projects/media/urban-grove/urban-grove-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
-      "stats": {
-        "type": "Industrial"
-      }
-    },
-    {
-      "id": "senrom",
-      "title": "senrom",
-      "slug": "senrom",
-      "location": "Ghiloth Industrial Area(Rajasthan)",
-      "year": 2026,
-      "category": "Industrial Project",
-      "industry": "Manufacturing",
-      "description": "Industrial project by Adroit Grow. Description to be updated when final client copy is available.",
-      "shortDescription": "Senrom — industrial project.",
-      "image": "/projects/media/senrom/senrom-01.jpg",
-      "gallery": [
-        "/projects/media/senrom/senrom-01.jpg",
-        "/projects/media/senrom/senrom-02.jpg",
-        "/projects/media/senrom/senrom-03.jpg"
-      ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
-      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
       "stats": {
         "type": "Industrial"
       }
@@ -1149,7 +180,6 @@
       "shortDescription": "Olympus — medical equipment sector project.",
       "image": "/projects/media/olympus/olympus-01.jpg",
       "gallery": [
-        "/projects/media/olympus/olympus-01.jpg",
         "/projects/media/olympus/olympus-02.jpg",
         "/projects/media/olympus/olympus-03.jpg",
         "/projects/media/olympus/olympus-04.jpg",
@@ -1180,10 +210,798 @@
         "/projects/media/olympus/olympus-29.jpg",
         "/projects/media/olympus/olympus-30.jpg"
       ],
-      "scope": [
-        "Design & Project Management",
-        "Industrial building design"
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "d-h-lighting",
+      "title": "D H Lighting India",
+      "slug": "d-h-lighting",
+      "location": "Kolila Joga (Neemrana)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~3,900 sq m. PEB building. Scope: design and project management. Location: Kolila Joga, Neemrana.",
+      "shortDescription": "DH Lighting — PEB, Kolila Joga (Neemrana).",
+      "image": "/projects/media/d-h-lighting/d-h-lighting-01.jpg",
+      "gallery": [
+        "/projects/media/d-h-lighting/d-h-lighting-02.jpg",
+        "/projects/media/d-h-lighting/d-h-lighting-03.jpg",
+        "/projects/media/d-h-lighting/d-h-lighting-04.jpg",
+        "/projects/media/d-h-lighting/d-h-lighting-05.jpg",
+        "/projects/media/d-h-lighting/d-h-lighting-06.jpg"
       ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "ashirvad",
+      "title": "Ashirvad pipe",
+      "slug": "ashirvad",
+      "location": "Khushkhera,Rajasthan",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~54,205 sq m. PEB building. Scope: design consultancy. Location: Khushkhera, Rajasthan. (Raster photos pending — PDF renders on file.)",
+      "shortDescription": "Ashirvad Pipes — large-format PEB, Khushkhera.",
+      "image": "/projects/media/ashirvad/ashirvad-01.jpg",
+      "gallery": [
+        "/projects/media/ashirvad/ashirvad-02.jpg",
+        "/projects/media/ashirvad/ashirvad-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "polyplastic",
+      "title": "Polyplastic",
+      "slug": "polyplastic",
+      "location": "kharkhoda",
+      "year": 2025,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~12,140 sq m. PEB building. Scope: design and project management. Location: Kharkhoda.",
+      "shortDescription": "Polyplastic India — PEB, Kharkhoda.",
+      "image": "/projects/media/polyplastic/polyplastic-01.jpg",
+      "gallery": [
+        "/projects/media/polyplastic/polyplastic-02.jpg",
+        "/projects/media/polyplastic/polyplastic-03.jpg",
+        "/projects/media/polyplastic/polyplastic-04.jpg",
+        "/projects/media/polyplastic/polyplastic-05.jpg",
+        "/projects/media/polyplastic/polyplastic-06.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "ajay-air-product",
+      "title": "Ajay Air Product",
+      "slug": "ajay-air-product",
+      "location": "IMT Faridabad( Haryana)",
+      "year": 2020,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Industrial and specialty gas importer, manufacturer, and distributor in India (pure and rare gases, calibration standards, specialty gases, hydrocarbons, bulk cryogenics, cylinders, regulators, equipment). Plot / built-up ~1,800–2,160 sq m PEB (verify). Project cost ~2.5 Cr (verify). Year: 2020. Location: IMT Faridabad, Haryana.",
+      "shortDescription": "Ajay Air Products — specialty gases, IMT Faridabad.",
+      "image": "/projects/media/ajay-air-product/ajay-air-product-01.jpg",
+      "gallery": [
+        "/projects/media/ajay-air-product/ajay-air-product-02.jpg",
+        "/projects/media/ajay-air-product/ajay-air-product-03.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "appex-ghiloth",
+      "title": "Appex",
+      "slug": "appex-ghiloth",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~4,130 sq m. PEB building. Scope: design and build. Location: Ghiloth, Rajasthan.",
+      "shortDescription": "Appex — design & build, Ghiloth.",
+      "image": "/projects/media/appex-ghiloth/appex-ghiloth-01.jpg",
+      "gallery": [
+        "/projects/media/appex-ghiloth/appex-ghiloth-02.jpg",
+        "/projects/media/appex-ghiloth/appex-ghiloth-03.jpg",
+        "/projects/media/appex-ghiloth/appex-ghiloth-04.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "atek",
+      "title": "Ample Auto Tech Pvt. Ltd.",
+      "slug": "atek",
+      "location": "IMT(Manesar)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~4,050 sq m. Covered ~68,000 sq ft RCC. Client: Ample Auto Tech Pvt. Ltd. Scope: architectural and engineering design.",
+      "shortDescription": "Ample Auto Tech — architectural & engineering design.",
+      "image": "/projects/media/atek/atek-01.jpg",
+      "gallery": [
+        "/projects/media/atek/atek-02.jpg",
+        "/projects/media/atek/atek-03.jpg",
+        "/projects/media/atek/atek-04.jpg",
+        "/projects/media/atek/atek-05.jpg",
+        "/projects/media/atek/atek-06.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "b-l-international",
+      "title": "B.L International",
+      "slug": "b-l-international",
+      "location": "Bawal, Haryana",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Industrial project at Bawal, Haryana. Details to be aligned with client records.",
+      "shortDescription": "B.L. International — Bawal.",
+      "image": "/images/hero/projects-hero.jpg",
+      "gallery": [],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "bharat-polyzone",
+      "title": "Bharat Polyzone",
+      "slug": "bharat-polyzone",
+      "location": "Malha Majara (Sonipat)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~4,073 sq m. PEB building. Scope: design consultancy. Location: Malha Majara (Sonipat).",
+      "shortDescription": "Bharat Polyzone — PEB, Malha Majara.",
+      "image": "/projects/media/bharat-polyzone/bharat-polyzone-01.jpg",
+      "gallery": [
+        "/projects/media/bharat-polyzone/bharat-polyzone-02.jpg",
+        "/projects/media/bharat-polyzone/bharat-polyzone-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "e515-peptech-bioscience-limited",
+      "title": "E515 Peptech bioscience limited",
+      "slug": "e515-peptech-bioscience-limited",
+      "location": "BHIWADI, Industrial",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "E515 Peptech Bioscience Limited — industrial project in Bhiwadi. Scope and plot details to be confirmed with as-built records.",
+      "shortDescription": "E515 Peptech Bioscience — Bhiwadi.",
+      "image": "/projects/media/e515-peptech-bioscience-limited/e515-peptech-bioscience-limited-01.jpg",
+      "gallery": [
+        "/projects/media/e515-peptech-bioscience-limited/e515-peptech-bioscience-limited-02.jpg",
+        "/projects/media/e515-peptech-bioscience-limited/e515-peptech-bioscience-limited-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "egro-space-p32",
+      "title": "Tirupati Workspace",
+      "slug": "egro-space-p32",
+      "location": "MET Reliance",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~4,000 sq m. PEB building. Scope: design and project management. Location: Reliance MET, Sector 7A.",
+      "shortDescription": "Tirupati Workspace — Reliance MET Sector 7A.",
+      "image": "/projects/media/egro-space-p32/egro-space-p32-01.jpg",
+      "gallery": [
+        "/projects/media/egro-space-p32/egro-space-p32-02.jpg",
+        "/projects/media/egro-space-p32/egro-space-p32-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "grinid-tech",
+      "title": "Grinid Tech",
+      "slug": "grinid-tech",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot 2 acre (~8,000 sq m). PEB ~6,000 sq m. Location: Ghiloth Industrial Area, Rajasthan. Year: Jan 2022. Scope: design and supervision.",
+      "shortDescription": "Grinid Tech Engineering — Ghiloth.",
+      "image": "/projects/media/grinid-tech/grinid-tech-01.png",
+      "gallery": [
+        "/projects/media/grinid-tech/grinid-tech-02.jpg",
+        "/projects/media/grinid-tech/grinid-tech-03.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "helious-hyderabad",
+      "title": "Helios Specialty Gases — Hyderabad",
+      "slug": "helious-hyderabad",
+      "location": "Hyderabad",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Green industrial park, Jadcherla, Telangana. Plot ~6,176 sq m. PEB building. Scope: design consultancy.",
+      "shortDescription": "Helios — green industrial park, Jadcherla, Telangana.",
+      "image": "/projects/media/helious-hyderabad/helious-hyderabad-01.jpg",
+      "gallery": [
+        "/projects/media/helious-hyderabad/helious-hyderabad-02.jpg",
+        "/projects/media/helious-hyderabad/helious-hyderabad-03.jpg",
+        "/projects/media/helious-hyderabad/helious-hyderabad-04.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "helious-specilities-gases-ghiloth",
+      "title": "Helios Specialty Gases — Ghiloth",
+      "slug": "helious-specilities-gases-ghiloth",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Helios Specialty Gases Pvt. Ltd. is an industrial and specialty gases importer, manufacturer, and distributor in India, covering pure gases, rare gases, helium, calibration standards, specialty gases, hydrocarbons, cylinders, regulators, and handling equipment from global suppliers. Plot 5 acre (~20,000 sq m). Phase 1 PEB ~6,000 sq m. Location: Ghiloth Industrial Area, Rajasthan. Scope: design and project management consultancy. Status: complete.",
+      "shortDescription": "Helios specialty gases — Ghiloth, Rajasthan.",
+      "image": "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-01.jpg",
+      "gallery": [
+        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-02.jpg",
+        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-03.jpg",
+        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-04.jpg",
+        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-05.jpg",
+        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-06.jpg",
+        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-07.jpg",
+        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-08.jpg",
+        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-09.jpg",
+        "/projects/media/helious-specilities-gases-ghiloth/helious-specilities-gases-ghiloth-10.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "inox",
+      "title": "INOX",
+      "slug": "inox",
+      "location": "I.M.T, Kharkhoda/Haryana",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Industrial project at IMT Kharkhoda, Haryana. Narrative and imagery to be updated from client sign-off.",
+      "shortDescription": "INOX — IMT Kharkhoda.",
+      "image": "/projects/media/inox/inox-01.jpg",
+      "gallery": [
+        "/projects/media/inox/inox-02.jpg",
+        "/projects/media/inox/inox-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "jmd",
+      "title": "JMD",
+      "slug": "jmd",
+      "location": "MET Reliance (Jhajjar)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~1 acre (~4,000 sq m). Covered ~3,000 sq m. Location: Reliance MET, Jhajjar. Year: Feb 2023. Scope: design and project management.",
+      "shortDescription": "JMD Dynamic — Reliance MET, Jhajjar.",
+      "image": "/projects/media/jmd/jmd-01.png",
+      "gallery": [
+        "/projects/media/jmd/jmd-02.png",
+        "/projects/media/jmd/jmd-03.jpg",
+        "/projects/media/jmd/jmd-04.jpg",
+        "/projects/media/jmd/jmd-05.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "jackson-and-company",
+      "title": "Jackson & Company",
+      "slug": "jackson-and-company",
+      "location": "Karoli Industrial",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~17 acre. PEB covered ~68,000 sq m (scope ~32,000 sq m noted). Location: Karoli Industrial Area, Rajasthan. Scope: project management.",
+      "shortDescription": "Jakson & Company — Karoli industrial area.",
+      "image": "/projects/media/jackson-and-company/jackson-and-company-01.jpg",
+      "gallery": [
+        "/projects/media/jackson-and-company/jackson-and-company-02.jpg",
+        "/projects/media/jackson-and-company/jackson-and-company-03.jpg",
+        "/projects/media/jackson-and-company/jackson-and-company-04.jpg",
+        "/projects/media/jackson-and-company/jackson-and-company-05.jpg",
+        "/projects/media/jackson-and-company/jackson-and-company-06.jpg",
+        "/projects/media/jackson-and-company/jackson-and-company-07.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "kapriwas-warehouse",
+      "title": "Kapriwas Warehouse",
+      "slug": "kapriwas-warehouse",
+      "location": "Dharuhera",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~11,000 sq m. PEB building. Scope: design consultancy. Location: NH-8, Dharuhera.",
+      "shortDescription": "Kapriwas Warehouse — PEB, NH-8 Dharuhera.",
+      "image": "/projects/media/kapriwas-warehouse/kapriwas-warehouse-01.png",
+      "gallery": [
+        "/projects/media/kapriwas-warehouse/kapriwas-warehouse-02.jpg",
+        "/projects/media/kapriwas-warehouse/kapriwas-warehouse-03.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "los-angeles",
+      "title": "Los angeles",
+      "slug": "los-angeles",
+      "location": "I.M.T, Bawal/Haryana",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~22,222 sq m. PEB building. Scope: design. Location: IMT, Bawal, Haryana.",
+      "shortDescription": "Los Angeles food processing — IMT Bawal.",
+      "image": "/projects/media/los-angeles/los-angeles-01.jpg",
+      "gallery": [
+        "/projects/media/los-angeles/los-angeles-02.jpg",
+        "/projects/media/los-angeles/los-angeles-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "p-38-rama-krishna",
+      "title": "P 38 Rama krishna",
+      "slug": "p-38-rama-krishna",
+      "location": "MET Reliance",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~1,000 sq m. PEB building. Scope: design and project management. Location: Reliance MET.",
+      "shortDescription": "Ramakrishna Venkatesh (P38) — Reliance MET.",
+      "image": "/projects/media/p-38-rama-krishna/p-38-rama-krishna-01.jpg",
+      "gallery": [
+        "/projects/media/p-38-rama-krishna/p-38-rama-krishna-02.jpg",
+        "/projects/media/p-38-rama-krishna/p-38-rama-krishna-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "p11jaedi-greenpack",
+      "title": "P11Jaedi Greenpack",
+      "slug": "p11jaedi-greenpack",
+      "location": "Reliance Met Sec 4",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Industrial project at Reliance MET. Plot, scope, and imagery to be confirmed with project records.",
+      "shortDescription": "P11Jaedi Greenpack — Reliance MET.",
+      "image": "/projects/media/p11jaedi-greenpack/p11jaedi-greenpack-01.jpg",
+      "gallery": [
+        "/projects/media/p11jaedi-greenpack/p11jaedi-greenpack-02.jpg",
+        "/projects/media/p11jaedi-greenpack/p11jaedi-greenpack-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "py-india",
+      "title": "Priyanka (India) Pvt. Ltd.",
+      "slug": "py-india",
+      "location": "Reliance MET",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~10,733 sq m. PEB building. Scope: design consultancy. Location: Reliance MET, Jhajjar.",
+      "shortDescription": "Priyanka (India) — PEB, Reliance MET Jhajjar.",
+      "image": "/projects/media/py-india/py-india-01.jpg",
+      "gallery": [
+        "/projects/media/py-india/py-india-02.jpg",
+        "/projects/media/py-india/py-india-03.jpg",
+        "/projects/media/py-india/py-india-04.jpg",
+        "/projects/media/py-india/py-india-05.jpg",
+        "/projects/media/py-india/py-india-06.jpg",
+        "/projects/media/py-india/py-india-07.jpg",
+        "/projects/media/py-india/py-india-08.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "precious-electrochem",
+      "title": "Precious Electrochem",
+      "slug": "precious-electrochem",
+      "location": "Ghiloth, Rajasthan",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~13,124.54 sq m. PEB building. Scope: design consultancy. Location: Ghiloth, Rajasthan.",
+      "shortDescription": "Precious Electrochem — PEB, Ghiloth.",
+      "image": "/projects/media/precious-electrochem/precious-electrochem-01.jpg",
+      "gallery": [
+        "/projects/media/precious-electrochem/precious-electrochem-02.jpg",
+        "/projects/media/precious-electrochem/precious-electrochem-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "rahul-wire",
+      "title": "Rahul Wire",
+      "slug": "rahul-wire",
+      "location": "India",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Industrial project for Rahul Wire. Details to be provided from portfolio materials.",
+      "shortDescription": "Rahul Wire — industrial facility.",
+      "image": "/images/hero/projects-hero.jpg",
+      "gallery": [],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "rang-mahal",
+      "title": "Rang Mahal",
+      "slug": "rang-mahal",
+      "location": "MET Reliance (Footwear Park)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~3 acre (~12,000 sq m). Covered ~8,000 sq m. Location: Reliance MET Park. Year: Feb 2022. Scope: design and project management (footwear park). IGBC Platinum rating per client records.",
+      "shortDescription": "Rang Mahal — footwear park, Reliance MET.",
+      "image": "/projects/media/rang-mahal/rang-mahal-01.jpg",
+      "gallery": [
+        "/projects/media/rang-mahal/rang-mahal-02.jpg",
+        "/projects/media/rang-mahal/rang-mahal-03.jpg",
+        "/projects/media/rang-mahal/rang-mahal-04.jpg",
+        "/projects/media/rang-mahal/rang-mahal-05.jpg",
+        "/projects/media/rang-mahal/rang-mahal-06.jpg",
+        "/projects/media/rang-mahal/rang-mahal-07.jpg",
+        "/projects/media/rang-mahal/rang-mahal-08.jpg",
+        "/projects/media/rang-mahal/rang-mahal-09.jpg",
+        "/projects/media/rang-mahal/rang-mahal-10.jpg",
+        "/projects/media/rang-mahal/rang-mahal-11.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "s-b-packaging",
+      "title": "S.B Packaging",
+      "slug": "s-b-packaging",
+      "location": "Sampla (Haryana)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~4.5 acre (~18,225 sq m). Existing building renovation: PEB + RCC. Location: Sampla, Haryana. Scope: interiors and project management consultancy.",
+      "shortDescription": "S.B. Packaging — renovation, Sampla.",
+      "image": "/projects/media/s-b-packaging/s-b-packaging-01.png",
+      "gallery": [
+        "/projects/media/s-b-packaging/s-b-packaging-02.png",
+        "/projects/media/s-b-packaging/s-b-packaging-03.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "sna",
+      "title": "SNA Prime Feed Pvt. Ltd.",
+      "slug": "sna",
+      "location": "India",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~1,755 sq m. PEB building. Scope: design consultancy. Location: Ghiloth, Rajasthan.",
+      "shortDescription": "SNA Prime Feed — PEB, Ghiloth.",
+      "image": "/projects/media/sna/sna-01.jpg",
+      "gallery": [
+        "/projects/media/sna/sna-02.jpg",
+        "/projects/media/sna/sna-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "scott-spares",
+      "title": "Scott Spares",
+      "slug": "scott-spares",
+      "location": "India",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot 2 acre (~8,000 sq m). PEB ~6,000 sq m. Location: Ghiloth Industrial Area, Rajasthan. Year: Jan 2022. Scope: design and supervision.",
+      "shortDescription": "Scott Spares & Automobile Parts — Ghiloth.",
+      "image": "/images/hero/projects-hero.jpg",
+      "gallery": [],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "semicon",
+      "title": "Semicon",
+      "slug": "semicon",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Semicon Specialty Gases Pvt. Ltd. — industrial and specialty gases business (same category as Helios). Plot 5 acre (~20,000 sq m). Phase 1 PEB ~2,500 sq m. Location: Ghiloth Industrial Area, Rajasthan. Scope: design and project management consultancy.",
+      "shortDescription": "Semicon specialty gases — Ghiloth.",
+      "image": "/projects/media/semicon/semicon-01.png",
+      "gallery": [
+        "/projects/media/semicon/semicon-02.jpg",
+        "/projects/media/semicon/semicon-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "supreme-filatech",
+      "title": "Supreme Filatech",
+      "slug": "supreme-filatech",
+      "location": "Ghiloth, Rajasthan",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~13,000 sq m. PEB building. Scope: design and project management. Location: Ghiloth, Rajasthan.",
+      "shortDescription": "Supreme Filatech — Ghiloth.",
+      "image": "/projects/media/supreme-filatech/supreme-filatech-01.jpg",
+      "gallery": [
+        "/projects/media/supreme-filatech/supreme-filatech-02.jpg",
+        "/projects/media/supreme-filatech/supreme-filatech-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "tecno-polychem",
+      "title": "Tecno polychem",
+      "slug": "tecno-polychem",
+      "location": "India",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~2,300 sq m. RCC + PEB building. Scope: design consultancy. Location: Reliance MET.",
+      "shortDescription": "Technopolychem — RCC + PEB, Reliance MET.",
+      "image": "/projects/media/tecno-polychem/tecno-polychem-01.png",
+      "gallery": [
+        "/projects/media/tecno-polychem/tecno-polychem-02.png",
+        "/projects/media/tecno-polychem/tecno-polychem-03.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "tegaman-safety",
+      "title": "Tegaman Safety",
+      "slug": "tegaman-safety",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "American collaboration; safety glove manufacturing in Ghiloth industrial area. Plot ~2.81 acre (~11,395 sq m). Covered ~9,000 sq m PEB. Year: Dec 2020. Scope: design and supervision. Status: complete.",
+      "shortDescription": "Tegaman Safety — glove plant, Ghiloth.",
+      "image": "/projects/media/tegaman-safety/tegaman-safety-01.png",
+      "gallery": [
+        "/projects/media/tegaman-safety/tegaman-safety-02.jpg",
+        "/projects/media/tegaman-safety/tegaman-safety-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "tranc-ancr",
+      "title": "Tranc ancr",
+      "slug": "tranc-ancr",
+      "location": "Ghiloth",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~13 acre (~52,000 sq m); covered ~31,590 sq m (verify). Location: Ghiloth. Year: Aug 2022. Scope: design consultancy.",
+      "shortDescription": "Trans ACNR Solutions — Ghiloth.",
+      "image": "/projects/media/tranc-ancr/tranc-ancr-01.png",
+      "gallery": [
+        "/projects/media/tranc-ancr/tranc-ancr-02.png",
+        "/projects/media/tranc-ancr/tranc-ancr-03.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "tusker",
+      "title": "Tusker",
+      "slug": "tusker",
+      "location": "Mahindra world city, Jaipur",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~10,000 sq m. PEB building. Scope: design and project management. Location: Mahindra World City, Jaipur, Rajasthan.",
+      "shortDescription": "Tusker Tech Auto — Mahindra World City, Jaipur.",
+      "image": "/projects/media/tusker/tusker-01.png",
+      "gallery": [
+        "/projects/media/tusker/tusker-02.jpg",
+        "/projects/media/tusker/tusker-03.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "ultima-mesha",
+      "title": "Ultima Mesha",
+      "slug": "ultima-mesha",
+      "location": "Neemrana",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~4,000 sq m. PEB building. Scope: design consultancy. Location: Neemrana. Year: Feb 2022.",
+      "shortDescription": "Ultima Mesha — PEB, Neemrana.",
+      "image": "/projects/media/ultima-mesha/ultima-mesha-01.png",
+      "gallery": [
+        "/projects/media/ultima-mesha/ultima-mesha-02.png",
+        "/projects/media/ultima-mesha/ultima-mesha-03.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "unipex",
+      "title": "Unipex",
+      "slug": "unipex",
+      "location": "Reliance MET",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~8,000 sq m. RCC building. Scope: design and project management. Location: Reliance MET.",
+      "shortDescription": "Unipex — RCC, Reliance MET.",
+      "image": "/projects/media/bharat-polyzone/bharat-polyzone-01.jpg",
+      "gallery": [
+        "/projects/media/bharat-polyzone/bharat-polyzone-02.jpg",
+        "/projects/media/bharat-polyzone/bharat-polyzone-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "unique-bimetal",
+      "title": "Unique Bimetal",
+      "slug": "unique-bimetal",
+      "location": "Ghiloth",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~4,000 sq m. PEB building. Scope: design consultancy. Location: Ghiloth. Year: Apr 2022.",
+      "shortDescription": "Unique Bimetals — PEB, Ghiloth.",
+      "image": "/projects/media/unique-bimetal/unique-bimetal-01.jpg",
+      "gallery": [
+        "/projects/media/unique-bimetal/unique-bimetal-02.png",
+        "/projects/media/unique-bimetal/unique-bimetal-03.jpg",
+        "/projects/media/unique-bimetal/unique-bimetal-04.png",
+        "/projects/media/unique-bimetal/unique-bimetal-05.jpg",
+        "/projects/media/unique-bimetal/unique-bimetal-06.png"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "urban-grove",
+      "title": "Urban Grove",
+      "slug": "urban-grove",
+      "location": "BHIWADI Karoli, Industrial",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Plot ~14,110 sq m. Industrial PEB + RCC. Scope: design and PMC. Location: Bhiwadi–Karoli area, Rajasthan.",
+      "shortDescription": "Urban Grooves — PEB + RCC, Bhiwadi–Karoli.",
+      "image": "/projects/media/urban-grove/urban-grove-01.jpg",
+      "gallery": [
+        "/projects/media/urban-grove/urban-grove-02.jpg",
+        "/projects/media/urban-grove/urban-grove-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
+      "stats": {
+        "type": "Industrial"
+      }
+    },
+    {
+      "id": "senrom",
+      "title": "senrom",
+      "slug": "senrom",
+      "location": "Ghiloth Industrial Area(Rajasthan)",
+      "year": 2026,
+      "category": "Industrial Project",
+      "industry": "Manufacturing",
+      "description": "Industrial project by Adroit Grow. Description to be updated when final client copy is available.",
+      "shortDescription": "Senrom — industrial project.",
+      "image": "/projects/media/senrom/senrom-01.jpg",
+      "gallery": [
+        "/projects/media/senrom/senrom-02.jpg",
+        "/projects/media/senrom/senrom-03.jpg"
+      ],
+      "scope": ["Design & Project Management", "Industrial building design"],
       "stats": {
         "type": "Industrial"
       }

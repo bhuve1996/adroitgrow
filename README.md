@@ -90,7 +90,8 @@ Update JSON files to change page content without touching code:
 - `home.json` - Homepage sections
 - `about.json` - About page content
 - `services.json` - Service offerings
-- `projects/data.json` - Project portfolio (see `src/content/projects/README.txt`)
+- `projects/data.json` - Project portfolio (see
+  `src/content/projects/README.txt`)
 - `contact.json` - Contact information
 - `careers.json` - Job listings
 
